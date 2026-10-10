@@ -1,0 +1,13 @@
+Segmento,Alcance,Low t/día,Base t/día,High sincronizado t/día,Ventana high (inicio de semanas),C3a en la misma ventana t/día,Envolvente histórica no sincronizada t/día
+Contenedor,C1-only (puertos de la costa este de EAU),22417.878,28420.475,34673.69,2026-07-06 a 2026-07-27,0.0,34673.69
+Contenedor,Regional envelope C1+C2a+C2b,29109.644,39898.797,69862.19,2026-07-13 a 2026-08-03,0.0,76272.426
+Contenedor,"C3a solo (sensibilidad separada, confiabilidad baja)",0.0,0.0,,,,24107.876
+Contenedor,Sensibilidad C1 total (base + incremento),23518.724,29521.321,35774.536,,,
+Granel seco,C1-only (puertos de la costa este de EAU),18434.021,26708.192,36586.728,2026-07-20 a 2026-08-10,0.0,36586.728
+Granel seco,Regional envelope C1+C2a+C2b,18434.021,36744.229,51469.533,2026-07-20 a 2026-08-10,0.0,60354.602
+Granel seco,"C3a solo (sensibilidad separada, confiabilidad baja)",0.0,0.0,,,,16069.118
+Granel seco,Sensibilidad C1 total (base + incremento),21924.079,30198.25,40076.786,,,
+Carga general + RoRo,C1-only (puertos de la costa este de EAU),1077.043,1408.386,2732.94,2026-04-13 a 2026-05-04,1764.582,2732.94
+Carga general + RoRo,Regional envelope C1+C2a+C2b,2102.857,3268.275,4229.596,2026-08-24 a 2026-09-14,0.0,6534.857
+Carga general + RoRo,"C3a solo (sensibilidad separada, confiabilidad baja)",512.401,0.0,,,,2783.19
+Carga general + RoRo,Sensibilidad C1 total (base + incremento),1202.532,1533.875,2858.429,,,

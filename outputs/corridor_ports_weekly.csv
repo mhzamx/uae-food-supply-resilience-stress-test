@@ -1,0 +1,1366 @@
+portid,week,import_container,import_dry_bulk,import_general_cargo,import_roro,import_tanker,portcalls_cargo,portcalls_tanker,port,corridor,import_dry_cargo
+port2031,2022-12-26,12086,0,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),12086
+port2031,2023-01-02,64439,41206,0,0,0,14,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),105645
+port2031,2023-01-09,76232,25713,5443,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),107388
+port2031,2023-01-16,202521,54980,0,0,0,21,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),257501
+port2031,2023-01-23,74589,0,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),74589
+port2031,2023-01-30,100431,31864,0,0,0,22,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),132295
+port2031,2023-02-06,117268,44176,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),161444
+port2031,2023-02-13,64231,0,0,0,0,17,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),64231
+port2031,2023-02-20,129453,4832,0,0,0,17,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),134285
+port2031,2023-02-27,90390,0,0,0,0,20,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),90390
+port2031,2023-03-06,87626,0,0,0,0,14,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),87626
+port2031,2023-03-13,74148,107191,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),181339
+port2031,2023-03-20,99263,0,434,0,0,19,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),99697
+port2031,2023-03-27,127623,0,0,0,0,23,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),127623
+port2031,2023-04-03,91133,39342,0,0,0,19,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),130475
+port2031,2023-04-10,147827,0,0,0,0,24,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),147827
+port2031,2023-04-17,58416,0,0,0,0,19,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),58416
+port2031,2023-04-24,119160,22115,0,0,0,23,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),141275
+port2031,2023-05-01,161202,35844,0,0,0,21,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),197046
+port2031,2023-05-08,150272,0,0,0,0,19,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),150272
+port2031,2023-05-15,139279,0,0,0,0,23,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),139279
+port2031,2023-05-22,108413,20684,2036,0,0,20,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),131133
+port2031,2023-05-29,145926,0,0,0,0,23,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),145926
+port2031,2023-06-05,90967,28343,0,0,0,21,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),119310
+port2031,2023-06-12,98946,40031,0,0,0,15,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),138977
+port2031,2023-06-19,213675,54513,0,0,0,24,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),268188
+port2031,2023-06-26,110348,0,0,0,0,21,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),110348
+port2031,2023-07-03,104344,0,0,0,0,20,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),104344
+port2031,2023-07-10,99614,0,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),99614
+port2031,2023-07-17,149109,0,861,0,0,24,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),149970
+port2031,2023-07-24,71437,0,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),71437
+port2031,2023-07-31,85576,0,0,0,500,19,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),85576
+port2031,2023-08-07,172959,41769,0,0,0,25,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),214728
+port2031,2023-08-14,105574,0,0,0,1167,19,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),105574
+port2031,2023-08-21,98781,1985,0,0,1172,22,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),100766
+port2031,2023-08-28,42756,36271,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),79027
+port2031,2023-09-04,132224,0,2036,0,1839,20,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),134260
+port2031,2023-09-11,85076,183319,420,0,1923,22,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),268815
+port2031,2023-09-18,115674,16205,0,0,0,20,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),131879
+port2031,2023-09-25,140557,0,0,0,985,18,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),140557
+port2031,2023-10-02,86195,1087,0,0,0,20,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),87282
+port2031,2023-10-09,146632,121521,0,0,1839,21,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),268153
+port2031,2023-10-16,70710,0,2489,0,3844,21,2,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),73199
+port2031,2023-10-23,64158,31856,0,0,0,14,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),96014
+port2031,2023-10-30,125539,0,0,0,5802,21,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),125539
+port2031,2023-11-06,122703,62414,0,0,1923,22,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),185117
+port2031,2023-11-13,99911,43524,0,0,3762,18,2,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),143435
+port2031,2023-11-20,73808,66419,3205,0,979,18,2,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),143432
+port2031,2023-11-27,145576,0,0,0,7899,22,2,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),145576
+port2031,2023-12-04,40419,0,0,0,335,10,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),40419
+port2031,2023-12-11,83646,81587,0,0,167,16,2,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),165233
+port2031,2023-12-18,88225,0,0,0,7899,11,2,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),88225
+port2031,2023-12-25,39897,0,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),39897
+port2031,2024-01-01,36416,63818,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),100234
+port2031,2024-01-08,6317,0,0,0,1802,6,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),6317
+port2031,2024-01-15,13675,0,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),13675
+port2031,2024-01-22,9205,0,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),9205
+port2031,2024-01-29,31449,18206,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),49655
+port2031,2024-02-05,13442,0,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),13442
+port2031,2024-02-12,41677,75153,0,2293,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),119123
+port2031,2024-02-19,52644,0,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),52644
+port2031,2024-02-26,0,60533,1991,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),62524
+port2031,2024-03-04,38175,25713,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),63888
+port2031,2024-03-11,6317,0,0,0,0,1,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),6317
+port2031,2024-03-18,64042,36229,2036,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),102307
+port2031,2024-03-25,71871,142611,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),214482
+port2031,2024-04-01,13825,132202,2536,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),148563
+port2031,2024-04-08,24463,66239,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),90702
+port2031,2024-04-15,13360,61837,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),75197
+port2031,2024-04-22,37744,47291,2036,0,4297,6,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),87071
+port2031,2024-04-29,18901,130737,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),149638
+port2031,2024-05-06,9694,66756,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),76450
+port2031,2024-05-13,38641,177403,0,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),216044
+port2031,2024-05-20,12711,21732,0,0,1172,5,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),34443
+port2031,2024-05-27,6317,57654,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),63971
+port2031,2024-06-03,15584,2762,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),18346
+port2031,2024-06-10,18308,70181,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),88489
+port2031,2024-06-17,42253,28452,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),70705
+port2031,2024-06-24,10355,52779,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),63134
+port2031,2024-07-01,8540,76589,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),85129
+port2031,2024-07-08,12843,25713,16553,2293,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),57402
+port2031,2024-07-15,28095,55141,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),83236
+port2031,2024-07-22,12634,0,2036,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),14670
+port2031,2024-07-29,7580,66562,2036,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),76178
+port2031,2024-08-05,26202,27024,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),53226
+port2031,2024-08-12,52182,98706,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),150888
+port2031,2024-08-19,14268,18668,2762,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),35698
+port2031,2024-08-26,17965,90092,584,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),108641
+port2031,2024-09-02,12634,86741,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),99375
+port2031,2024-09-09,6317,203006,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),209323
+port2031,2024-09-16,5552,163660,3086,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),172298
+port2031,2024-09-23,14843,0,7086,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),21929
+port2031,2024-09-30,14633,129581,5733,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),149947
+port2031,2024-10-07,6317,55521,2036,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),63874
+port2031,2024-10-14,0,25713,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),25713
+port2031,2024-10-21,25380,193233,8884,0,1923,7,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),227497
+port2031,2024-10-28,22450,77139,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),99589
+port2031,2024-11-04,18616,104659,3599,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),126874
+port2031,2024-11-11,50456,113388,2036,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),165880
+port2031,2024-11-18,19339,0,9924,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),29263
+port2031,2024-11-25,24214,51444,0,0,5976,8,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),75658
+port2031,2024-12-02,33001,47777,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),80778
+port2031,2024-12-09,52449,113672,4072,0,0,11,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),170193
+port2031,2024-12-16,26641,30609,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),57250
+port2031,2024-12-23,40825,8330,9536,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),58691
+port2031,2024-12-30,18941,155533,0,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),174474
+port2031,2025-01-06,23641,42244,2036,0,0,7,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),67921
+port2031,2025-01-13,25426,144109,0,0,0,8,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),169535
+port2031,2025-01-20,29776,69997,0,0,0,10,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),99773
+port2031,2025-01-27,38954,52194,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),91148
+port2031,2025-02-03,32130,184201,7841,0,490,11,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),224172
+port2031,2025-02-10,5396,31760,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),37156
+port2031,2025-02-17,26694,97715,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),124409
+port2031,2025-02-24,13401,0,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),13401
+port2031,2025-03-03,49007,80775,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),129782
+port2031,2025-03-10,3553,144637,6066,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),154256
+port2031,2025-03-17,22580,0,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),22580
+port2031,2025-03-24,14210,61491,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),75701
+port2031,2025-03-31,8588,99254,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),107842
+port2031,2025-04-07,91988,31042,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),123030
+port2031,2025-04-14,30770,187931,4072,0,0,10,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),222773
+port2031,2025-04-21,16803,0,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),16803
+port2031,2025-04-28,7102,104837,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),111939
+port2031,2025-05-05,38450,80830,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),119280
+port2031,2025-05-12,6169,0,0,0,0,2,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),6169
+port2031,2025-05-19,0,68893,4146,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),73039
+port2031,2025-05-26,3507,25713,7110,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),36330
+port2031,2025-06-02,74516,51426,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),125942
+port2031,2025-06-09,0,108268,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),108268
+port2031,2025-06-16,0,0,0,0,0,0,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),0
+port2031,2025-06-23,15997,64852,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),80849
+port2031,2025-06-30,39526,0,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),39526
+port2031,2025-07-07,42189,128336,154,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),170679
+port2031,2025-07-14,9495,107519,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),117014
+port2031,2025-07-21,18951,88874,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),107825
+port2031,2025-07-28,31851,41567,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),73418
+port2031,2025-08-04,22696,0,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),22696
+port2031,2025-08-11,85119,69827,2036,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),156982
+port2031,2025-08-18,11265,136348,3730,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),151343
+port2031,2025-08-25,50023,25713,2036,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),77772
+port2031,2025-09-01,6859,77140,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),83999
+port2031,2025-09-08,0,25713,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),25713
+port2031,2025-09-15,11431,92994,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),104425
+port2031,2025-09-22,24785,83272,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),108057
+port2031,2025-09-29,3656,25713,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),29369
+port2031,2025-10-06,6317,142058,5590,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),153965
+port2031,2025-10-13,103699,97537,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),201236
+port2031,2025-10-20,7524,136197,3915,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),147636
+port2031,2025-10-27,0,160833,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),160833
+port2031,2025-11-03,6317,54769,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),61086
+port2031,2025-11-10,7817,91126,2036,2293,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),103272
+port2031,2025-11-17,4941,0,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),4941
+port2031,2025-11-24,23474,35043,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),58517
+port2031,2025-12-01,12634,171818,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),184452
+port2031,2025-12-08,18951,56907,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),75858
+port2031,2025-12-15,18951,97528,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),116479
+port2031,2025-12-22,66417,69160,2036,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),137613
+port2031,2025-12-29,10989,46754,0,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),57743
+port2031,2026-01-05,17362,140309,0,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),157671
+port2031,2026-01-12,80633,153422,425,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),234480
+port2031,2026-01-19,12634,108072,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),120706
+port2031,2026-01-26,21094,101575,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),122669
+port2031,2026-02-02,12634,162579,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),175213
+port2031,2026-02-09,37738,94171,5373,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),137282
+port2031,2026-02-16,10663,65735,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),76398
+port2031,2026-02-23,6317,93618,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),99935
+port2031,2026-03-02,6317,51427,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),57744
+port2031,2026-03-09,8191,125107,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),133298
+port2031,2026-03-16,6317,71369,0,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),77686
+port2031,2026-03-23,6621,79194,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),85815
+port2031,2026-03-30,12634,65132,545,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),78311
+port2031,2026-04-06,19035,60506,0,0,0,4,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),79541
+port2031,2026-04-13,55294,96362,0,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),151656
+port2031,2026-04-20,29857,25713,2404,0,0,7,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),57974
+port2031,2026-04-27,8467,126560,0,0,0,8,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),135027
+port2031,2026-05-04,7849,102724,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),110573
+port2031,2026-05-11,51090,0,0,0,0,6,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),51090
+port2031,2026-05-18,23191,136539,0,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),159730
+port2031,2026-05-25,48366,53791,23035,0,0,10,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),125192
+port2031,2026-06-01,15222,33531,0,0,0,10,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),48753
+port2031,2026-06-08,72549,59000,0,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),131549
+port2031,2026-06-15,46114,182385,0,0,0,18,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),228499
+port2031,2026-06-22,58018,107419,0,0,0,11,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),165437
+port2031,2026-06-29,20690,144029,0,0,0,9,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),164719
+port2031,2026-07-06,48183,144383,0,0,0,12,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),192566
+port2031,2026-07-13,35504,127979,0,0,0,10,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),163483
+port2031,2026-07-20,59411,0,2036,0,0,5,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),61447
+port2031,2026-07-27,0,47022,0,0,0,1,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),47022
+port2031,2026-08-03,0,0,0,0,0,0,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),0
+port2031,2026-08-10,4090,44061,0,0,2303,3,1,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),48151
+port2031,2026-08-17,0,0,0,0,0,1,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),0
+port2031,2026-08-24,0,0,0,0,0,1,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),0
+port2031,2026-08-31,806,0,2036,0,0,3,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),2842
+port2031,2026-09-07,0,0,0,0,0,0,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),0
+port2031,2026-09-14,0,0,0,0,0,1,0,King Abdullah Port,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),0
+port362,2022-12-26,0,0,0,0,120301,0,5,Fujairah,C1 Costa este EAU,0
+port362,2023-01-02,0,6036,0,0,726458,5,61,Fujairah,C1 Costa este EAU,6036
+port362,2023-01-09,0,0,0,0,853160,6,53,Fujairah,C1 Costa este EAU,0
+port362,2023-01-16,377,21434,0,0,677364,10,61,Fujairah,C1 Costa este EAU,21811
+port362,2023-01-23,0,0,0,0,619658,4,55,Fujairah,C1 Costa este EAU,0
+port362,2023-01-30,0,0,0,0,657040,7,48,Fujairah,C1 Costa este EAU,0
+port362,2023-02-06,1502,54804,0,0,656760,6,52,Fujairah,C1 Costa este EAU,56306
+port362,2023-02-13,0,0,0,0,863263,5,67,Fujairah,C1 Costa este EAU,0
+port362,2023-02-20,0,57219,0,0,800408,4,62,Fujairah,C1 Costa este EAU,57219
+port362,2023-02-27,0,59370,0,0,623966,6,67,Fujairah,C1 Costa este EAU,59370
+port362,2023-03-06,0,51961,0,0,597071,1,71,Fujairah,C1 Costa este EAU,51961
+port362,2023-03-13,377,4097,0,0,678845,8,65,Fujairah,C1 Costa este EAU,4474
+port362,2023-03-20,0,6036,0,0,736414,4,69,Fujairah,C1 Costa este EAU,6036
+port362,2023-03-27,0,20192,0,0,466448,6,61,Fujairah,C1 Costa este EAU,20192
+port362,2023-04-03,0,21939,0,0,1044594,6,69,Fujairah,C1 Costa este EAU,21939
+port362,2023-04-10,0,0,0,0,822268,8,68,Fujairah,C1 Costa este EAU,0
+port362,2023-04-17,0,59163,0,0,728655,4,67,Fujairah,C1 Costa este EAU,59163
+port362,2023-04-24,0,12072,0,0,627566,7,56,Fujairah,C1 Costa este EAU,12072
+port362,2023-05-01,1476,0,561,0,778544,5,62,Fujairah,C1 Costa este EAU,2037
+port362,2023-05-08,0,66854,0,0,725546,7,72,Fujairah,C1 Costa este EAU,66854
+port362,2023-05-15,0,0,0,0,669213,6,58,Fujairah,C1 Costa este EAU,0
+port362,2023-05-22,0,0,0,0,769560,3,68,Fujairah,C1 Costa este EAU,0
+port362,2023-05-29,0,65549,0,0,946647,4,68,Fujairah,C1 Costa este EAU,65549
+port362,2023-06-05,0,0,825,0,593483,7,67,Fujairah,C1 Costa este EAU,825
+port362,2023-06-12,0,35311,0,0,843249,5,58,Fujairah,C1 Costa este EAU,35311
+port362,2023-06-19,0,0,825,0,993618,5,65,Fujairah,C1 Costa este EAU,825
+port362,2023-06-26,1479,36058,0,0,862094,8,74,Fujairah,C1 Costa este EAU,37537
+port362,2023-07-03,0,0,0,0,705606,2,66,Fujairah,C1 Costa este EAU,0
+port362,2023-07-10,0,28548,0,0,501708,8,60,Fujairah,C1 Costa este EAU,28548
+port362,2023-07-17,8065,60910,0,0,815313,6,63,Fujairah,C1 Costa este EAU,68975
+port362,2023-07-24,0,35992,0,0,664500,4,65,Fujairah,C1 Costa este EAU,35992
+port362,2023-07-31,0,0,0,0,628355,4,61,Fujairah,C1 Costa este EAU,0
+port362,2023-08-07,0,0,0,0,992669,5,64,Fujairah,C1 Costa este EAU,0
+port362,2023-08-14,4184,0,0,0,794639,8,67,Fujairah,C1 Costa este EAU,4184
+port362,2023-08-21,4886,0,0,0,671081,4,65,Fujairah,C1 Costa este EAU,4886
+port362,2023-08-28,0,0,0,0,738401,2,70,Fujairah,C1 Costa este EAU,0
+port362,2023-09-04,0,32529,0,0,767380,4,67,Fujairah,C1 Costa este EAU,32529
+port362,2023-09-11,8065,29344,0,0,776761,6,60,Fujairah,C1 Costa este EAU,37409
+port362,2023-09-18,0,0,0,0,666832,2,67,Fujairah,C1 Costa este EAU,0
+port362,2023-09-25,0,0,0,0,895766,2,51,Fujairah,C1 Costa este EAU,0
+port362,2023-10-02,0,0,0,0,678646,5,58,Fujairah,C1 Costa este EAU,0
+port362,2023-10-09,0,6914,825,0,647895,6,74,Fujairah,C1 Costa este EAU,7739
+port362,2023-10-16,0,0,0,0,622827,6,63,Fujairah,C1 Costa este EAU,0
+port362,2023-10-23,0,60940,825,0,943048,5,71,Fujairah,C1 Costa este EAU,61765
+port362,2023-10-30,0,0,0,0,1119346,6,70,Fujairah,C1 Costa este EAU,0
+port362,2023-11-06,0,7505,0,0,659534,5,70,Fujairah,C1 Costa este EAU,7505
+port362,2023-11-13,384,40959,0,0,679936,4,69,Fujairah,C1 Costa este EAU,41343
+port362,2023-11-20,0,6036,0,0,693384,3,70,Fujairah,C1 Costa este EAU,6036
+port362,2023-11-27,0,6036,0,0,680281,2,62,Fujairah,C1 Costa este EAU,6036
+port362,2023-12-04,0,87725,0,0,676613,3,60,Fujairah,C1 Costa este EAU,87725
+port362,2023-12-11,0,0,0,0,706873,5,64,Fujairah,C1 Costa este EAU,0
+port362,2023-12-18,0,0,0,0,615444,3,66,Fujairah,C1 Costa este EAU,0
+port362,2023-12-25,0,0,0,0,697868,4,58,Fujairah,C1 Costa este EAU,0
+port362,2024-01-01,0,0,0,0,586509,1,53,Fujairah,C1 Costa este EAU,0
+port362,2024-01-08,0,6036,0,0,474443,5,59,Fujairah,C1 Costa este EAU,6036
+port362,2024-01-15,0,45319,0,0,675096,5,64,Fujairah,C1 Costa este EAU,45319
+port362,2024-01-22,0,0,0,0,658728,3,52,Fujairah,C1 Costa este EAU,0
+port362,2024-01-29,0,0,0,0,753992,2,51,Fujairah,C1 Costa este EAU,0
+port362,2024-02-05,0,0,0,0,786025,3,66,Fujairah,C1 Costa este EAU,0
+port362,2024-02-12,0,93365,0,0,426959,5,53,Fujairah,C1 Costa este EAU,93365
+port362,2024-02-19,0,6036,2137,0,855839,7,63,Fujairah,C1 Costa este EAU,8173
+port362,2024-02-26,0,0,0,0,731422,6,59,Fujairah,C1 Costa este EAU,0
+port362,2024-03-04,0,38664,0,0,687602,4,65,Fujairah,C1 Costa este EAU,38664
+port362,2024-03-11,0,28085,1414,0,814249,8,77,Fujairah,C1 Costa este EAU,29499
+port362,2024-03-18,14790,0,0,0,716538,6,57,Fujairah,C1 Costa este EAU,14790
+port362,2024-03-25,0,14493,0,0,493046,3,50,Fujairah,C1 Costa este EAU,14493
+port362,2024-04-01,0,59051,558,0,759015,7,60,Fujairah,C1 Costa este EAU,59609
+port362,2024-04-08,0,470,0,0,980271,4,57,Fujairah,C1 Costa este EAU,470
+port362,2024-04-15,0,0,0,0,560393,0,53,Fujairah,C1 Costa este EAU,0
+port362,2024-04-22,0,64446,0,0,1015039,8,65,Fujairah,C1 Costa este EAU,64446
+port362,2024-04-29,0,65642,0,0,758356,3,66,Fujairah,C1 Costa este EAU,65642
+port362,2024-05-06,0,0,0,0,712795,4,63,Fujairah,C1 Costa este EAU,0
+port362,2024-05-13,0,38495,0,0,949704,5,64,Fujairah,C1 Costa este EAU,38495
+port362,2024-05-20,0,89,0,0,781347,3,64,Fujairah,C1 Costa este EAU,89
+port362,2024-05-27,0,14663,0,0,914062,5,57,Fujairah,C1 Costa este EAU,14663
+port362,2024-06-03,0,0,0,0,437168,5,66,Fujairah,C1 Costa este EAU,0
+port362,2024-06-10,0,8324,0,2902,628895,7,65,Fujairah,C1 Costa este EAU,11226
+port362,2024-06-17,0,39408,0,0,811451,5,71,Fujairah,C1 Costa este EAU,39408
+port362,2024-06-24,0,0,0,0,658665,2,65,Fujairah,C1 Costa este EAU,0
+port362,2024-07-01,0,33141,1312,0,609761,5,50,Fujairah,C1 Costa este EAU,34453
+port362,2024-07-08,0,0,0,0,1051358,2,73,Fujairah,C1 Costa este EAU,0
+port362,2024-07-15,0,67073,0,0,679547,5,64,Fujairah,C1 Costa este EAU,67073
+port362,2024-07-22,0,0,0,0,453909,2,53,Fujairah,C1 Costa este EAU,0
+port362,2024-07-29,0,0,0,0,717211,4,64,Fujairah,C1 Costa este EAU,0
+port362,2024-08-05,0,0,0,0,700902,3,57,Fujairah,C1 Costa este EAU,0
+port362,2024-08-12,0,6036,0,0,861770,2,65,Fujairah,C1 Costa este EAU,6036
+port362,2024-08-19,0,0,0,0,800948,2,72,Fujairah,C1 Costa este EAU,0
+port362,2024-08-26,0,0,0,0,734195,3,69,Fujairah,C1 Costa este EAU,0
+port362,2024-09-02,0,96688,0,0,763810,6,69,Fujairah,C1 Costa este EAU,96688
+port362,2024-09-09,0,6036,0,0,857856,4,71,Fujairah,C1 Costa este EAU,6036
+port362,2024-09-16,0,6036,0,0,684506,4,59,Fujairah,C1 Costa este EAU,6036
+port362,2024-09-23,0,0,0,0,786239,1,70,Fujairah,C1 Costa este EAU,0
+port362,2024-09-30,8065,19147,0,0,828821,6,66,Fujairah,C1 Costa este EAU,27212
+port362,2024-10-07,0,6036,0,0,792181,4,66,Fujairah,C1 Costa este EAU,6036
+port362,2024-10-14,0,0,0,0,649575,3,59,Fujairah,C1 Costa este EAU,0
+port362,2024-10-21,10557,0,0,0,537016,2,59,Fujairah,C1 Costa este EAU,10557
+port362,2024-10-28,0,71422,825,0,821611,9,70,Fujairah,C1 Costa este EAU,72247
+port362,2024-11-04,0,7702,0,0,756295,4,62,Fujairah,C1 Costa este EAU,7702
+port362,2024-11-11,0,83325,0,0,889695,6,60,Fujairah,C1 Costa este EAU,83325
+port362,2024-11-18,0,57815,0,0,678170,4,70,Fujairah,C1 Costa este EAU,57815
+port362,2024-11-25,0,66660,0,0,844117,4,67,Fujairah,C1 Costa este EAU,66660
+port362,2024-12-02,0,55680,0,0,809005,7,76,Fujairah,C1 Costa este EAU,55680
+port362,2024-12-09,0,6036,0,0,936368,6,74,Fujairah,C1 Costa este EAU,6036
+port362,2024-12-16,8065,6692,0,0,591727,6,63,Fujairah,C1 Costa este EAU,14757
+port362,2024-12-23,8065,12072,0,0,600917,6,59,Fujairah,C1 Costa este EAU,20137
+port362,2024-12-30,0,53692,0,0,950850,6,67,Fujairah,C1 Costa este EAU,53692
+port362,2025-01-06,0,34265,0,0,885714,7,67,Fujairah,C1 Costa este EAU,34265
+port362,2025-01-13,0,0,0,0,578914,6,72,Fujairah,C1 Costa este EAU,0
+port362,2025-01-20,0,6036,0,0,1057991,6,72,Fujairah,C1 Costa este EAU,6036
+port362,2025-01-27,0,58764,0,0,658799,8,65,Fujairah,C1 Costa este EAU,58764
+port362,2025-02-03,5127,0,0,0,851997,7,70,Fujairah,C1 Costa este EAU,5127
+port362,2025-02-10,445,58523,0,0,717633,8,66,Fujairah,C1 Costa este EAU,58968
+port362,2025-02-17,0,37771,0,0,638930,6,62,Fujairah,C1 Costa este EAU,37771
+port362,2025-02-24,5268,17727,0,0,616637,3,69,Fujairah,C1 Costa este EAU,22995
+port362,2025-03-03,0,0,0,0,773004,5,78,Fujairah,C1 Costa este EAU,0
+port362,2025-03-10,0,9942,0,0,1022043,5,68,Fujairah,C1 Costa este EAU,9942
+port362,2025-03-17,0,0,0,0,682438,7,73,Fujairah,C1 Costa este EAU,0
+port362,2025-03-24,518,6036,0,0,943908,6,65,Fujairah,C1 Costa este EAU,6554
+port362,2025-03-31,668,0,0,0,601387,6,65,Fujairah,C1 Costa este EAU,668
+port362,2025-04-07,10672,0,1312,0,585822,9,67,Fujairah,C1 Costa este EAU,11984
+port362,2025-04-14,0,19546,7818,0,563855,10,53,Fujairah,C1 Costa este EAU,27364
+port362,2025-04-21,0,8022,0,0,485382,4,65,Fujairah,C1 Costa este EAU,8022
+port362,2025-04-28,0,0,0,0,565875,6,72,Fujairah,C1 Costa este EAU,0
+port362,2025-05-05,223,0,0,0,581870,3,70,Fujairah,C1 Costa este EAU,223
+port362,2025-05-12,0,0,0,0,647676,3,62,Fujairah,C1 Costa este EAU,0
+port362,2025-05-19,0,0,0,0,453611,5,65,Fujairah,C1 Costa este EAU,0
+port362,2025-05-26,0,0,5577,0,406155,5,65,Fujairah,C1 Costa este EAU,5577
+port362,2025-06-02,0,0,0,0,1182988,5,64,Fujairah,C1 Costa este EAU,0
+port362,2025-06-09,0,0,825,0,784457,7,65,Fujairah,C1 Costa este EAU,825
+port362,2025-06-16,0,2332,1312,0,805016,8,66,Fujairah,C1 Costa este EAU,3644
+port362,2025-06-23,0,160243,0,0,421682,7,65,Fujairah,C1 Costa este EAU,160243
+port362,2025-06-30,0,42668,0,0,600099,6,65,Fujairah,C1 Costa este EAU,42668
+port362,2025-07-07,0,60608,0,0,647139,7,72,Fujairah,C1 Costa este EAU,60608
+port362,2025-07-14,0,28734,0,0,571891,6,63,Fujairah,C1 Costa este EAU,28734
+port362,2025-07-21,0,0,0,0,433002,3,65,Fujairah,C1 Costa este EAU,0
+port362,2025-07-28,0,53838,0,0,689317,5,61,Fujairah,C1 Costa este EAU,53838
+port362,2025-08-04,0,6036,0,0,695651,4,64,Fujairah,C1 Costa este EAU,6036
+port362,2025-08-11,0,62892,0,0,507750,8,70,Fujairah,C1 Costa este EAU,62892
+port362,2025-08-18,0,0,0,0,634858,6,68,Fujairah,C1 Costa este EAU,0
+port362,2025-08-25,0,0,0,0,691293,6,71,Fujairah,C1 Costa este EAU,0
+port362,2025-09-01,0,29542,0,0,840229,6,62,Fujairah,C1 Costa este EAU,29542
+port362,2025-09-08,0,66576,0,0,617118,7,80,Fujairah,C1 Costa este EAU,66576
+port362,2025-09-15,0,0,0,0,673536,4,67,Fujairah,C1 Costa este EAU,0
+port362,2025-09-22,0,9149,0,0,596875,5,68,Fujairah,C1 Costa este EAU,9149
+port362,2025-09-29,0,0,0,0,768731,6,75,Fujairah,C1 Costa este EAU,0
+port362,2025-10-06,0,6036,0,0,911741,5,76,Fujairah,C1 Costa este EAU,6036
+port362,2025-10-13,0,6036,0,0,724052,6,69,Fujairah,C1 Costa este EAU,6036
+port362,2025-10-20,0,26535,0,0,630775,6,76,Fujairah,C1 Costa este EAU,26535
+port362,2025-10-27,0,13692,0,0,764516,6,63,Fujairah,C1 Costa este EAU,13692
+port362,2025-11-03,0,64813,0,0,1046525,6,68,Fujairah,C1 Costa este EAU,64813
+port362,2025-11-10,0,6036,0,0,736562,6,68,Fujairah,C1 Costa este EAU,6036
+port362,2025-11-17,0,56866,825,0,686513,6,56,Fujairah,C1 Costa este EAU,57691
+port362,2025-11-24,0,0,825,0,843117,3,56,Fujairah,C1 Costa este EAU,825
+port362,2025-12-01,0,0,0,0,822260,6,71,Fujairah,C1 Costa este EAU,0
+port362,2025-12-08,0,0,3095,0,652938,6,66,Fujairah,C1 Costa este EAU,3095
+port362,2025-12-15,0,84699,0,0,586490,7,56,Fujairah,C1 Costa este EAU,84699
+port362,2025-12-22,0,53255,0,0,504731,8,56,Fujairah,C1 Costa este EAU,53255
+port362,2025-12-29,0,38031,0,0,566825,8,63,Fujairah,C1 Costa este EAU,38031
+port362,2026-01-05,0,0,0,0,612153,5,62,Fujairah,C1 Costa este EAU,0
+port362,2026-01-12,0,9908,0,0,525926,7,64,Fujairah,C1 Costa este EAU,9908
+port362,2026-01-19,0,0,0,0,783238,5,57,Fujairah,C1 Costa este EAU,0
+port362,2026-01-26,0,6036,1312,0,685739,8,69,Fujairah,C1 Costa este EAU,7348
+port362,2026-02-02,0,25106,208,0,513976,11,64,Fujairah,C1 Costa este EAU,25314
+port362,2026-02-09,0,9149,0,0,653899,8,56,Fujairah,C1 Costa este EAU,9149
+port362,2026-02-16,0,62165,0,0,545522,7,64,Fujairah,C1 Costa este EAU,62165
+port362,2026-02-23,0,47039,0,0,498020,9,60,Fujairah,C1 Costa este EAU,47039
+port362,2026-03-02,0,0,0,0,16018,0,4,Fujairah,C1 Costa este EAU,0
+port362,2026-03-09,0,5166,1994,0,7263,2,1,Fujairah,C1 Costa este EAU,7160
+port362,2026-03-16,0,0,0,0,34983,0,4,Fujairah,C1 Costa este EAU,0
+port362,2026-03-23,44190,67623,0,0,22888,9,6,Fujairah,C1 Costa este EAU,111813
+port362,2026-03-30,52508,59341,0,0,58325,9,10,Fujairah,C1 Costa este EAU,111849
+port362,2026-04-06,77336,169189,0,1443,73946,20,15,Fujairah,C1 Costa este EAU,247968
+port362,2026-04-13,61893,245217,4489,0,70098,16,18,Fujairah,C1 Costa este EAU,311599
+port362,2026-04-20,86867,114733,25019,279,117134,15,18,Fujairah,C1 Costa este EAU,226898
+port362,2026-04-27,50187,189727,20248,0,161802,17,20,Fujairah,C1 Costa este EAU,260162
+port362,2026-05-04,43295,187606,20441,0,67883,14,5,Fujairah,C1 Costa este EAU,251342
+port362,2026-05-11,0,99239,0,0,32064,8,4,Fujairah,C1 Costa este EAU,99239
+port362,2026-05-18,59064,33460,3449,0,111439,16,11,Fujairah,C1 Costa este EAU,95973
+port362,2026-05-25,53140,189846,5284,0,57432,10,11,Fujairah,C1 Costa este EAU,248270
+port362,2026-06-01,13759,128250,0,0,30760,9,7,Fujairah,C1 Costa este EAU,142009
+port362,2026-06-08,22269,162832,1312,1443,118094,12,16,Fujairah,C1 Costa este EAU,187856
+port362,2026-06-15,12669,0,0,0,7744,1,1,Fujairah,C1 Costa este EAU,12669
+port362,2026-06-22,34115,274968,2624,0,208538,19,20,Fujairah,C1 Costa este EAU,311707
+port362,2026-06-29,31279,181005,3468,760,318657,15,25,Fujairah,C1 Costa este EAU,216512
+port362,2026-07-06,29054,181426,11802,0,239742,13,23,Fujairah,C1 Costa este EAU,222282
+port362,2026-07-13,56719,113708,0,6459,188506,16,22,Fujairah,C1 Costa este EAU,176886
+port362,2026-07-20,39869,344396,5541,0,256393,18,36,Fujairah,C1 Costa este EAU,389806
+port362,2026-07-27,29283,182295,4463,0,173009,15,26,Fujairah,C1 Costa este EAU,216041
+port362,2026-08-03,81738,381915,6569,0,250589,23,27,Fujairah,C1 Costa este EAU,470222
+port362,2026-08-10,13438,213544,1312,0,236326,10,26,Fujairah,C1 Costa este EAU,228294
+port362,2026-08-17,20950,148956,11363,1397,409152,18,34,Fujairah,C1 Costa este EAU,182666
+port362,2026-08-24,94195,262505,3844,1971,241050,18,36,Fujairah,C1 Costa este EAU,362515
+port362,2026-08-31,8748,175896,11450,0,298936,14,22,Fujairah,C1 Costa este EAU,196094
+port362,2026-09-07,39585,125648,2690,2805,413356,13,37,Fujairah,C1 Costa este EAU,170728
+port362,2026-09-14,58406,200343,4701,0,475307,17,29,Fujairah,C1 Costa este EAU,263450
+port518,2022-12-26,57648,67366,2318,562,18644,8,1,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),127894
+port518,2023-01-02,649765,82826,13486,18545,103481,61,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),764622
+port518,2023-01-09,517106,66573,6407,19021,336822,67,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),609107
+port518,2023-01-16,692269,116069,5315,12359,77040,58,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),826012
+port518,2023-01-23,681977,59094,21917,7318,238314,69,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),770306
+port518,2023-01-30,601425,132212,4612,3911,402902,49,19,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),742160
+port518,2023-02-06,765459,55400,9350,17353,313578,63,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),847562
+port518,2023-02-13,599418,145510,5742,9400,202201,69,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),760070
+port518,2023-02-20,454196,178592,4957,21104,366685,63,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),658849
+port518,2023-02-27,493497,87397,20763,9820,239541,64,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),611477
+port518,2023-03-06,566832,130902,8137,6129,281404,57,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),712000
+port518,2023-03-13,700741,125567,6641,15207,180813,60,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),848156
+port518,2023-03-20,642018,220027,7258,12940,394352,73,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),882243
+port518,2023-03-27,772698,31226,9209,14041,151384,64,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),827174
+port518,2023-04-03,409033,113255,12122,16634,221979,59,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),551044
+port518,2023-04-10,667288,66366,16513,10746,121416,65,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),760913
+port518,2023-04-17,564960,203455,7251,19068,273140,67,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),794734
+port518,2023-04-24,475204,31226,11685,23715,180657,68,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),541830
+port518,2023-05-01,645225,150249,260,12806,222550,65,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),808540
+port518,2023-05-08,506271,3487,3013,14678,287207,53,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),527449
+port518,2023-05-15,834571,134748,11726,12161,227878,78,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),993206
+port518,2023-05-22,575941,12116,6149,14760,270041,64,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),608966
+port518,2023-05-29,793100,69119,8575,3658,229998,68,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),874452
+port518,2023-06-05,650308,130869,9622,15413,286431,83,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),806212
+port518,2023-06-12,798873,135315,10478,3550,358872,68,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),948216
+port518,2023-06-19,529736,41701,21892,20178,533836,77,17,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),613507
+port518,2023-06-26,422970,115594,8058,6149,215758,55,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),552771
+port518,2023-07-03,828335,100937,8290,18111,497296,72,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),955673
+port518,2023-07-10,707887,182821,6637,11890,309135,68,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),909235
+port518,2023-07-17,912363,28107,8718,16856,142120,89,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),966044
+port518,2023-07-24,481732,107811,8943,15371,277955,65,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),613857
+port518,2023-07-31,568658,101587,3033,11613,270947,71,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),684891
+port518,2023-08-07,598765,9092,6278,3067,331619,64,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),617202
+port518,2023-08-14,767576,120650,7405,6471,273410,69,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),902102
+port518,2023-08-21,772045,21578,9488,11803,215495,80,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),814914
+port518,2023-08-28,570832,131084,5924,17090,262015,72,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),724930
+port518,2023-09-04,712512,101142,7502,5561,167887,75,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),826717
+port518,2023-09-11,518916,65649,18366,11935,317683,70,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),614866
+port518,2023-09-18,566061,4380,7894,18825,285159,69,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),597160
+port518,2023-09-25,770376,115789,2534,6803,390577,70,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),895502
+port518,2023-10-02,496700,36100,8056,22929,212372,73,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),563785
+port518,2023-10-09,402093,89502,14653,14446,350931,73,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),520694
+port518,2023-10-16,743008,38904,5781,13476,289934,75,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),801169
+port518,2023-10-23,552862,179097,3534,9513,283196,77,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),745006
+port518,2023-10-30,665748,34368,18759,12141,267616,74,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),731016
+port518,2023-11-06,756622,104826,5357,10656,192876,72,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),877461
+port518,2023-11-13,542099,66400,9030,8562,467543,65,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),626091
+port518,2023-11-20,591156,109704,13027,18739,278671,72,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),732626
+port518,2023-11-27,834162,94669,9450,7039,316608,62,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),945320
+port518,2023-12-04,718531,46137,6495,11359,283863,70,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),782522
+port518,2023-12-11,815930,75553,4439,18314,262974,76,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),914236
+port518,2023-12-18,400655,39462,3324,19374,303010,49,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),462815
+port518,2023-12-25,313144,125249,13173,11092,347078,52,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),462658
+port518,2024-01-01,468539,1729,8142,17719,384573,44,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),496129
+port518,2024-01-08,656424,3979,4721,2286,301573,41,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),667410
+port518,2024-01-15,579431,68242,5050,1520,251796,40,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),654243
+port518,2024-01-22,544361,1664,8699,2128,241240,43,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),556852
+port518,2024-01-29,585237,31226,11346,8197,223245,46,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),636006
+port518,2024-02-05,474619,79350,15100,2721,183997,50,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),571790
+port518,2024-02-12,443754,67553,23479,1701,396576,50,17,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),536487
+port518,2024-02-19,577286,156891,8261,593,377190,45,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),743031
+port518,2024-02-26,571038,0,27263,0,352823,46,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),598301
+port518,2024-03-04,516356,65642,13455,2721,361612,54,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),598174
+port518,2024-03-11,503999,31226,10205,0,446071,38,17,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),545430
+port518,2024-03-18,563325,96661,19666,3497,427773,42,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),683149
+port518,2024-03-25,637472,114119,10137,4660,447397,55,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),766388
+port518,2024-04-01,294509,155424,5656,593,488701,43,17,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),456182
+port518,2024-04-08,369274,80094,9491,593,293341,51,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),459452
+port518,2024-04-15,627565,174047,6702,7798,467038,55,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),816112
+port518,2024-04-22,376281,31226,24056,1937,375976,43,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),433500
+port518,2024-04-29,713892,122652,6154,0,330199,49,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),842698
+port518,2024-05-06,489973,126413,4953,2743,461282,44,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),624082
+port518,2024-05-13,556861,114926,7030,0,452379,54,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),678817
+port518,2024-05-20,585066,74231,25754,578,279818,51,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),685629
+port518,2024-05-27,578187,109747,18557,2121,449675,56,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),708612
+port518,2024-06-03,709307,56753,17495,0,402268,57,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),783555
+port518,2024-06-10,379164,71709,18176,4092,280582,58,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),473141
+port518,2024-06-17,620712,37305,12176,0,451319,47,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),670193
+port518,2024-06-24,418259,116327,6284,0,220863,41,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),540870
+port518,2024-07-01,592078,22081,5530,593,270128,42,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),620282
+port518,2024-07-08,859562,172588,23587,0,278277,51,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),1055737
+port518,2024-07-15,705017,50712,44748,593,266977,48,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),801070
+port518,2024-07-22,274916,135308,7729,1816,192306,43,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),419769
+port518,2024-07-29,539124,18797,14210,3480,318529,43,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),575611
+port518,2024-08-05,424094,144112,11383,3034,437351,37,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),582623
+port518,2024-08-12,738098,38815,19128,593,191107,46,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),796634
+port518,2024-08-19,615557,103625,9014,593,235342,46,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),728789
+port518,2024-08-26,807840,0,25203,2908,237292,55,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),835951
+port518,2024-09-02,387043,207865,15207,5253,318861,52,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),615368
+port518,2024-09-09,628155,87112,18795,0,123076,52,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),734062
+port518,2024-09-16,760988,15992,11535,593,192793,49,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),789108
+port518,2024-09-23,442451,62452,18005,0,204119,39,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),522908
+port518,2024-09-30,338979,63775,19726,593,114850,41,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),423073
+port518,2024-10-07,429804,51372,20114,593,174921,58,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),501883
+port518,2024-10-14,526423,155898,1940,0,233841,47,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),684261
+port518,2024-10-21,556392,107897,24880,1186,204328,53,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),690355
+port518,2024-10-28,616638,64794,7194,593,301734,53,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),689219
+port518,2024-11-04,539942,117779,14677,4256,299567,53,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),676654
+port518,2024-11-11,666285,33419,10955,6628,244717,56,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),717287
+port518,2024-11-18,560216,144095,2237,3552,299879,57,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),710100
+port518,2024-11-25,635566,101946,19058,3314,152288,66,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),759884
+port518,2024-12-02,570320,31226,26665,7784,185694,52,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),635995
+port518,2024-12-09,528718,65804,27569,593,198503,68,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),622684
+port518,2024-12-16,800556,127834,7793,6112,99864,63,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),942295
+port518,2024-12-23,556376,76106,39158,5476,212300,55,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),677116
+port518,2024-12-30,286247,43033,26457,1186,106853,47,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),356923
+port518,2025-01-06,621350,189199,20409,2721,144194,61,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),833679
+port518,2025-01-13,846084,34564,16861,3314,197321,60,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),900823
+port518,2025-01-20,649396,74573,11040,1186,181830,63,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),736195
+port518,2025-01-27,478009,56030,6446,2965,278847,53,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),543450
+port518,2025-02-03,628583,51629,21771,2548,293625,55,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),704531
+port518,2025-02-10,598129,59464,9637,2713,202799,53,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),669943
+port518,2025-02-17,533823,210613,30614,4660,64543,52,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),779710
+port518,2025-02-24,410919,43797,14773,2591,213169,52,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),472080
+port518,2025-03-03,502860,111254,14930,1349,211540,54,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),630393
+port518,2025-03-10,436714,53267,33501,4370,221026,52,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),527852
+port518,2025-03-17,421000,152874,11211,1935,121966,47,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),587020
+port518,2025-03-24,727740,94257,22505,1779,218321,61,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),846281
+port518,2025-03-31,609867,148905,7036,2886,170031,54,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),768694
+port518,2025-04-07,547830,229317,21685,4050,195324,48,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),802882
+port518,2025-04-14,493736,91782,4762,3314,170386,53,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),593594
+port518,2025-04-21,288619,156130,5836,2784,47566,49,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),453369
+port518,2025-04-28,598241,242039,13433,1249,185379,53,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),854962
+port518,2025-05-05,526900,257796,14002,4212,197038,56,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),802910
+port518,2025-05-12,375787,173435,12690,719,142173,44,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),562631
+port518,2025-05-19,389412,178753,45396,1186,119892,47,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),614747
+port518,2025-05-26,352594,93678,26718,1249,211481,52,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),474239
+port518,2025-06-02,482258,211966,16179,1905,157943,54,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),712308
+port518,2025-06-09,150240,93678,39106,2721,108433,29,4,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),285745
+port518,2025-06-16,386085,107496,6424,63,97680,28,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),500068
+port518,2025-06-23,352881,165172,11687,2784,195508,49,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),532524
+port518,2025-06-30,634629,138324,21539,593,155333,47,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),795085
+port518,2025-07-07,600147,147989,11391,719,313889,64,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),760246
+port518,2025-07-14,221579,180258,16485,0,148445,42,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),418322
+port518,2025-07-21,615774,187356,19696,63,204376,51,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),822889
+port518,2025-07-28,467362,176472,10282,63,179231,44,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),654179
+port518,2025-08-04,452396,62452,19128,63,222556,47,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),534039
+port518,2025-08-11,535594,150277,22278,3314,184002,53,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),711463
+port518,2025-08-18,712245,116907,9269,1935,292520,49,13,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),840356
+port518,2025-08-25,230463,126371,17748,1872,139300,46,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),376454
+port518,2025-09-01,469264,94278,21845,189,227915,54,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),585576
+port518,2025-09-08,318350,128441,12551,4537,252111,43,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),463879
+port518,2025-09-15,463338,155926,11320,719,100819,48,4,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),631303
+port518,2025-09-22,683969,101418,22171,1936,256838,46,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),809494
+port518,2025-09-29,213658,169356,17255,4849,149454,32,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),405118
+port518,2025-10-06,344353,23085,13064,252,191638,36,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),380754
+port518,2025-10-13,544188,44538,7897,4176,111510,42,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),600799
+port518,2025-10-20,508837,114773,22961,2292,123467,55,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),648863
+port518,2025-10-27,528276,214334,6976,1249,257954,47,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),750835
+port518,2025-11-03,471418,87278,19910,126,181703,58,11,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),578732
+port518,2025-11-10,650583,75011,8910,4965,294794,51,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),739469
+port518,2025-11-17,419314,65391,19501,3738,213522,54,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),507944
+port518,2025-11-24,731406,24750,9312,7350,139300,48,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),772818
+port518,2025-12-01,389150,136124,4386,719,188414,50,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),530379
+port518,2025-12-08,285967,68005,3221,1936,168140,32,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),359129
+port518,2025-12-15,887784,133208,42091,2784,119044,53,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),1065867
+port518,2025-12-22,437784,165772,26630,2847,213741,60,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),633033
+port518,2025-12-29,582756,35379,18876,6325,139299,55,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),643336
+port518,2026-01-05,626123,31226,12709,3638,143645,64,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),673696
+port518,2026-01-12,638158,100378,27594,63,167089,48,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),766193
+port518,2026-01-19,556614,172946,32094,1999,82855,57,5,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),763653
+port518,2026-01-26,615270,86007,13229,2230,152791,47,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),716736
+port518,2026-02-02,430806,268188,21079,3965,167090,59,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),724038
+port518,2026-02-09,565943,69255,15248,2254,238451,59,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),652700
+port518,2026-02-16,559030,71913,29190,1935,201889,56,6,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),662068
+port518,2026-02-23,538999,157892,18310,0,246344,48,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),715201
+port518,2026-03-02,466136,117184,7732,4609,194879,50,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),595661
+port518,2026-03-09,695403,146906,25961,1935,235464,53,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),870205
+port518,2026-03-16,398296,106238,16687,3515,206434,55,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),524736
+port518,2026-03-23,252323,167501,17860,7301,196241,48,7,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),444985
+port518,2026-03-30,448354,262930,20852,7051,300659,55,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),739187
+port518,2026-04-06,607390,99512,11370,10908,265477,50,14,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),729180
+port518,2026-04-13,660938,269255,17325,10778,152962,66,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),958296
+port518,2026-04-20,469417,211691,24176,19708,273303,58,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),724992
+port518,2026-04-27,886352,97528,15327,6195,280514,66,17,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),1005402
+port518,2026-05-04,462671,333338,26980,9478,130338,78,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),832467
+port518,2026-05-11,593972,54979,11759,3997,273690,53,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),664707
+port518,2026-05-18,596646,160926,6545,17960,174476,58,9,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),782077
+port518,2026-05-25,525679,182046,40546,3954,280155,66,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),752225
+port518,2026-06-01,501675,253883,20329,20986,408004,48,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),796873
+port518,2026-06-08,261207,0,13306,2378,277000,33,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),276891
+port518,2026-06-15,461888,272411,28425,7933,280088,60,12,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),770657
+port518,2026-06-22,532378,31412,11237,9068,203689,45,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),584095
+port518,2026-06-29,444989,272562,31750,3030,204162,46,10,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),752331
+port518,2026-07-06,367470,121123,24169,12819,364694,44,15,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),525581
+port518,2026-07-13,411318,78089,16680,6983,410071,46,16,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),513070
+port518,2026-07-20,389302,31226,9002,7449,159679,46,8,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),436979
+port518,2026-07-27,186439,161051,4274,5580,40230,20,2,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),357344
+port518,2026-08-03,169630,44661,13748,618,27789,22,1,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),228657
+port518,2026-08-10,165104,0,3042,4482,0,19,0,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),172628
+port518,2026-08-17,176422,132047,13660,1249,18644,22,2,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),323378
+port518,2026-08-24,65982,141450,10324,5458,24676,21,1,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),223214
+port518,2026-08-31,30118,31226,2202,3361,0,10,0,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),66907
+port518,2026-09-07,160616,31226,14491,8176,18644,24,1,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),214509
+port518,2026-09-14,78971,0,2680,6043,0,16,1,Jeddah,C3a Arabia Saudita: Jeddah y KAP (mar Rojo),87694
+port561,2022-12-26,4622,2907,0,0,1548,2,3,Khor Fakkan,C1 Costa este EAU,7529
+port561,2023-01-02,0,0,0,0,5891,1,7,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-01-09,0,0,0,0,12709,1,9,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-01-16,8974,4260,0,0,7967,3,6,Khor Fakkan,C1 Costa este EAU,13234
+port561,2023-01-23,17438,0,0,0,14056,3,7,Khor Fakkan,C1 Costa este EAU,17438
+port561,2023-01-30,0,0,0,0,17203,1,8,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-02-06,0,0,0,0,7740,0,7,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-02-13,448,0,792,0,4644,2,3,Khor Fakkan,C1 Costa este EAU,1240
+port561,2023-02-20,0,0,0,0,9378,1,8,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-02-27,0,0,792,0,9613,1,7,Khor Fakkan,C1 Costa este EAU,792
+port561,2023-03-06,0,0,792,0,9613,2,7,Khor Fakkan,C1 Costa este EAU,792
+port561,2023-03-13,0,5877,0,0,9601,1,8,Khor Fakkan,C1 Costa este EAU,5877
+port561,2023-03-20,965,5877,0,0,5896,3,5,Khor Fakkan,C1 Costa este EAU,6842
+port561,2023-03-27,0,0,792,0,2929,1,5,Khor Fakkan,C1 Costa este EAU,792
+port561,2023-04-03,0,0,0,0,5322,1,7,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-04-10,13836,0,0,0,5071,2,7,Khor Fakkan,C1 Costa este EAU,13836
+port561,2023-04-17,0,0,0,0,1054,0,5,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-04-24,0,0,0,0,5402,0,4,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-05-01,0,0,1393,0,2701,1,3,Khor Fakkan,C1 Costa este EAU,1393
+port561,2023-05-08,0,85307,0,0,6609,2,6,Khor Fakkan,C1 Costa este EAU,85307
+port561,2023-05-15,0,0,0,0,8691,0,4,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-05-22,0,0,0,0,12426,2,8,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-05-29,0,0,0,0,11705,0,5,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-06-05,4468,5877,0,0,3722,3,3,Khor Fakkan,C1 Costa este EAU,10345
+port561,2023-06-12,0,0,1121,0,4343,2,3,Khor Fakkan,C1 Costa este EAU,1121
+port561,2023-06-19,0,0,0,0,10310,0,7,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-06-26,8974,5877,0,0,10366,3,8,Khor Fakkan,C1 Costa este EAU,14851
+port561,2023-07-03,14367,0,0,0,12643,3,7,Khor Fakkan,C1 Costa este EAU,14367
+port561,2023-07-10,4759,0,0,0,9420,2,8,Khor Fakkan,C1 Costa este EAU,4759
+port561,2023-07-17,0,0,0,0,22243,1,12,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-07-24,26922,0,792,0,9613,5,6,Khor Fakkan,C1 Costa este EAU,27714
+port561,2023-07-31,8974,0,792,0,16700,3,8,Khor Fakkan,C1 Costa este EAU,9766
+port561,2023-08-07,22504,5877,0,0,19936,3,9,Khor Fakkan,C1 Costa este EAU,28381
+port561,2023-08-14,13414,5877,0,0,13856,4,5,Khor Fakkan,C1 Costa este EAU,19291
+port561,2023-08-21,2859,0,0,0,15110,1,10,Khor Fakkan,C1 Costa este EAU,2859
+port561,2023-08-28,12008,0,0,0,3722,2,3,Khor Fakkan,C1 Costa este EAU,12008
+port561,2023-09-04,25799,0,0,0,18658,5,7,Khor Fakkan,C1 Costa este EAU,25799
+port561,2023-09-11,4478,0,0,0,8992,2,7,Khor Fakkan,C1 Costa este EAU,4478
+port561,2023-09-18,17464,0,0,0,9173,2,6,Khor Fakkan,C1 Costa este EAU,17464
+port561,2023-09-25,19764,0,0,0,4644,2,3,Khor Fakkan,C1 Costa este EAU,19764
+port561,2023-10-02,5521,5877,0,0,11462,3,7,Khor Fakkan,C1 Costa este EAU,11398
+port561,2023-10-09,36135,0,0,0,9420,3,8,Khor Fakkan,C1 Costa este EAU,36135
+port561,2023-10-16,0,0,0,0,15722,0,7,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-10-23,1730,0,3073,0,7444,5,5,Khor Fakkan,C1 Costa este EAU,4803
+port561,2023-10-30,18929,0,792,0,7045,4,5,Khor Fakkan,C1 Costa este EAU,19721
+port561,2023-11-06,22677,0,0,0,5797,1,5,Khor Fakkan,C1 Costa este EAU,22677
+port561,2023-11-13,0,0,0,0,4348,0,3,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-11-20,0,0,0,0,10280,0,7,Khor Fakkan,C1 Costa este EAU,0
+port561,2023-11-27,25796,11754,1584,0,3183,7,3,Khor Fakkan,C1 Costa este EAU,39134
+port561,2023-12-04,8661,0,0,0,3722,1,2,Khor Fakkan,C1 Costa este EAU,8661
+port561,2023-12-11,8974,0,0,0,4830,2,3,Khor Fakkan,C1 Costa este EAU,8974
+port561,2023-12-18,44575,0,0,0,7735,6,5,Khor Fakkan,C1 Costa este EAU,44575
+port561,2023-12-25,26680,0,792,0,4150,4,4,Khor Fakkan,C1 Costa este EAU,27472
+port561,2024-01-01,19686,0,0,0,1548,4,3,Khor Fakkan,C1 Costa este EAU,19686
+port561,2024-01-08,8974,5877,677,0,0,4,0,Khor Fakkan,C1 Costa este EAU,15528
+port561,2024-01-15,12482,5877,465,0,7983,4,3,Khor Fakkan,C1 Costa este EAU,18824
+port561,2024-01-22,68174,0,1696,0,7872,6,7,Khor Fakkan,C1 Costa este EAU,69870
+port561,2024-01-29,15332,0,904,0,4348,4,3,Khor Fakkan,C1 Costa este EAU,16236
+port561,2024-02-05,6776,0,1696,0,4249,3,3,Khor Fakkan,C1 Costa este EAU,8472
+port561,2024-02-12,74433,0,0,0,4875,7,3,Khor Fakkan,C1 Costa este EAU,74433
+port561,2024-02-19,74029,0,0,0,5961,5,3,Khor Fakkan,C1 Costa este EAU,74029
+port561,2024-02-26,12858,5877,0,0,11662,3,5,Khor Fakkan,C1 Costa este EAU,18735
+port561,2024-03-04,10453,5266,587,0,527,4,2,Khor Fakkan,C1 Costa este EAU,16306
+port561,2024-03-11,17948,0,1696,0,482,4,3,Khor Fakkan,C1 Costa este EAU,19644
+port561,2024-03-18,19383,0,587,0,2174,5,5,Khor Fakkan,C1 Costa este EAU,19970
+port561,2024-03-25,17197,0,1415,0,6306,5,9,Khor Fakkan,C1 Costa este EAU,18612
+port561,2024-04-01,2422,0,2274,0,16993,7,8,Khor Fakkan,C1 Costa este EAU,4696
+port561,2024-04-08,32654,11755,2283,0,4640,8,3,Khor Fakkan,C1 Costa este EAU,46692
+port561,2024-04-15,42788,0,0,0,3322,4,3,Khor Fakkan,C1 Costa este EAU,42788
+port561,2024-04-22,38389,0,0,0,12774,6,4,Khor Fakkan,C1 Costa este EAU,38389
+port561,2024-04-29,10884,0,792,0,527,4,4,Khor Fakkan,C1 Costa este EAU,11676
+port561,2024-05-06,8974,5877,3791,0,13305,3,6,Khor Fakkan,C1 Costa este EAU,18642
+port561,2024-05-13,39304,0,904,0,22077,7,6,Khor Fakkan,C1 Costa este EAU,40208
+port561,2024-05-20,1909,11754,0,0,2075,5,3,Khor Fakkan,C1 Costa este EAU,13663
+port561,2024-05-27,8974,0,2257,0,4105,5,5,Khor Fakkan,C1 Costa este EAU,11231
+port561,2024-06-03,29377,9770,0,0,3869,10,4,Khor Fakkan,C1 Costa este EAU,39147
+port561,2024-06-10,0,0,792,0,2795,4,3,Khor Fakkan,C1 Costa este EAU,792
+port561,2024-06-17,34463,0,0,0,527,9,3,Khor Fakkan,C1 Costa este EAU,34463
+port561,2024-06-24,18919,5877,0,0,43166,4,8,Khor Fakkan,C1 Costa este EAU,24796
+port561,2024-07-01,8974,0,0,0,1548,1,4,Khor Fakkan,C1 Costa este EAU,8974
+port561,2024-07-08,8974,5877,666,0,1548,5,2,Khor Fakkan,C1 Costa este EAU,15517
+port561,2024-07-15,11835,5877,0,0,5628,5,2,Khor Fakkan,C1 Costa este EAU,17712
+port561,2024-07-22,26922,0,792,0,7434,6,5,Khor Fakkan,C1 Costa este EAU,27714
+port561,2024-07-29,636,0,0,0,8493,2,8,Khor Fakkan,C1 Costa este EAU,636
+port561,2024-08-05,19641,5877,0,0,1548,7,1,Khor Fakkan,C1 Costa este EAU,25518
+port561,2024-08-12,62781,0,0,0,590,5,2,Khor Fakkan,C1 Costa este EAU,62781
+port561,2024-08-19,4836,0,0,0,6661,3,3,Khor Fakkan,C1 Costa este EAU,4836
+port561,2024-08-26,8974,0,0,0,0,1,0,Khor Fakkan,C1 Costa este EAU,8974
+port561,2024-09-02,16402,5877,904,0,4644,6,3,Khor Fakkan,C1 Costa este EAU,23183
+port561,2024-09-09,10920,5877,0,0,17248,3,5,Khor Fakkan,C1 Costa este EAU,16797
+port561,2024-09-16,0,0,0,0,4644,3,3,Khor Fakkan,C1 Costa este EAU,0
+port561,2024-09-23,17948,0,904,0,7740,4,6,Khor Fakkan,C1 Costa este EAU,18852
+port561,2024-09-30,1091,0,0,0,6192,3,5,Khor Fakkan,C1 Costa este EAU,1091
+port561,2024-10-07,7604,5877,904,0,6192,5,4,Khor Fakkan,C1 Costa este EAU,14385
+port561,2024-10-14,0,0,0,0,2848,3,5,Khor Fakkan,C1 Costa este EAU,0
+port561,2024-10-21,11597,0,0,0,527,5,3,Khor Fakkan,C1 Costa este EAU,11597
+port561,2024-10-28,0,0,0,0,0,1,0,Khor Fakkan,C1 Costa este EAU,0
+port561,2024-11-04,20609,5877,587,0,7439,9,5,Khor Fakkan,C1 Costa este EAU,27073
+port561,2024-11-11,29332,0,2212,0,1548,7,3,Khor Fakkan,C1 Costa este EAU,31544
+port561,2024-11-18,33540,5877,0,0,7396,5,4,Khor Fakkan,C1 Costa este EAU,39417
+port561,2024-11-25,18513,5877,0,0,3096,7,3,Khor Fakkan,C1 Costa este EAU,24390
+port561,2024-12-02,18107,0,0,0,5270,3,4,Khor Fakkan,C1 Costa este EAU,18107
+port561,2024-12-09,537,0,0,0,10743,1,4,Khor Fakkan,C1 Costa este EAU,537
+port561,2024-12-16,32774,0,0,0,0,5,2,Khor Fakkan,C1 Costa este EAU,32774
+port561,2024-12-23,5733,0,0,0,2075,2,2,Khor Fakkan,C1 Costa este EAU,5733
+port561,2024-12-30,18529,0,0,0,1548,5,2,Khor Fakkan,C1 Costa este EAU,18529
+port561,2025-01-06,1584,0,0,0,2075,2,3,Khor Fakkan,C1 Costa este EAU,1584
+port561,2025-01-13,0,32632,0,0,1548,3,2,Khor Fakkan,C1 Costa este EAU,32632
+port561,2025-01-20,30455,0,0,0,15230,3,3,Khor Fakkan,C1 Costa este EAU,30455
+port561,2025-01-27,1487,0,0,0,6664,4,5,Khor Fakkan,C1 Costa este EAU,1487
+port561,2025-02-03,17596,0,0,0,8494,2,7,Khor Fakkan,C1 Costa este EAU,17596
+port561,2025-02-10,17755,53894,0,0,4150,5,7,Khor Fakkan,C1 Costa este EAU,71649
+port561,2025-02-17,0,0,0,0,527,1,2,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-02-24,24536,0,0,0,10790,4,8,Khor Fakkan,C1 Costa este EAU,24536
+port561,2025-03-03,28043,11754,0,0,3096,3,2,Khor Fakkan,C1 Costa este EAU,39797
+port561,2025-03-10,8974,5877,0,0,3678,6,6,Khor Fakkan,C1 Costa este EAU,14851
+port561,2025-03-17,17366,0,1640,0,3096,5,4,Khor Fakkan,C1 Costa este EAU,19006
+port561,2025-03-24,0,0,0,0,18047,0,6,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-03-31,0,0,0,0,7138,1,5,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-04-07,0,5877,0,0,4022,1,4,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-04-14,0,24259,792,0,2325,3,5,Khor Fakkan,C1 Costa este EAU,25051
+port561,2025-04-21,0,5877,0,0,9096,1,5,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-04-28,6625,0,0,0,2477,3,6,Khor Fakkan,C1 Costa este EAU,6625
+port561,2025-05-05,10176,0,0,0,16573,7,12,Khor Fakkan,C1 Costa este EAU,10176
+port561,2025-05-12,17791,0,0,0,5521,3,6,Khor Fakkan,C1 Costa este EAU,17791
+port561,2025-05-19,0,0,0,0,15567,2,6,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-05-26,32786,17631,0,0,9408,5,7,Khor Fakkan,C1 Costa este EAU,50417
+port561,2025-06-02,0,5877,0,0,4445,1,5,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-06-09,0,17631,0,0,15422,5,5,Khor Fakkan,C1 Costa este EAU,17631
+port561,2025-06-16,8120,5877,792,0,6713,5,5,Khor Fakkan,C1 Costa este EAU,14789
+port561,2025-06-23,860,0,792,0,482,5,2,Khor Fakkan,C1 Costa este EAU,1652
+port561,2025-06-30,7619,5877,0,0,3124,3,3,Khor Fakkan,C1 Costa este EAU,13496
+port561,2025-07-07,0,0,0,0,4693,1,4,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-07-14,13302,0,0,0,2425,3,4,Khor Fakkan,C1 Costa este EAU,13302
+port561,2025-07-21,78753,5877,792,0,11081,5,6,Khor Fakkan,C1 Costa este EAU,85422
+port561,2025-07-28,8974,0,0,0,4482,2,5,Khor Fakkan,C1 Costa este EAU,8974
+port561,2025-08-04,3580,0,792,0,1718,5,3,Khor Fakkan,C1 Costa este EAU,4372
+port561,2025-08-11,0,0,0,0,3096,1,2,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-08-18,12310,0,0,0,13964,2,8,Khor Fakkan,C1 Costa este EAU,12310
+port561,2025-08-25,8974,0,0,0,4670,2,6,Khor Fakkan,C1 Costa este EAU,8974
+port561,2025-09-01,0,0,0,0,1131,2,3,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-09-08,0,5877,0,0,780,1,2,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-09-15,0,0,0,0,3101,0,4,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-09-22,0,5877,0,0,3880,1,8,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-09-29,0,0,0,0,3226,0,4,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-10-06,8974,0,0,0,2317,2,3,Khor Fakkan,C1 Costa este EAU,8974
+port561,2025-10-13,0,5877,0,0,350,1,3,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-10-20,0,0,0,0,350,2,2,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-10-27,17942,0,0,0,700,4,3,Khor Fakkan,C1 Costa este EAU,17942
+port561,2025-11-03,0,0,0,0,4343,2,2,Khor Fakkan,C1 Costa este EAU,0
+port561,2025-11-10,0,5877,0,0,350,1,1,Khor Fakkan,C1 Costa este EAU,5877
+port561,2025-11-17,8974,0,0,0,3304,1,2,Khor Fakkan,C1 Costa este EAU,8974
+port561,2025-11-24,3415,0,792,0,3096,3,2,Khor Fakkan,C1 Costa este EAU,4207
+port561,2025-12-01,0,0,904,0,12528,1,9,Khor Fakkan,C1 Costa este EAU,904
+port561,2025-12-08,0,11754,0,0,7138,3,3,Khor Fakkan,C1 Costa este EAU,11754
+port561,2025-12-15,23272,0,0,0,3096,3,2,Khor Fakkan,C1 Costa este EAU,23272
+port561,2025-12-22,11934,0,0,0,2795,1,6,Khor Fakkan,C1 Costa este EAU,11934
+port561,2025-12-29,0,0,792,0,2066,1,4,Khor Fakkan,C1 Costa este EAU,792
+port561,2026-01-05,13967,0,904,0,8774,3,3,Khor Fakkan,C1 Costa este EAU,14871
+port561,2026-01-12,0,5877,0,0,3446,2,4,Khor Fakkan,C1 Costa este EAU,5877
+port561,2026-01-19,8974,0,904,0,1716,4,4,Khor Fakkan,C1 Costa este EAU,9878
+port561,2026-01-26,8599,5877,299,0,3623,3,3,Khor Fakkan,C1 Costa este EAU,14775
+port561,2026-02-02,0,5877,0,0,3579,2,5,Khor Fakkan,C1 Costa este EAU,5877
+port561,2026-02-09,0,0,5026,0,0,1,0,Khor Fakkan,C1 Costa este EAU,5026
+port561,2026-02-16,3463,11754,0,0,4300,4,4,Khor Fakkan,C1 Costa este EAU,15217
+port561,2026-02-23,14860,11754,7348,0,1217,5,4,Khor Fakkan,C1 Costa este EAU,33962
+port561,2026-03-02,0,5877,0,1273,0,2,0,Khor Fakkan,C1 Costa este EAU,7150
+port561,2026-03-09,23019,0,5697,0,0,4,0,Khor Fakkan,C1 Costa este EAU,28716
+port561,2026-03-16,0,0,812,0,0,1,0,Khor Fakkan,C1 Costa este EAU,812
+port561,2026-03-23,39328,0,3130,0,0,4,0,Khor Fakkan,C1 Costa este EAU,42458
+port561,2026-03-30,106672,0,0,0,0,4,0,Khor Fakkan,C1 Costa este EAU,106672
+port561,2026-04-06,152003,0,2013,0,350,7,1,Khor Fakkan,C1 Costa este EAU,154016
+port561,2026-04-13,36056,0,368,0,350,3,1,Khor Fakkan,C1 Costa este EAU,36424
+port561,2026-04-20,213509,0,2799,0,0,11,0,Khor Fakkan,C1 Costa este EAU,216308
+port561,2026-04-27,67289,0,4391,2002,1276,10,1,Khor Fakkan,C1 Costa este EAU,73682
+port561,2026-05-04,157199,0,0,0,1386,9,1,Khor Fakkan,C1 Costa este EAU,157199
+port561,2026-05-11,102380,0,3674,0,0,12,0,Khor Fakkan,C1 Costa este EAU,106054
+port561,2026-05-18,70161,0,0,0,0,7,0,Khor Fakkan,C1 Costa este EAU,70161
+port561,2026-05-25,8782,5877,0,0,0,5,0,Khor Fakkan,C1 Costa este EAU,14659
+port561,2026-06-01,179903,0,0,0,1898,11,2,Khor Fakkan,C1 Costa este EAU,179903
+port561,2026-06-08,166644,0,2454,0,0,13,0,Khor Fakkan,C1 Costa este EAU,169098
+port561,2026-06-15,71158,0,1284,0,1386,7,1,Khor Fakkan,C1 Costa este EAU,72442
+port561,2026-06-22,198507,0,1785,0,509,13,1,Khor Fakkan,C1 Costa este EAU,200292
+port561,2026-06-29,140294,0,1126,2842,2248,13,3,Khor Fakkan,C1 Costa este EAU,144262
+port561,2026-07-06,256644,0,2278,4234,0,15,0,Khor Fakkan,C1 Costa este EAU,263156
+port561,2026-07-13,169122,0,0,0,482,12,1,Khor Fakkan,C1 Costa este EAU,169122
+port561,2026-07-20,194224,0,0,0,0,12,0,Khor Fakkan,C1 Costa este EAU,194224
+port561,2026-07-27,226772,0,0,3466,0,12,0,Khor Fakkan,C1 Costa este EAU,230238
+port561,2026-08-03,183301,0,2078,0,6599,12,2,Khor Fakkan,C1 Costa este EAU,185379
+port561,2026-08-10,121591,0,0,0,0,8,0,Khor Fakkan,C1 Costa este EAU,121591
+port561,2026-08-17,123469,0,587,0,350,11,1,Khor Fakkan,C1 Costa este EAU,124056
+port561,2026-08-24,126645,0,904,13258,0,12,0,Khor Fakkan,C1 Costa este EAU,140807
+port561,2026-08-31,153452,0,2464,1273,509,12,1,Khor Fakkan,C1 Costa este EAU,157189
+port561,2026-09-07,231093,0,1696,0,0,12,0,Khor Fakkan,C1 Costa este EAU,232789
+port561,2026-09-14,140528,0,1568,6038,527,10,1,Khor Fakkan,C1 Costa este EAU,148134
+port746,2022-12-26,37896,0,632,0,615,5,1,Salalah,C2b Omán: Duqm y Salalah,38528
+port746,2023-01-02,402309,0,180,0,13364,24,3,Salalah,C2b Omán: Duqm y Salalah,402489
+port746,2023-01-09,388989,86059,0,0,16540,32,2,Salalah,C2b Omán: Duqm y Salalah,475048
+port746,2023-01-16,486999,0,0,0,615,35,2,Salalah,C2b Omán: Duqm y Salalah,486999
+port746,2023-01-23,759662,8224,0,0,615,36,1,Salalah,C2b Omán: Duqm y Salalah,767886
+port746,2023-01-30,699202,0,0,0,40449,25,7,Salalah,C2b Omán: Duqm y Salalah,699202
+port746,2023-02-06,498096,0,0,0,107863,31,5,Salalah,C2b Omán: Duqm y Salalah,498096
+port746,2023-02-13,446218,4827,0,0,7297,29,2,Salalah,C2b Omán: Duqm y Salalah,451045
+port746,2023-02-20,315196,9654,0,0,39491,32,5,Salalah,C2b Omán: Duqm y Salalah,324850
+port746,2023-02-27,413953,76737,180,0,29689,31,4,Salalah,C2b Omán: Duqm y Salalah,490870
+port746,2023-03-06,649311,0,0,0,22109,28,5,Salalah,C2b Omán: Duqm y Salalah,649311
+port746,2023-03-13,470882,4827,0,0,23679,25,4,Salalah,C2b Omán: Duqm y Salalah,475709
+port746,2023-03-20,630917,0,0,0,28761,30,5,Salalah,C2b Omán: Duqm y Salalah,630917
+port746,2023-03-27,336108,66913,632,0,15735,28,6,Salalah,C2b Omán: Duqm y Salalah,403653
+port746,2023-04-03,611404,16039,11372,0,38202,28,6,Salalah,C2b Omán: Duqm y Salalah,638815
+port746,2023-04-10,282460,24213,0,0,24371,31,5,Salalah,C2b Omán: Duqm y Salalah,306673
+port746,2023-04-17,587821,12723,632,0,29377,28,6,Salalah,C2b Omán: Duqm y Salalah,601176
+port746,2023-04-24,376205,0,0,0,36795,27,6,Salalah,C2b Omán: Duqm y Salalah,376205
+port746,2023-05-01,356459,0,0,0,7297,23,4,Salalah,C2b Omán: Duqm y Salalah,356459
+port746,2023-05-08,495909,704,632,0,42702,31,6,Salalah,C2b Omán: Duqm y Salalah,497245
+port746,2023-05-15,450236,8875,0,0,23590,26,5,Salalah,C2b Omán: Duqm y Salalah,459111
+port746,2023-05-22,519923,4827,632,0,28499,35,6,Salalah,C2b Omán: Duqm y Salalah,525382
+port746,2023-05-29,410630,18389,0,0,66230,26,9,Salalah,C2b Omán: Duqm y Salalah,429019
+port746,2023-06-05,255403,27454,0,0,41178,30,5,Salalah,C2b Omán: Duqm y Salalah,282857
+port746,2023-06-12,374225,0,0,0,7912,26,5,Salalah,C2b Omán: Duqm y Salalah,374225
+port746,2023-06-19,621940,4827,0,0,24256,29,5,Salalah,C2b Omán: Duqm y Salalah,626767
+port746,2023-06-26,421965,0,0,0,29908,24,5,Salalah,C2b Omán: Duqm y Salalah,421965
+port746,2023-07-03,459424,0,0,0,15715,24,2,Salalah,C2b Omán: Duqm y Salalah,459424
+port746,2023-07-10,517534,0,0,0,7297,27,3,Salalah,C2b Omán: Duqm y Salalah,517534
+port746,2023-07-17,257901,9654,0,0,30179,26,6,Salalah,C2b Omán: Duqm y Salalah,267555
+port746,2023-07-24,427213,16907,0,0,14781,31,3,Salalah,C2b Omán: Duqm y Salalah,444120
+port746,2023-07-31,371919,0,0,0,15100,27,5,Salalah,C2b Omán: Duqm y Salalah,371919
+port746,2023-08-07,465028,12305,0,0,22321,24,7,Salalah,C2b Omán: Duqm y Salalah,477333
+port746,2023-08-14,556239,17508,0,0,33485,25,7,Salalah,C2b Omán: Duqm y Salalah,573747
+port746,2023-08-21,215642,0,1264,0,6984,25,4,Salalah,C2b Omán: Duqm y Salalah,216906
+port746,2023-08-28,335479,33296,0,0,28408,26,3,Salalah,C2b Omán: Duqm y Salalah,368775
+port746,2023-09-04,334914,4827,0,0,14822,23,4,Salalah,C2b Omán: Duqm y Salalah,339741
+port746,2023-09-11,447904,8086,0,0,21463,35,5,Salalah,C2b Omán: Duqm y Salalah,455990
+port746,2023-09-18,692457,10240,0,0,16013,27,4,Salalah,C2b Omán: Duqm y Salalah,702697
+port746,2023-09-25,347538,0,632,0,21170,33,3,Salalah,C2b Omán: Duqm y Salalah,348170
+port746,2023-10-02,305806,4827,632,0,15715,24,3,Salalah,C2b Omán: Duqm y Salalah,311265
+port746,2023-10-09,419524,0,0,0,14226,23,3,Salalah,C2b Omán: Duqm y Salalah,419524
+port746,2023-10-16,515759,39997,0,0,26192,21,5,Salalah,C2b Omán: Duqm y Salalah,555756
+port746,2023-10-23,377143,71803,0,0,29084,26,7,Salalah,C2b Omán: Duqm y Salalah,448946
+port746,2023-10-30,727762,0,0,0,21782,28,2,Salalah,C2b Omán: Duqm y Salalah,727762
+port746,2023-11-06,232071,0,0,0,64950,23,6,Salalah,C2b Omán: Duqm y Salalah,232071
+port746,2023-11-13,358471,14481,0,0,32750,33,4,Salalah,C2b Omán: Duqm y Salalah,372952
+port746,2023-11-20,451113,31787,3773,0,38002,28,4,Salalah,C2b Omán: Duqm y Salalah,486673
+port746,2023-11-27,420109,0,3085,0,27984,25,6,Salalah,C2b Omán: Duqm y Salalah,423194
+port746,2023-12-04,177903,0,0,0,28957,22,6,Salalah,C2b Omán: Duqm y Salalah,177903
+port746,2023-12-11,437644,1504,0,0,43082,24,6,Salalah,C2b Omán: Duqm y Salalah,439148
+port746,2023-12-18,311890,0,632,0,36665,21,5,Salalah,C2b Omán: Duqm y Salalah,312522
+port746,2023-12-25,581188,15911,0,0,35192,22,7,Salalah,C2b Omán: Duqm y Salalah,597099
+port746,2024-01-01,528309,30171,0,0,0,28,3,Salalah,C2b Omán: Duqm y Salalah,558480
+port746,2024-01-08,337487,65299,0,0,14618,22,4,Salalah,C2b Omán: Duqm y Salalah,402786
+port746,2024-01-15,330897,29331,1264,0,28464,20,4,Salalah,C2b Omán: Duqm y Salalah,361492
+port746,2024-01-22,304357,0,1264,0,37792,24,5,Salalah,C2b Omán: Duqm y Salalah,305621
+port746,2024-01-29,507234,19308,632,0,27981,25,4,Salalah,C2b Omán: Duqm y Salalah,527174
+port746,2024-02-05,210754,120346,632,0,35146,21,6,Salalah,C2b Omán: Duqm y Salalah,331732
+port746,2024-02-12,372627,5531,4952,0,15870,25,2,Salalah,C2b Omán: Duqm y Salalah,383110
+port746,2024-02-19,457926,0,632,0,37777,22,5,Salalah,C2b Omán: Duqm y Salalah,458558
+port746,2024-02-26,421103,40173,6926,0,8315,28,3,Salalah,C2b Omán: Duqm y Salalah,468202
+port746,2024-03-04,357195,2916,632,0,20079,23,4,Salalah,C2b Omán: Duqm y Salalah,360743
+port746,2024-03-11,334960,54339,1264,0,28527,28,5,Salalah,C2b Omán: Duqm y Salalah,390563
+port746,2024-03-18,642622,6212,1264,0,0,27,3,Salalah,C2b Omán: Duqm y Salalah,650098
+port746,2024-03-25,419098,2072,0,0,7935,24,3,Salalah,C2b Omán: Duqm y Salalah,421170
+port746,2024-04-01,394044,65590,0,0,29398,25,6,Salalah,C2b Omán: Duqm y Salalah,459634
+port746,2024-04-08,533397,129688,0,0,22358,26,4,Salalah,C2b Omán: Duqm y Salalah,663085
+port746,2024-04-15,217503,74242,632,0,28145,25,4,Salalah,C2b Omán: Duqm y Salalah,292377
+port746,2024-04-22,541300,62882,632,0,42400,37,5,Salalah,C2b Omán: Duqm y Salalah,604814
+port746,2024-04-29,281617,45347,11372,0,49191,24,8,Salalah,C2b Omán: Duqm y Salalah,338336
+port746,2024-05-06,481705,185224,1264,0,21487,25,4,Salalah,C2b Omán: Duqm y Salalah,668193
+port746,2024-05-13,668883,85201,0,0,24089,32,5,Salalah,C2b Omán: Duqm y Salalah,754084
+port746,2024-05-20,237321,85255,0,0,11066,22,4,Salalah,C2b Omán: Duqm y Salalah,322576
+port746,2024-05-27,120684,19309,0,0,34534,22,6,Salalah,C2b Omán: Duqm y Salalah,139993
+port746,2024-06-03,339222,4827,632,0,22047,23,5,Salalah,C2b Omán: Duqm y Salalah,344681
+port746,2024-06-10,299631,4827,632,0,13923,27,5,Salalah,C2b Omán: Duqm y Salalah,305090
+port746,2024-06-17,260456,79217,0,0,9945,21,5,Salalah,C2b Omán: Duqm y Salalah,339673
+port746,2024-06-24,477596,4827,0,0,3077,22,4,Salalah,C2b Omán: Duqm y Salalah,482423
+port746,2024-07-01,296056,5531,180,0,18600,25,5,Salalah,C2b Omán: Duqm y Salalah,301767
+port746,2024-07-08,311876,14392,0,0,22297,26,5,Salalah,C2b Omán: Duqm y Salalah,326268
+port746,2024-07-15,119301,4827,0,0,30574,16,4,Salalah,C2b Omán: Duqm y Salalah,124128
+port746,2024-07-22,690721,0,0,0,33342,18,5,Salalah,C2b Omán: Duqm y Salalah,690721
+port746,2024-07-29,322124,65560,0,0,11588,25,7,Salalah,C2b Omán: Duqm y Salalah,387684
+port746,2024-08-05,354078,0,0,0,23116,26,5,Salalah,C2b Omán: Duqm y Salalah,354078
+port746,2024-08-12,362108,14482,632,0,41302,27,4,Salalah,C2b Omán: Duqm y Salalah,377222
+port746,2024-08-19,254225,6986,0,0,18049,26,3,Salalah,C2b Omán: Duqm y Salalah,261211
+port746,2024-08-26,593690,36862,18,0,16281,31,3,Salalah,C2b Omán: Duqm y Salalah,630570
+port746,2024-09-02,310768,9654,632,0,21945,28,3,Salalah,C2b Omán: Duqm y Salalah,321054
+port746,2024-09-09,414444,41590,632,0,26608,28,3,Salalah,C2b Omán: Duqm y Salalah,456666
+port746,2024-09-16,638356,54876,812,0,25407,30,3,Salalah,C2b Omán: Duqm y Salalah,694044
+port746,2024-09-23,284287,43588,0,0,14781,27,1,Salalah,C2b Omán: Duqm y Salalah,327875
+port746,2024-09-30,525331,40527,0,0,29124,29,5,Salalah,C2b Omán: Duqm y Salalah,565858
+port746,2024-10-07,221094,72008,2709,0,53997,30,5,Salalah,C2b Omán: Duqm y Salalah,295811
+port746,2024-10-14,186897,19308,632,0,10767,29,5,Salalah,C2b Omán: Duqm y Salalah,206837
+port746,2024-10-21,349070,4827,0,0,31864,21,3,Salalah,C2b Omán: Duqm y Salalah,353897
+port746,2024-10-28,543267,19308,648,0,30604,27,4,Salalah,C2b Omán: Duqm y Salalah,563223
+port746,2024-11-04,394379,27179,0,0,30752,20,5,Salalah,C2b Omán: Duqm y Salalah,421558
+port746,2024-11-11,573045,4827,632,0,28730,24,3,Salalah,C2b Omán: Duqm y Salalah,578504
+port746,2024-11-18,135889,78493,0,0,29122,27,4,Salalah,C2b Omán: Duqm y Salalah,214382
+port746,2024-11-25,231601,9654,632,0,38028,29,8,Salalah,C2b Omán: Duqm y Salalah,241887
+port746,2024-12-02,229331,12446,632,0,14617,20,5,Salalah,C2b Omán: Duqm y Salalah,242409
+port746,2024-12-09,444115,63749,0,0,14734,31,5,Salalah,C2b Omán: Duqm y Salalah,507864
+port746,2024-12-16,253527,5174,0,0,23336,19,3,Salalah,C2b Omán: Duqm y Salalah,258701
+port746,2024-12-23,309131,64367,1896,0,14519,26,3,Salalah,C2b Omán: Duqm y Salalah,375394
+port746,2024-12-30,563204,555,0,0,31288,31,5,Salalah,C2b Omán: Duqm y Salalah,563759
+port746,2025-01-06,364461,14481,0,0,39465,25,3,Salalah,C2b Omán: Duqm y Salalah,378942
+port746,2025-01-13,308996,10358,1264,0,28893,28,5,Salalah,C2b Omán: Duqm y Salalah,320618
+port746,2025-01-20,523311,71790,0,0,15366,28,3,Salalah,C2b Omán: Duqm y Salalah,595101
+port746,2025-01-27,391792,60798,632,0,21484,27,4,Salalah,C2b Omán: Duqm y Salalah,453222
+port746,2025-02-03,147037,108728,0,0,38850,25,5,Salalah,C2b Omán: Duqm y Salalah,255765
+port746,2025-02-10,399263,9654,0,0,31272,23,6,Salalah,C2b Omán: Duqm y Salalah,408917
+port746,2025-02-17,415126,4827,0,0,15366,24,2,Salalah,C2b Omán: Duqm y Salalah,419953
+port746,2025-02-24,413515,22893,1264,0,28077,26,5,Salalah,C2b Omán: Duqm y Salalah,437672
+port746,2025-03-03,450275,15185,632,0,25453,23,3,Salalah,C2b Omán: Duqm y Salalah,466092
+port746,2025-03-10,372572,19309,0,0,15100,22,2,Salalah,C2b Omán: Duqm y Salalah,391881
+port746,2025-03-17,344922,9654,632,0,22717,18,5,Salalah,C2b Omán: Duqm y Salalah,355208
+port746,2025-03-24,481738,9654,1264,0,33418,25,5,Salalah,C2b Omán: Duqm y Salalah,492656
+port746,2025-03-31,419465,27588,0,0,30651,24,4,Salalah,C2b Omán: Duqm y Salalah,447053
+port746,2025-04-07,265233,85700,0,0,15100,25,3,Salalah,C2b Omán: Duqm y Salalah,350933
+port746,2025-04-14,866977,69681,632,0,23595,31,3,Salalah,C2b Omán: Duqm y Salalah,937290
+port746,2025-04-21,619363,220382,6411,0,32802,32,4,Salalah,C2b Omán: Duqm y Salalah,846156
+port746,2025-04-28,765001,59589,0,0,45329,26,6,Salalah,C2b Omán: Duqm y Salalah,824590
+port746,2025-05-05,381234,30851,1264,0,21304,29,2,Salalah,C2b Omán: Duqm y Salalah,413349
+port746,2025-05-12,521211,108933,632,0,30651,31,4,Salalah,C2b Omán: Duqm y Salalah,630776
+port746,2025-05-19,361867,141852,0,0,14805,24,4,Salalah,C2b Omán: Duqm y Salalah,503719
+port746,2025-05-26,538994,12417,0,0,39351,24,4,Salalah,C2b Omán: Duqm y Salalah,551411
+port746,2025-06-02,464865,46351,0,0,12129,32,3,Salalah,C2b Omán: Duqm y Salalah,511216
+port746,2025-06-09,592503,5305,22927,0,17884,35,3,Salalah,C2b Omán: Duqm y Salalah,620735
+port746,2025-06-16,361222,70825,0,0,25543,22,3,Salalah,C2b Omán: Duqm y Salalah,432047
+port746,2025-06-23,868037,62223,0,0,20945,32,3,Salalah,C2b Omán: Duqm y Salalah,930260
+port746,2025-06-30,555828,61976,632,0,29983,28,5,Salalah,C2b Omán: Duqm y Salalah,618436
+port746,2025-07-07,754333,75086,0,0,1606,32,4,Salalah,C2b Omán: Duqm y Salalah,829419
+port746,2025-07-14,413549,11063,0,0,42324,33,6,Salalah,C2b Omán: Duqm y Salalah,424612
+port746,2025-07-21,496056,14482,0,0,15715,27,3,Salalah,C2b Omán: Duqm y Salalah,510538
+port746,2025-07-28,359621,40844,0,0,40376,33,7,Salalah,C2b Omán: Duqm y Salalah,400465
+port746,2025-08-04,567137,120415,1264,0,14802,34,2,Salalah,C2b Omán: Duqm y Salalah,688816
+port746,2025-08-11,724444,126536,0,0,38452,30,5,Salalah,C2b Omán: Duqm y Salalah,850980
+port746,2025-08-18,475822,23073,1264,0,21763,35,4,Salalah,C2b Omán: Duqm y Salalah,500159
+port746,2025-08-25,435184,18247,0,0,34576,30,4,Salalah,C2b Omán: Duqm y Salalah,453431
+port746,2025-09-01,490050,39052,0,0,8469,31,2,Salalah,C2b Omán: Duqm y Salalah,529102
+port746,2025-09-08,670897,119653,2068,0,28954,29,3,Salalah,C2b Omán: Duqm y Salalah,792618
+port746,2025-09-15,426689,64779,632,0,10955,26,3,Salalah,C2b Omán: Duqm y Salalah,492100
+port746,2025-09-22,297958,135610,0,0,28602,22,4,Salalah,C2b Omán: Duqm y Salalah,433568
+port746,2025-09-29,378583,87953,0,0,15398,27,2,Salalah,C2b Omán: Duqm y Salalah,466536
+port746,2025-10-06,492401,48845,632,0,15073,26,2,Salalah,C2b Omán: Duqm y Salalah,541878
+port746,2025-10-13,426410,132159,632,0,56007,26,4,Salalah,C2b Omán: Duqm y Salalah,559201
+port746,2025-10-20,383003,32116,632,0,24280,17,3,Salalah,C2b Omán: Duqm y Salalah,415751
+port746,2025-10-27,312794,33433,648,0,63250,30,6,Salalah,C2b Omán: Duqm y Salalah,346875
+port746,2025-11-03,212779,134989,632,0,16485,26,4,Salalah,C2b Omán: Duqm y Salalah,348400
+port746,2025-11-10,391722,137426,632,0,13367,21,3,Salalah,C2b Omán: Duqm y Salalah,529780
+port746,2025-11-17,398490,70832,0,0,24548,24,3,Salalah,C2b Omán: Duqm y Salalah,469322
+port746,2025-11-24,480256,178815,0,0,22552,28,3,Salalah,C2b Omán: Duqm y Salalah,659071
+port746,2025-12-01,380648,61146,3440,0,6478,23,4,Salalah,C2b Omán: Duqm y Salalah,445234
+port746,2025-12-08,182223,14481,265,0,0,11,0,Salalah,C2b Omán: Duqm y Salalah,196969
+port746,2025-12-15,233157,17588,0,0,13021,14,3,Salalah,C2b Omán: Duqm y Salalah,250745
+port746,2025-12-22,537112,70468,180,0,615,23,1,Salalah,C2b Omán: Duqm y Salalah,607760
+port746,2025-12-29,432753,121822,632,0,20889,27,2,Salalah,C2b Omán: Duqm y Salalah,555207
+port746,2026-01-05,430921,79475,0,0,26939,23,3,Salalah,C2b Omán: Duqm y Salalah,510396
+port746,2026-01-12,304362,36493,0,0,13904,23,1,Salalah,C2b Omán: Duqm y Salalah,340855
+port746,2026-01-19,609375,27964,0,0,23333,28,3,Salalah,C2b Omán: Duqm y Salalah,637339
+port746,2026-01-26,379376,89893,0,0,37392,24,3,Salalah,C2b Omán: Duqm y Salalah,469269
+port746,2026-02-02,375880,28434,632,0,21404,25,4,Salalah,C2b Omán: Duqm y Salalah,404946
+port746,2026-02-09,510718,35491,0,0,7935,20,2,Salalah,C2b Omán: Duqm y Salalah,546209
+port746,2026-02-16,319239,91696,1509,0,24560,28,3,Salalah,C2b Omán: Duqm y Salalah,412444
+port746,2026-02-23,271664,79787,0,0,8121,19,4,Salalah,C2b Omán: Duqm y Salalah,351451
+port746,2026-03-02,344645,56053,632,0,19712,26,3,Salalah,C2b Omán: Duqm y Salalah,401330
+port746,2026-03-09,203175,30307,632,0,12015,8,2,Salalah,C2b Omán: Duqm y Salalah,234114
+port746,2026-03-16,517128,93413,2529,0,4398,27,2,Salalah,C2b Omán: Duqm y Salalah,613070
+port746,2026-03-23,237917,50727,632,0,27731,18,4,Salalah,C2b Omán: Duqm y Salalah,289276
+port746,2026-03-30,281277,109486,632,0,10779,26,7,Salalah,C2b Omán: Duqm y Salalah,391395
+port746,2026-04-06,355557,4827,632,0,15100,30,5,Salalah,C2b Omán: Duqm y Salalah,361016
+port746,2026-04-13,569839,114271,0,1218,12970,30,4,Salalah,C2b Omán: Duqm y Salalah,685328
+port746,2026-04-20,577426,63664,4002,0,40980,33,6,Salalah,C2b Omán: Duqm y Salalah,645092
+port746,2026-04-27,620153,101534,231,0,52366,33,8,Salalah,C2b Omán: Duqm y Salalah,721918
+port746,2026-05-04,514239,44318,0,0,38535,33,6,Salalah,C2b Omán: Duqm y Salalah,558557
+port746,2026-05-11,387122,0,9333,0,22738,30,4,Salalah,C2b Omán: Duqm y Salalah,396455
+port746,2026-05-18,435194,61480,0,0,49001,29,13,Salalah,C2b Omán: Duqm y Salalah,496674
+port746,2026-05-25,683843,9654,0,0,31744,33,5,Salalah,C2b Omán: Duqm y Salalah,693497
+port746,2026-06-01,496857,9654,0,0,36835,30,8,Salalah,C2b Omán: Duqm y Salalah,506511
+port746,2026-06-08,584788,82597,632,0,66017,37,12,Salalah,C2b Omán: Duqm y Salalah,668017
+port746,2026-06-15,503663,0,15256,0,54751,34,8,Salalah,C2b Omán: Duqm y Salalah,518919
+port746,2026-06-22,531976,7775,0,0,28609,31,5,Salalah,C2b Omán: Duqm y Salalah,539751
+port746,2026-06-29,368293,0,3330,0,16191,27,4,Salalah,C2b Omán: Duqm y Salalah,371623
+port746,2026-07-06,542492,47155,1264,0,55095,34,9,Salalah,C2b Omán: Duqm y Salalah,590911
+port746,2026-07-13,887530,0,0,0,21480,33,7,Salalah,C2b Omán: Duqm y Salalah,887530
+port746,2026-07-20,691760,4827,0,0,50830,33,7,Salalah,C2b Omán: Duqm y Salalah,696587
+port746,2026-07-27,347713,30193,0,0,39130,31,8,Salalah,C2b Omán: Duqm y Salalah,377906
+port746,2026-08-03,896044,44240,632,0,22158,31,7,Salalah,C2b Omán: Duqm y Salalah,940916
+port746,2026-08-10,345859,15824,632,0,65184,30,10,Salalah,C2b Omán: Duqm y Salalah,362315
+port746,2026-08-17,311077,35365,0,0,65557,37,9,Salalah,C2b Omán: Duqm y Salalah,346442
+port746,2026-08-24,648156,28673,4527,0,8852,36,4,Salalah,C2b Omán: Duqm y Salalah,681356
+port746,2026-08-31,440141,26521,0,0,41230,31,7,Salalah,C2b Omán: Duqm y Salalah,466662
+port746,2026-09-07,720621,78486,8428,0,48614,34,9,Salalah,C2b Omán: Duqm y Salalah,807535
+port746,2026-09-14,560904,43448,9069,0,15870,31,3,Salalah,C2b Omán: Duqm y Salalah,613421
+port984,2022-12-26,0,0,2102,0,2835,1,1,Duqm,C2b Omán: Duqm y Salalah,2102
+port984,2023-01-02,2414,21859,0,0,0,5,0,Duqm,C2b Omán: Duqm y Salalah,24273
+port984,2023-01-09,4828,63085,3558,0,5670,11,3,Duqm,C2b Omán: Duqm y Salalah,71471
+port984,2023-01-16,0,60525,511,0,5670,8,2,Duqm,C2b Omán: Duqm y Salalah,61036
+port984,2023-01-23,2414,59318,0,0,5670,13,2,Duqm,C2b Omán: Duqm y Salalah,61732
+port984,2023-01-30,4828,29828,0,0,8505,9,3,Duqm,C2b Omán: Duqm y Salalah,34656
+port984,2023-02-06,3008,29145,0,0,27161,7,4,Duqm,C2b Omán: Duqm y Salalah,32153
+port984,2023-02-13,0,7286,0,0,12745,4,5,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2023-02-20,2414,15019,6965,0,2835,7,1,Duqm,C2b Omán: Duqm y Salalah,24398
+port984,2023-02-27,2414,7286,0,0,2492,4,1,Duqm,C2b Omán: Duqm y Salalah,9700
+port984,2023-03-06,0,14572,0,0,93,4,3,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2023-03-13,4828,14572,2102,0,2585,5,2,Duqm,C2b Omán: Duqm y Salalah,21502
+port984,2023-03-20,0,21859,0,0,2966,7,1,Duqm,C2b Omán: Duqm y Salalah,21859
+port984,2023-03-27,0,28567,0,3417,15628,5,3,Duqm,C2b Omán: Duqm y Salalah,31984
+port984,2023-04-03,2414,14572,0,0,2835,7,2,Duqm,C2b Omán: Duqm y Salalah,16986
+port984,2023-04-10,0,0,0,0,8767,2,3,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2023-04-17,0,7286,0,0,5670,2,2,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2023-04-24,2414,29145,0,0,5670,5,4,Duqm,C2b Omán: Duqm y Salalah,31559
+port984,2023-05-01,2026,14572,2102,0,8636,7,4,Duqm,C2b Omán: Duqm y Salalah,18700
+port984,2023-05-08,2026,0,0,0,0,1,2,Duqm,C2b Omán: Duqm y Salalah,2026
+port984,2023-05-15,2414,14572,0,0,0,6,2,Duqm,C2b Omán: Duqm y Salalah,16986
+port984,2023-05-22,9658,72776,2102,0,13963,8,5,Duqm,C2b Omán: Duqm y Salalah,84536
+port984,2023-05-29,4828,7286,0,0,2835,7,4,Duqm,C2b Omán: Duqm y Salalah,12114
+port984,2023-06-05,4828,7286,0,0,2835,4,4,Duqm,C2b Omán: Duqm y Salalah,12114
+port984,2023-06-12,8228,0,0,0,0,4,2,Duqm,C2b Omán: Duqm y Salalah,8228
+port984,2023-06-19,0,0,4204,0,5670,4,3,Duqm,C2b Omán: Duqm y Salalah,4204
+port984,2023-06-26,2414,0,6306,0,0,7,1,Duqm,C2b Omán: Duqm y Salalah,8720
+port984,2023-07-03,0,0,2102,0,5670,2,3,Duqm,C2b Omán: Duqm y Salalah,2102
+port984,2023-07-10,4828,9735,2102,0,5327,5,2,Duqm,C2b Omán: Duqm y Salalah,16665
+port984,2023-07-17,2414,0,14321,0,11858,7,4,Duqm,C2b Omán: Duqm y Salalah,16735
+port984,2023-07-24,0,0,4569,0,5801,3,3,Duqm,C2b Omán: Duqm y Salalah,4569
+port984,2023-07-31,4440,0,0,0,5424,2,5,Duqm,C2b Omán: Duqm y Salalah,4440
+port984,2023-08-07,0,0,0,0,5670,0,2,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2023-08-14,4829,28451,0,0,0,7,2,Duqm,C2b Omán: Duqm y Salalah,33280
+port984,2023-08-21,4828,10323,0,0,3322,7,5,Duqm,C2b Omán: Duqm y Salalah,15151
+port984,2023-08-28,3391,14572,0,0,0,5,1,Duqm,C2b Omán: Duqm y Salalah,17963
+port984,2023-09-04,0,0,0,0,0,2,2,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2023-09-11,2414,8158,1688,0,5801,8,2,Duqm,C2b Omán: Duqm y Salalah,12260
+port984,2023-09-18,2414,0,0,0,8767,4,3,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2023-09-25,12072,0,0,0,2966,6,4,Duqm,C2b Omán: Duqm y Salalah,12072
+port984,2023-10-02,12070,0,688,0,0,6,1,Duqm,C2b Omán: Duqm y Salalah,12758
+port984,2023-10-09,5912,7286,0,0,8743,4,3,Duqm,C2b Omán: Duqm y Salalah,13198
+port984,2023-10-16,2414,0,0,0,17748,3,8,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2023-10-23,0,7840,2102,0,11816,4,6,Duqm,C2b Omán: Duqm y Salalah,9942
+port984,2023-10-30,2414,0,840,0,5908,4,3,Duqm,C2b Omán: Duqm y Salalah,3254
+port984,2023-11-06,2414,0,0,0,11578,1,4,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2023-11-13,2414,33065,0,0,1505,2,1,Duqm,C2b Omán: Duqm y Salalah,35479
+port984,2023-11-20,4317,0,2548,0,8836,3,5,Duqm,C2b Omán: Duqm y Salalah,6865
+port984,2023-11-27,0,0,0,0,8874,1,3,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2023-12-04,2414,0,1032,0,8293,2,6,Duqm,C2b Omán: Duqm y Salalah,3446
+port984,2023-12-11,2414,0,0,0,2492,2,2,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2023-12-18,2414,0,2102,0,2835,5,2,Duqm,C2b Omán: Duqm y Salalah,4516
+port984,2023-12-25,0,13334,2102,0,0,4,1,Duqm,C2b Omán: Duqm y Salalah,15436
+port984,2024-01-01,2414,0,0,0,2835,3,2,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2024-01-08,0,0,11989,0,5670,3,2,Duqm,C2b Omán: Duqm y Salalah,11989
+port984,2024-01-15,18138,7286,0,0,0,4,2,Duqm,C2b Omán: Duqm y Salalah,25424
+port984,2024-01-22,0,23235,0,0,2835,4,2,Duqm,C2b Omán: Duqm y Salalah,23235
+port984,2024-01-29,0,8399,2786,0,15541,3,3,Duqm,C2b Omán: Duqm y Salalah,11185
+port984,2024-02-05,0,7286,0,0,13142,2,2,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-02-12,2414,0,0,0,5327,3,3,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2024-02-19,0,0,2102,0,2492,1,2,Duqm,C2b Omán: Duqm y Salalah,2102
+port984,2024-02-26,0,0,0,0,0,3,3,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2024-03-04,2414,0,0,0,2585,1,6,Duqm,C2b Omán: Duqm y Salalah,2414
+port984,2024-03-11,0,14572,0,0,0,2,1,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2024-03-18,0,14572,0,0,2492,4,3,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2024-03-25,2414,8958,8260,0,2966,5,3,Duqm,C2b Omán: Duqm y Salalah,19632
+port984,2024-04-01,0,10072,2102,0,5801,3,3,Duqm,C2b Omán: Duqm y Salalah,12174
+port984,2024-04-08,0,16236,0,0,8767,4,6,Duqm,C2b Omán: Duqm y Salalah,16236
+port984,2024-04-15,0,7286,8068,0,2966,4,3,Duqm,C2b Omán: Duqm y Salalah,15354
+port984,2024-04-22,0,9512,4034,0,2966,4,2,Duqm,C2b Omán: Duqm y Salalah,13546
+port984,2024-04-29,0,15256,0,0,2835,6,3,Duqm,C2b Omán: Duqm y Salalah,15256
+port984,2024-05-06,0,20851,2102,0,101628,4,2,Duqm,C2b Omán: Duqm y Salalah,22953
+port984,2024-05-13,0,25638,325,0,0,3,7,Duqm,C2b Omán: Duqm y Salalah,25963
+port984,2024-05-20,0,0,0,0,0,1,1,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2024-05-27,0,54440,949,0,0,4,0,Duqm,C2b Omán: Duqm y Salalah,55389
+port984,2024-06-03,2414,14572,317,0,137234,5,4,Duqm,C2b Omán: Duqm y Salalah,17303
+port984,2024-06-10,2414,114576,0,0,8162,4,3,Duqm,C2b Omán: Duqm y Salalah,116990
+port984,2024-06-17,0,7286,0,0,18531,1,7,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-06-24,0,7286,0,0,13409,4,13,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-07-01,1124,14572,0,0,78771,5,7,Duqm,C2b Omán: Duqm y Salalah,15696
+port984,2024-07-08,0,0,2102,0,8255,3,5,Duqm,C2b Omán: Duqm y Salalah,2102
+port984,2024-07-15,0,7286,2555,0,8162,3,4,Duqm,C2b Omán: Duqm y Salalah,9841
+port984,2024-07-22,0,21859,0,0,0,4,3,Duqm,C2b Omán: Duqm y Salalah,21859
+port984,2024-07-29,0,7286,0,0,0,3,0,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-08-05,0,7286,0,0,21153,1,7,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-08-12,2414,7286,2102,0,0,3,1,Duqm,C2b Omán: Duqm y Salalah,11802
+port984,2024-08-19,0,37833,2090,0,10916,2,5,Duqm,C2b Omán: Duqm y Salalah,39923
+port984,2024-08-26,0,21858,2102,0,11009,4,6,Duqm,C2b Omán: Duqm y Salalah,23960
+port984,2024-09-02,0,21858,0,0,8937,5,4,Duqm,C2b Omán: Duqm y Salalah,21858
+port984,2024-09-09,0,7286,0,0,10784,1,4,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-09-16,0,0,0,0,5670,0,4,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2024-09-23,0,43020,2102,0,2835,4,3,Duqm,C2b Omán: Duqm y Salalah,45122
+port984,2024-09-30,0,0,0,87,18469,1,4,Duqm,C2b Omán: Duqm y Salalah,87
+port984,2024-10-07,0,5561,0,0,0,1,4,Duqm,C2b Omán: Duqm y Salalah,5561
+port984,2024-10-14,2414,0,2639,0,2492,2,1,Duqm,C2b Omán: Duqm y Salalah,5053
+port984,2024-10-21,0,0,0,0,2492,0,2,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2024-10-28,2414,0,5179,0,1505,3,3,Duqm,C2b Omán: Duqm y Salalah,7593
+port984,2024-11-04,0,0,0,0,2835,3,2,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2024-11-11,0,22758,0,0,5898,1,2,Duqm,C2b Omán: Duqm y Salalah,22758
+port984,2024-11-18,0,0,0,0,2966,0,5,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2024-11-25,0,95142,0,0,19963,5,3,Duqm,C2b Omán: Duqm y Salalah,95142
+port984,2024-12-02,0,7286,0,0,2966,2,2,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2024-12-09,2414,61828,0,0,39736,8,6,Duqm,C2b Omán: Duqm y Salalah,64242
+port984,2024-12-16,2414,31129,0,0,9005,2,3,Duqm,C2b Omán: Duqm y Salalah,33543
+port984,2024-12-23,0,22415,0,0,12537,7,3,Duqm,C2b Omán: Duqm y Salalah,22415
+port984,2024-12-30,2414,29145,0,0,5327,7,3,Duqm,C2b Omán: Duqm y Salalah,31559
+port984,2025-01-06,0,50150,0,0,36074,6,3,Duqm,C2b Omán: Duqm y Salalah,50150
+port984,2025-01-13,0,21859,0,0,0,4,2,Duqm,C2b Omán: Duqm y Salalah,21859
+port984,2025-01-20,0,7286,0,0,2492,2,2,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2025-01-27,0,35048,0,0,0,3,2,Duqm,C2b Omán: Duqm y Salalah,35048
+port984,2025-02-03,0,7286,0,0,9894,1,3,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2025-02-10,0,14572,0,0,16715,4,6,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2025-02-17,2414,7286,3457,0,17788,3,4,Duqm,C2b Omán: Duqm y Salalah,13157
+port984,2025-02-24,0,14572,0,0,8423,4,6,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2025-03-03,0,21858,0,0,0,3,2,Duqm,C2b Omán: Duqm y Salalah,21858
+port984,2025-03-10,10123,22373,2883,0,6525,9,5,Duqm,C2b Omán: Duqm y Salalah,35379
+port984,2025-03-17,0,14572,263,0,2835,3,1,Duqm,C2b Omán: Duqm y Salalah,14835
+port984,2025-03-24,2929,7286,0,0,2835,4,1,Duqm,C2b Omán: Duqm y Salalah,10215
+port984,2025-03-31,0,7286,0,0,0,3,1,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2025-04-07,0,42555,0,0,11225,5,4,Duqm,C2b Omán: Duqm y Salalah,42555
+port984,2025-04-14,0,41432,0,0,4471,3,2,Duqm,C2b Omán: Duqm y Salalah,41432
+port984,2025-04-21,0,0,0,0,8468,3,7,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2025-04-28,3141,7286,0,0,5670,3,3,Duqm,C2b Omán: Duqm y Salalah,10427
+port984,2025-05-05,0,0,0,87,10141,3,5,Duqm,C2b Omán: Duqm y Salalah,87
+port984,2025-05-12,1129,4766,0,0,11128,2,5,Duqm,C2b Omán: Duqm y Salalah,5895
+port984,2025-05-19,0,7286,0,0,8162,1,5,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2025-05-26,21877,22275,0,0,290,5,2,Duqm,C2b Omán: Duqm y Salalah,44152
+port984,2025-06-02,0,14572,0,0,1505,4,1,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2025-06-09,4828,0,548,2552,2835,6,5,Duqm,C2b Omán: Duqm y Salalah,7928
+port984,2025-06-16,2414,20486,3955,0,8869,4,4,Duqm,C2b Omán: Duqm y Salalah,26855
+port984,2025-06-23,0,7286,0,0,10654,2,6,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2025-06-30,0,14572,0,0,8602,3,4,Duqm,C2b Omán: Duqm y Salalah,14572
+port984,2025-07-07,0,21858,0,0,8864,3,5,Duqm,C2b Omán: Duqm y Salalah,21858
+port984,2025-07-14,21940,17481,4622,0,19436,7,7,Duqm,C2b Omán: Duqm y Salalah,44043
+port984,2025-07-21,21940,7286,0,0,8259,2,4,Duqm,C2b Omán: Duqm y Salalah,29226
+port984,2025-07-28,21940,54219,0,0,6869,4,5,Duqm,C2b Omán: Duqm y Salalah,76159
+port984,2025-08-04,21940,7286,0,0,104606,2,4,Duqm,C2b Omán: Duqm y Salalah,29226
+port984,2025-08-11,21940,68479,0,0,6772,5,4,Duqm,C2b Omán: Duqm y Salalah,90419
+port984,2025-08-18,0,0,2102,0,29096,3,4,Duqm,C2b Omán: Duqm y Salalah,2102
+port984,2025-08-25,45222,21858,4761,0,3222,9,2,Duqm,C2b Omán: Duqm y Salalah,71841
+port984,2025-09-01,21940,53993,4204,0,290,8,1,Duqm,C2b Omán: Duqm y Salalah,80137
+port984,2025-09-08,0,21858,0,0,4078,5,4,Duqm,C2b Omán: Duqm y Salalah,21858
+port984,2025-09-15,43880,7286,4205,0,3415,5,4,Duqm,C2b Omán: Duqm y Salalah,55371
+port984,2025-09-22,21940,14572,0,0,7582,3,6,Duqm,C2b Omán: Duqm y Salalah,36512
+port984,2025-09-29,0,49854,0,0,6913,4,4,Duqm,C2b Omán: Duqm y Salalah,49854
+port984,2025-10-06,24354,51329,0,0,10434,7,5,Duqm,C2b Omán: Duqm y Salalah,75683
+port984,2025-10-13,2414,7286,0,0,8698,2,4,Duqm,C2b Omán: Duqm y Salalah,9700
+port984,2025-10-20,0,0,4204,0,0,3,3,Duqm,C2b Omán: Duqm y Salalah,4204
+port984,2025-10-27,1451,32082,0,0,15495,4,3,Duqm,C2b Omán: Duqm y Salalah,33533
+port984,2025-11-03,0,0,4529,0,2835,4,1,Duqm,C2b Omán: Duqm y Salalah,4529
+port984,2025-11-10,0,52990,2105,0,6772,4,3,Duqm,C2b Omán: Duqm y Salalah,55095
+port984,2025-11-17,0,7286,4464,0,12002,3,5,Duqm,C2b Omán: Duqm y Salalah,11750
+port984,2025-11-24,0,7286,2102,0,2185,3,4,Duqm,C2b Omán: Duqm y Salalah,9388
+port984,2025-12-01,2414,42421,2102,2600,3125,7,6,Duqm,C2b Omán: Duqm y Salalah,49537
+port984,2025-12-08,0,0,0,0,0,0,2,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2025-12-15,0,0,0,0,8356,0,3,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2025-12-22,0,0,0,0,5458,0,3,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2025-12-29,1129,4064,3737,0,0,4,0,Duqm,C2b Omán: Duqm y Salalah,8930
+port984,2026-01-05,0,7286,0,0,3550,2,2,Duqm,C2b Omán: Duqm y Salalah,7286
+port984,2026-01-12,0,0,0,0,8259,0,3,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2026-01-19,1129,7286,0,0,5424,2,2,Duqm,C2b Omán: Duqm y Salalah,8415
+port984,2026-01-26,0,872,0,0,2492,1,1,Duqm,C2b Omán: Duqm y Salalah,872
+port984,2026-02-02,0,33762,2906,0,29130,4,2,Duqm,C2b Omán: Duqm y Salalah,36668
+port984,2026-02-09,0,0,2102,0,2835,2,2,Duqm,C2b Omán: Duqm y Salalah,2102
+port984,2026-02-16,9167,0,2408,0,6605,3,1,Duqm,C2b Omán: Duqm y Salalah,11575
+port984,2026-02-23,0,0,0,0,0,1,0,Duqm,C2b Omán: Duqm y Salalah,0
+port984,2026-03-02,3768,7286,2102,0,5670,3,3,Duqm,C2b Omán: Duqm y Salalah,13156
+port984,2026-03-09,0,14572,7849,0,0,3,1,Duqm,C2b Omán: Duqm y Salalah,22421
+port984,2026-03-16,2414,7286,590,0,2966,5,2,Duqm,C2b Omán: Duqm y Salalah,10290
+port984,2026-03-23,35058,14572,2481,0,108227,6,3,Duqm,C2b Omán: Duqm y Salalah,52111
+port984,2026-03-30,0,29145,2102,0,2966,7,1,Duqm,C2b Omán: Duqm y Salalah,31247
+port984,2026-04-06,0,29144,26368,87,8578,12,2,Duqm,C2b Omán: Duqm y Salalah,55599
+port984,2026-04-13,0,146122,1785,87,0,8,1,Duqm,C2b Omán: Duqm y Salalah,147994
+port984,2026-04-20,0,18637,3317,174,2966,9,1,Duqm,C2b Omán: Duqm y Salalah,22128
+port984,2026-04-27,0,54658,0,87,2835,6,2,Duqm,C2b Omán: Duqm y Salalah,54745
+port984,2026-05-04,2414,37385,2102,0,6321,6,8,Duqm,C2b Omán: Duqm y Salalah,41901
+port984,2026-05-11,17131,4064,4185,0,4845,7,8,Duqm,C2b Omán: Duqm y Salalah,25380
+port984,2026-05-18,0,11350,11471,0,2966,5,5,Duqm,C2b Omán: Duqm y Salalah,22821
+port984,2026-05-25,2414,48697,5730,0,9825,7,5,Duqm,C2b Omán: Duqm y Salalah,56841
+port984,2026-06-01,0,0,7320,0,8356,3,8,Duqm,C2b Omán: Duqm y Salalah,7320
+port984,2026-06-08,2414,34496,0,1341,6100,6,4,Duqm,C2b Omán: Duqm y Salalah,38251
+port984,2026-06-15,17096,35229,2102,0,44858,7,7,Duqm,C2b Omán: Duqm y Salalah,54427
+port984,2026-06-22,0,33686,1611,0,9231,3,5,Duqm,C2b Omán: Duqm y Salalah,35297
+port984,2026-06-29,6862,7286,2139,0,290,8,3,Duqm,C2b Omán: Duqm y Salalah,16287
+port984,2026-07-06,0,0,3170,1492,290,6,3,Duqm,C2b Omán: Duqm y Salalah,4662
+port984,2026-07-13,0,31892,9773,1341,5894,6,6,Duqm,C2b Omán: Duqm y Salalah,43006
+port984,2026-07-20,31197,42003,8429,0,290,10,4,Duqm,C2b Omán: Duqm y Salalah,81629
+port984,2026-07-27,2414,16572,9673,0,17322,8,6,Duqm,C2b Omán: Duqm y Salalah,28659
+port984,2026-08-03,4517,32935,4204,0,8926,6,6,Duqm,C2b Omán: Duqm y Salalah,41656
+port984,2026-08-10,2209,7286,14655,0,11831,9,9,Duqm,C2b Omán: Duqm y Salalah,24150
+port984,2026-08-17,26232,14219,15859,0,5767,14,2,Duqm,C2b Omán: Duqm y Salalah,56310
+port984,2026-08-24,14554,0,7764,0,2966,4,3,Duqm,C2b Omán: Duqm y Salalah,22318
+port984,2026-08-31,2414,16793,2102,0,9299,6,5,Duqm,C2b Omán: Duqm y Salalah,21309
+port984,2026-09-07,24446,0,29943,0,199,9,2,Duqm,C2b Omán: Duqm y Salalah,54389
+port984,2026-09-14,5961,16135,14229,0,9082,9,6,Duqm,C2b Omán: Duqm y Salalah,36325
+port988,2022-12-26,2429,0,0,0,31725,4,2,Sohar,C2a Omán: Sohar,2429
+port988,2023-01-02,39462,302454,4734,5530,65982,34,13,Sohar,C2a Omán: Sohar,352180
+port988,2023-01-09,36262,64820,2367,2041,124076,24,10,Sohar,C2a Omán: Sohar,105490
+port988,2023-01-16,51339,401364,2367,5743,57536,37,20,Sohar,C2a Omán: Sohar,460813
+port988,2023-01-23,34177,271543,0,4450,50924,27,14,Sohar,C2a Omán: Sohar,310170
+port988,2023-01-30,30881,15540,0,2604,117967,28,18,Sohar,C2a Omán: Sohar,49025
+port988,2023-02-06,34080,462791,15502,5037,140733,35,21,Sohar,C2a Omán: Sohar,517410
+port988,2023-02-13,52590,157047,0,1188,30005,28,14,Sohar,C2a Omán: Sohar,210825
+port988,2023-02-20,29835,188490,0,3240,174272,28,23,Sohar,C2a Omán: Sohar,221565
+port988,2023-02-27,30833,118813,2367,5761,78306,30,22,Sohar,C2a Omán: Sohar,157774
+port988,2023-03-06,31476,105627,1185,2043,170033,29,18,Sohar,C2a Omán: Sohar,140331
+port988,2023-03-13,44013,87106,12660,3252,296398,27,25,Sohar,C2a Omán: Sohar,147031
+port988,2023-03-20,46607,419005,6789,3164,89789,26,15,Sohar,C2a Omán: Sohar,475565
+port988,2023-03-27,28318,557278,0,4067,100624,26,16,Sohar,C2a Omán: Sohar,589663
+port988,2023-04-03,15223,366196,0,2723,200539,29,18,Sohar,C2a Omán: Sohar,384142
+port988,2023-04-10,39168,24813,2367,3962,64501,23,16,Sohar,C2a Omán: Sohar,70310
+port988,2023-04-17,26078,361985,11097,8523,211677,39,23,Sohar,C2a Omán: Sohar,407683
+port988,2023-04-24,40084,462240,209,2380,91250,27,12,Sohar,C2a Omán: Sohar,504913
+port988,2023-05-01,42390,133874,20452,1989,176615,37,19,Sohar,C2a Omán: Sohar,198705
+port988,2023-05-08,41214,448793,22109,2046,72703,33,16,Sohar,C2a Omán: Sohar,514162
+port988,2023-05-15,25650,123370,21768,5550,120966,34,14,Sohar,C2a Omán: Sohar,176338
+port988,2023-05-22,18922,420737,0,509,218649,29,22,Sohar,C2a Omán: Sohar,440168
+port988,2023-05-29,22410,89248,56561,1188,164765,28,20,Sohar,C2a Omán: Sohar,169407
+port988,2023-06-05,30502,172944,2367,4759,142155,31,15,Sohar,C2a Omán: Sohar,210572
+port988,2023-06-12,34043,290430,15502,3429,222176,26,23,Sohar,C2a Omán: Sohar,343404
+port988,2023-06-19,18708,493638,4283,3234,76736,33,22,Sohar,C2a Omán: Sohar,519863
+port988,2023-06-26,25889,111948,4734,3979,21788,36,23,Sohar,C2a Omán: Sohar,146550
+port988,2023-07-03,36140,382783,29853,3412,79139,30,20,Sohar,C2a Omán: Sohar,452188
+port988,2023-07-10,20179,307547,1693,2433,199447,26,20,Sohar,C2a Omán: Sohar,331852
+port988,2023-07-17,38597,448955,0,3355,121039,28,18,Sohar,C2a Omán: Sohar,490907
+port988,2023-07-24,11340,66810,30162,1935,166167,33,23,Sohar,C2a Omán: Sohar,110247
+port988,2023-07-31,27160,521429,0,2564,66697,32,16,Sohar,C2a Omán: Sohar,551153
+port988,2023-08-07,49142,457885,21875,2239,167916,31,21,Sohar,C2a Omán: Sohar,531141
+port988,2023-08-14,60713,73354,0,7113,131436,32,15,Sohar,C2a Omán: Sohar,141180
+port988,2023-08-21,38502,486864,698,1545,18643,31,17,Sohar,C2a Omán: Sohar,527609
+port988,2023-08-28,43305,156397,17869,0,123819,32,16,Sohar,C2a Omán: Sohar,217571
+port988,2023-09-04,36466,326371,2367,2979,113594,37,16,Sohar,C2a Omán: Sohar,368183
+port988,2023-09-11,49603,449361,1844,1535,115821,35,20,Sohar,C2a Omán: Sohar,502343
+port988,2023-09-18,40705,50166,16873,3859,157720,30,22,Sohar,C2a Omán: Sohar,111603
+port988,2023-09-25,27785,529155,16893,4785,143053,34,17,Sohar,C2a Omán: Sohar,578618
+port988,2023-10-02,38163,113511,2367,4017,162766,28,19,Sohar,C2a Omán: Sohar,158058
+port988,2023-10-09,41920,350402,2367,4512,58941,43,16,Sohar,C2a Omán: Sohar,399201
+port988,2023-10-16,10152,87506,6765,2727,72150,29,15,Sohar,C2a Omán: Sohar,107150
+port988,2023-10-23,29489,454134,13556,2969,214264,35,18,Sohar,C2a Omán: Sohar,500148
+port988,2023-10-30,19236,228165,438,5401,83436,32,16,Sohar,C2a Omán: Sohar,253240
+port988,2023-11-06,29356,331975,17995,9429,170163,34,13,Sohar,C2a Omán: Sohar,388755
+port988,2023-11-13,21335,42163,0,1188,67658,24,11,Sohar,C2a Omán: Sohar,64686
+port988,2023-11-20,31453,315316,0,4837,56295,22,13,Sohar,C2a Omán: Sohar,351606
+port988,2023-11-27,33031,275998,0,8284,110722,36,12,Sohar,C2a Omán: Sohar,317313
+port988,2023-12-04,33804,369832,8761,2044,38408,31,16,Sohar,C2a Omán: Sohar,414441
+port988,2023-12-11,27418,201889,3940,6648,34326,24,15,Sohar,C2a Omán: Sohar,239895
+port988,2023-12-18,56854,100938,0,1394,99137,34,10,Sohar,C2a Omán: Sohar,159186
+port988,2023-12-25,50242,505083,17644,4231,123368,35,18,Sohar,C2a Omán: Sohar,577200
+port988,2024-01-01,43516,419373,0,5965,8089,32,8,Sohar,C2a Omán: Sohar,468854
+port988,2024-01-08,39229,222829,28132,3087,162438,27,15,Sohar,C2a Omán: Sohar,293277
+port988,2024-01-15,39023,84532,0,8721,207613,33,16,Sohar,C2a Omán: Sohar,132276
+port988,2024-01-22,57698,329873,0,6536,111248,31,14,Sohar,C2a Omán: Sohar,394107
+port988,2024-01-29,61042,83343,2367,422,10348,27,11,Sohar,C2a Omán: Sohar,147174
+port988,2024-02-05,37166,322708,3724,3458,9249,27,13,Sohar,C2a Omán: Sohar,367056
+port988,2024-02-12,16421,165473,0,7008,180871,33,16,Sohar,C2a Omán: Sohar,188902
+port988,2024-02-19,47881,86258,12665,0,33161,25,12,Sohar,C2a Omán: Sohar,146804
+port988,2024-02-26,43458,458256,0,4842,129717,27,17,Sohar,C2a Omán: Sohar,506556
+port988,2024-03-04,83043,517112,0,512,24637,24,14,Sohar,C2a Omán: Sohar,600667
+port988,2024-03-11,49264,437135,6529,3400,139264,25,17,Sohar,C2a Omán: Sohar,496328
+port988,2024-03-18,32382,439604,2834,2694,137971,36,18,Sohar,C2a Omán: Sohar,477514
+port988,2024-03-25,16326,81664,16060,1188,131462,20,14,Sohar,C2a Omán: Sohar,115238
+port988,2024-04-01,100162,559203,1147,10891,93784,36,15,Sohar,C2a Omán: Sohar,671403
+port988,2024-04-08,83008,467827,32569,1180,154058,37,15,Sohar,C2a Omán: Sohar,584584
+port988,2024-04-15,100153,91413,6529,5333,64318,27,15,Sohar,C2a Omán: Sohar,203428
+port988,2024-04-22,40698,512863,2367,3543,136944,35,13,Sohar,C2a Omán: Sohar,559471
+port988,2024-04-29,28974,79726,12980,1844,157266,23,17,Sohar,C2a Omán: Sohar,123524
+port988,2024-05-06,51551,594379,20209,2208,152390,39,20,Sohar,C2a Omán: Sohar,668347
+port988,2024-05-13,22518,487902,0,2946,30426,30,14,Sohar,C2a Omán: Sohar,513366
+port988,2024-05-20,16482,104739,4511,1023,65974,28,13,Sohar,C2a Omán: Sohar,126755
+port988,2024-05-27,56109,408675,0,5634,254851,29,20,Sohar,C2a Omán: Sohar,470418
+port988,2024-06-03,21104,16665,31252,2556,54781,35,16,Sohar,C2a Omán: Sohar,71577
+port988,2024-06-10,44643,241747,21502,8341,134904,29,15,Sohar,C2a Omán: Sohar,316233
+port988,2024-06-17,43386,392852,0,5443,67862,35,15,Sohar,C2a Omán: Sohar,441681
+port988,2024-06-24,28633,453278,698,4636,51112,24,16,Sohar,C2a Omán: Sohar,487245
+port988,2024-07-01,20577,562,15502,1790,23425,21,17,Sohar,C2a Omán: Sohar,38431
+port988,2024-07-08,29505,146083,1396,3011,45364,29,14,Sohar,C2a Omán: Sohar,179995
+port988,2024-07-15,39496,473170,30187,2864,90639,37,15,Sohar,C2a Omán: Sohar,545717
+port988,2024-07-22,57613,490916,3699,3994,149170,26,16,Sohar,C2a Omán: Sohar,556222
+port988,2024-07-29,61063,388678,17254,5525,184637,34,17,Sohar,C2a Omán: Sohar,472520
+port988,2024-08-05,15755,452796,0,2685,189912,23,18,Sohar,C2a Omán: Sohar,471236
+port988,2024-08-12,37544,13861,21896,4905,221529,23,18,Sohar,C2a Omán: Sohar,78206
+port988,2024-08-19,38049,540658,8345,5589,184034,31,20,Sohar,C2a Omán: Sohar,592641
+port988,2024-08-26,28155,516698,10054,5663,86650,28,17,Sohar,C2a Omán: Sohar,560570
+port988,2024-09-02,38945,463754,2367,2259,129030,30,19,Sohar,C2a Omán: Sohar,507325
+port988,2024-09-09,33422,53512,934,4785,126424,24,21,Sohar,C2a Omán: Sohar,92653
+port988,2024-09-16,30142,58761,0,2049,151041,20,21,Sohar,C2a Omán: Sohar,90952
+port988,2024-09-23,21189,482057,0,4594,125186,28,21,Sohar,C2a Omán: Sohar,507840
+port988,2024-09-30,33415,218682,0,6245,209041,35,19,Sohar,C2a Omán: Sohar,258342
+port988,2024-10-07,24126,542757,17378,3913,95338,29,17,Sohar,C2a Omán: Sohar,588174
+port988,2024-10-14,14796,433214,3055,4585,145087,27,15,Sohar,C2a Omán: Sohar,455650
+port988,2024-10-21,30533,49732,3267,4288,100889,26,20,Sohar,C2a Omán: Sohar,87820
+port988,2024-10-28,16491,538207,8549,2041,191798,27,14,Sohar,C2a Omán: Sohar,565288
+port988,2024-11-04,58974,511523,0,8914,131985,35,19,Sohar,C2a Omán: Sohar,579411
+port988,2024-11-11,22452,7302,18091,6771,112299,28,17,Sohar,C2a Omán: Sohar,54616
+port988,2024-11-18,43446,457598,6512,9131,40596,32,14,Sohar,C2a Omán: Sohar,516687
+port988,2024-11-25,19885,487416,10461,9393,76389,28,14,Sohar,C2a Omán: Sohar,527155
+port988,2024-12-02,18292,479258,936,1951,203798,24,17,Sohar,C2a Omán: Sohar,500437
+port988,2024-12-09,14779,181276,2797,5511,141764,30,13,Sohar,C2a Omán: Sohar,204363
+port988,2024-12-16,26012,456061,0,6739,105951,31,17,Sohar,C2a Omán: Sohar,488812
+port988,2024-12-23,46000,474301,0,8257,65477,33,13,Sohar,C2a Omán: Sohar,528558
+port988,2024-12-30,45043,93770,0,460,115662,29,17,Sohar,C2a Omán: Sohar,139273
+port988,2025-01-06,27045,486271,265,3384,14597,31,11,Sohar,C2a Omán: Sohar,516965
+port988,2025-01-13,20859,433756,13190,4815,129911,28,11,Sohar,C2a Omán: Sohar,472620
+port988,2025-01-20,48434,472663,2691,2878,101327,29,16,Sohar,C2a Omán: Sohar,526666
+port988,2025-01-27,26599,159837,1548,1024,50953,29,16,Sohar,C2a Omán: Sohar,189008
+port988,2025-02-03,34099,462626,7101,8312,7488,37,6,Sohar,C2a Omán: Sohar,512138
+port988,2025-02-10,68226,120774,4277,7831,230411,27,18,Sohar,C2a Omán: Sohar,201108
+port988,2025-02-17,14764,440866,8148,2699,98777,27,15,Sohar,C2a Omán: Sohar,466477
+port988,2025-02-24,26110,413797,8977,3871,44982,26,17,Sohar,C2a Omán: Sohar,452755
+port988,2025-03-03,41545,560441,0,1442,167046,31,13,Sohar,C2a Omán: Sohar,603428
+port988,2025-03-10,34927,68407,9355,5784,88033,32,17,Sohar,C2a Omán: Sohar,118473
+port988,2025-03-17,42048,79322,489,7670,34361,33,15,Sohar,C2a Omán: Sohar,129529
+port988,2025-03-24,19226,402109,5285,3615,192036,23,16,Sohar,C2a Omán: Sohar,430235
+port988,2025-03-31,29512,549460,5498,4236,117783,35,20,Sohar,C2a Omán: Sohar,588706
+port988,2025-04-07,13493,160839,2650,2728,48702,32,13,Sohar,C2a Omán: Sohar,179710
+port988,2025-04-14,43769,326372,0,4375,67676,20,14,Sohar,C2a Omán: Sohar,374516
+port988,2025-04-21,22008,106620,2367,6845,156016,27,20,Sohar,C2a Omán: Sohar,137840
+port988,2025-04-28,44114,484908,16525,3251,154054,30,13,Sohar,C2a Omán: Sohar,548798
+port988,2025-05-05,36044,405836,2279,1859,23891,27,15,Sohar,C2a Omán: Sohar,446018
+port988,2025-05-12,57401,94116,3225,8221,64855,37,12,Sohar,C2a Omán: Sohar,162963
+port988,2025-05-19,38528,63887,772,1535,57260,28,24,Sohar,C2a Omán: Sohar,104722
+port988,2025-05-26,97458,372737,4996,9024,207103,32,15,Sohar,C2a Omán: Sohar,484215
+port988,2025-06-02,32734,493041,11085,1188,67836,26,22,Sohar,C2a Omán: Sohar,538048
+port988,2025-06-09,32871,190067,25202,7163,160010,36,18,Sohar,C2a Omán: Sohar,255303
+port988,2025-06-16,36806,386602,15070,1701,90452,27,12,Sohar,C2a Omán: Sohar,440179
+port988,2025-06-23,25158,83942,10488,6719,181875,36,19,Sohar,C2a Omán: Sohar,126307
+port988,2025-06-30,28818,556205,1273,2376,182808,32,13,Sohar,C2a Omán: Sohar,588672
+port988,2025-07-07,57328,611757,20485,5783,177304,30,21,Sohar,C2a Omán: Sohar,695353
+port988,2025-07-14,57050,128113,2879,6090,89671,36,14,Sohar,C2a Omán: Sohar,194132
+port988,2025-07-21,11423,521723,12089,5191,227170,29,15,Sohar,C2a Omán: Sohar,550426
+port988,2025-07-28,22849,548374,3257,6934,244039,33,17,Sohar,C2a Omán: Sohar,581414
+port988,2025-08-04,47936,391121,0,5750,141854,34,17,Sohar,C2a Omán: Sohar,444807
+port988,2025-08-11,37084,145271,0,6036,29957,30,17,Sohar,C2a Omán: Sohar,188391
+port988,2025-08-18,25496,172983,5936,2590,213986,27,18,Sohar,C2a Omán: Sohar,207005
+port988,2025-08-25,35687,495662,2367,5413,88351,33,16,Sohar,C2a Omán: Sohar,539129
+port988,2025-09-01,49204,353286,3859,1125,110549,25,18,Sohar,C2a Omán: Sohar,407474
+port988,2025-09-08,36269,62834,13265,14090,59499,34,15,Sohar,C2a Omán: Sohar,126458
+port988,2025-09-15,44864,475698,2367,4338,176058,34,18,Sohar,C2a Omán: Sohar,527267
+port988,2025-09-22,22003,637160,13763,5757,118215,32,20,Sohar,C2a Omán: Sohar,678683
+port988,2025-09-29,33860,10986,4177,3062,171536,24,25,Sohar,C2a Omán: Sohar,52085
+port988,2025-10-06,40812,422611,1983,10061,56246,33,16,Sohar,C2a Omán: Sohar,475467
+port988,2025-10-13,48304,116754,698,8449,80730,33,17,Sohar,C2a Omán: Sohar,174205
+port988,2025-10-20,21305,272187,3285,512,57117,26,17,Sohar,C2a Omán: Sohar,297289
+port988,2025-10-27,54178,114013,3179,9114,158499,37,20,Sohar,C2a Omán: Sohar,180484
+port988,2025-11-03,22774,49533,2367,8848,95664,28,16,Sohar,C2a Omán: Sohar,83522
+port988,2025-11-10,28505,40962,0,6378,97805,33,13,Sohar,C2a Omán: Sohar,75845
+port988,2025-11-17,30215,412354,0,6528,43587,29,15,Sohar,C2a Omán: Sohar,449097
+port988,2025-11-24,26598,327022,2367,3720,23017,27,8,Sohar,C2a Omán: Sohar,359707
+port988,2025-12-01,48861,197650,283,3478,31540,27,12,Sohar,C2a Omán: Sohar,250272
+port988,2025-12-08,61267,559486,14554,3575,95225,25,15,Sohar,C2a Omán: Sohar,638882
+port988,2025-12-15,32455,377990,0,13387,136937,30,12,Sohar,C2a Omán: Sohar,423832
+port988,2025-12-22,41043,71212,0,3970,49355,34,15,Sohar,C2a Omán: Sohar,116225
+port988,2025-12-29,31081,468521,283,4031,56046,28,7,Sohar,C2a Omán: Sohar,503916
+port988,2026-01-05,34137,510793,0,7962,28318,36,13,Sohar,C2a Omán: Sohar,552892
+port988,2026-01-12,43033,443586,4466,5202,95981,29,12,Sohar,C2a Omán: Sohar,496287
+port988,2026-01-19,45609,34079,0,1188,189013,30,16,Sohar,C2a Omán: Sohar,80876
+port988,2026-01-26,32992,85354,5790,6131,41640,31,9,Sohar,C2a Omán: Sohar,130267
+port988,2026-02-02,35169,561835,7101,3335,76445,33,14,Sohar,C2a Omán: Sohar,607440
+port988,2026-02-09,67162,499520,0,7334,157084,36,14,Sohar,C2a Omán: Sohar,574016
+port988,2026-02-16,26784,243360,13594,5861,182078,29,14,Sohar,C2a Omán: Sohar,289599
+port988,2026-02-23,42230,144195,5296,511,22488,32,18,Sohar,C2a Omán: Sohar,192232
+port988,2026-03-02,66453,221925,0,7046,33476,17,11,Sohar,C2a Omán: Sohar,295424
+port988,2026-03-09,11281,21972,18311,0,153221,9,7,Sohar,C2a Omán: Sohar,51564
+port988,2026-03-16,81220,349719,14306,0,31215,19,12,Sohar,C2a Omán: Sohar,445245
+port988,2026-03-23,69636,115561,0,0,16423,9,9,Sohar,C2a Omán: Sohar,185197
+port988,2026-03-30,104025,378357,0,0,41814,21,15,Sohar,C2a Omán: Sohar,482382
+port988,2026-04-06,36091,141614,5793,0,56156,17,16,Sohar,C2a Omán: Sohar,183498
+port988,2026-04-13,100770,62649,21126,1850,4907,25,12,Sohar,C2a Omán: Sohar,186395
+port988,2026-04-20,17894,65821,4965,0,47099,23,11,Sohar,C2a Omán: Sohar,88680
+port988,2026-04-27,19807,342625,7043,0,82803,25,14,Sohar,C2a Omán: Sohar,369475
+port988,2026-05-04,8225,129935,1598,0,8089,27,6,Sohar,C2a Omán: Sohar,139758
+port988,2026-05-11,41654,75418,10214,0,10116,18,8,Sohar,C2a Omán: Sohar,127286
+port988,2026-05-18,32035,218926,6946,0,927,25,7,Sohar,C2a Omán: Sohar,257907
+port988,2026-05-25,30709,343392,11271,0,128130,30,13,Sohar,C2a Omán: Sohar,385372
+port988,2026-06-01,47338,287036,7019,0,87250,25,16,Sohar,C2a Omán: Sohar,341393
+port988,2026-06-08,29071,314283,8567,618,20016,26,9,Sohar,C2a Omán: Sohar,352539
+port988,2026-06-15,65907,462610,9085,0,88678,25,8,Sohar,C2a Omán: Sohar,537602
+port988,2026-06-22,22678,264641,10307,3378,121710,23,12,Sohar,C2a Omán: Sohar,301004
+port988,2026-06-29,16477,218961,20547,0,8991,25,10,Sohar,C2a Omán: Sohar,255985
+port988,2026-07-06,25833,52867,9420,0,117238,23,16,Sohar,C2a Omán: Sohar,88120
+port988,2026-07-13,9872,295641,23445,2591,74475,25,8,Sohar,C2a Omán: Sohar,331549
+port988,2026-07-20,23453,318009,24533,0,145113,25,17,Sohar,C2a Omán: Sohar,365995
+port988,2026-07-27,41594,552855,5790,0,93258,23,12,Sohar,C2a Omán: Sohar,600239
+port988,2026-08-03,9290,367382,7101,3338,108072,22,14,Sohar,C2a Omán: Sohar,387111
+port988,2026-08-10,13172,401003,2367,0,16529,20,11,Sohar,C2a Omán: Sohar,416542
+port988,2026-08-17,10096,131771,4958,0,71356,15,9,Sohar,C2a Omán: Sohar,146825
+port988,2026-08-24,23687,301310,1707,3086,30315,20,12,Sohar,C2a Omán: Sohar,329790
+port988,2026-08-31,33163,362246,3423,0,90518,31,10,Sohar,C2a Omán: Sohar,398832
+port988,2026-09-07,54647,798214,18652,5147,159808,24,18,Sohar,C2a Omán: Sohar,876660
+port988,2026-09-14,22540,92298,5122,0,26335,29,8,Sohar,C2a Omán: Sohar,119960
