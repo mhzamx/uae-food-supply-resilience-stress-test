@@ -1,0 +1,146 @@
+// UAE Food Supply Resilience Stress Test - Power BI measures (v0.1)
+// Source tables: powerbi/P2_PowerBI_model.xlsx (built by src/p2_build_model.py).
+//
+// Relationships (single direction, one-to-many):
+//   scenarios[scenario_id]          -> coverage_by_segment, gap_by_subgroup, food_share_sensitivity, corridor_increments
+//   demand_levels[demand]           -> coverage_by_segment, gap_by_subgroup, requirement_by_subgroup, off_port_requirements, food_share_sensitivity
+//   segments[segment]               -> coverage_by_segment, corridor_increments
+//   commodities[subgroup_id]        -> gap_by_subgroup, requirement_by_subgroup, off_port_requirements
+//   categories[category_id]         -> commodities, nutrition
+//   supplier_concentration[supplier_group] -> commodities, suppliers_top5
+//
+// What-if parameter (Modeling > New parameter > Numeric range):
+//   'Food share' = GENERATESERIES(0.05, 0.35, 0.0001)   column [Food share]
+//   No selection returns the benchmark 0.196656 (HS 01-24 share of 2023 non-fuel import weight, confidence C).
+
+// ---------- Inputs ----------
+Food share =
+SELECTEDVALUE ( 'Food share'[Food share], 0.196656 )
+
+Requirement (t/d) =
+SUM ( coverage_by_segment[requirement_t_day] )
+
+Delta cargo (t/d) =
+SUM ( coverage_by_segment[delta_cargo_t_day] )
+
+// ---------- Coverage and gap by segment (respond to the Food share slider) ----------
+Gap_ref (t/d) =
+SUMX (
+    coverage_by_segment,
+    VAR r = coverage_by_segment[requirement_t_day]
+    VAR c = MIN ( 1, DIVIDE ( coverage_by_segment[delta_cargo_t_day] * [Food share], r ) )
+    RETURN r * ( 1 - c )
+)
+
+ACR_ref =
+VAR r = [Requirement (t/d)]
+RETURN IF ( r > 0, 1 - DIVIDE ( [Gap_ref (t/d)], r ) )   // blank when there is no requirement
+
+Gap_phys (t/d) =
+SUMX (
+    coverage_by_segment,
+    VAR r = coverage_by_segment[requirement_t_day]
+    RETURN r * ( 1 - MIN ( 1, DIVIDE ( coverage_by_segment[delta_cargo_t_day], r ) ) )
+)
+
+ACR_phys =
+VAR r = [Requirement (t/d)]
+RETURN IF ( r > 0, 1 - DIVIDE ( [Gap_phys (t/d)], r ) )  // blank when there is no requirement
+
+Break-even food share =
+DIVIDE ( [Requirement (t/d)], [Delta cargo (t/d)] )      // read per segment
+
+Cargo needed for full ACR_ref (t/d) =
+DIVIDE ( [Requirement (t/d)], [Food share] )              // read per segment
+
+Food-equivalent spare or shortfall (t/d) =
+SUMX (
+    coverage_by_segment,
+    coverage_by_segment[delta_cargo_t_day] * [Food share] - coverage_by_segment[requirement_t_day]
+)
+
+// ---------- Gap by subgroup ----------
+Gap_ref by subgroup (t/d) =
+SUMX (
+    gap_by_subgroup,
+    VAR r = gap_by_subgroup[shipment_requirement_t_day]
+    VAR c = MIN ( 1, DIVIDE ( gap_by_subgroup[segment_delta_cargo_t_day] * [Food share], gap_by_subgroup[segment_requirement_t_day] ) )
+    RETURN r * ( 1 - c )
+)
+
+Covered_ref by subgroup (t/d) =
+SUMX (
+    gap_by_subgroup,
+    VAR r = gap_by_subgroup[shipment_requirement_t_day]
+    VAR c = MIN ( 1, DIVIDE ( gap_by_subgroup[segment_delta_cargo_t_day] * [Food share], gap_by_subgroup[segment_requirement_t_day] ) )
+    RETURN r * c
+)
+
+Truck-equivalent trips, covered (lower bound) =
+SUMX (
+    gap_by_subgroup,
+    VAR r = gap_by_subgroup[shipment_requirement_t_day]
+    VAR c = MIN ( 1, DIVIDE ( gap_by_subgroup[segment_delta_cargo_t_day] * [Food share], gap_by_subgroup[segment_requirement_t_day] ) )
+    RETURN DIVIDE ( r * c, gap_by_subgroup[payload_t] )
+)
+
+Truck-equivalent trips, gap (lower bound) =
+SUMX (
+    gap_by_subgroup,
+    VAR r = gap_by_subgroup[shipment_requirement_t_day]
+    VAR c = MIN ( 1, DIVIDE ( gap_by_subgroup[segment_delta_cargo_t_day] * [Food share], gap_by_subgroup[segment_requirement_t_day] ) )
+    RETURN DIVIDE ( r * ( 1 - c ), gap_by_subgroup[payload_t] )
+)
+
+// ---------- Outside the port model ----------
+TER requirement (t/d) =
+CALCULATE ( SUM ( off_port_requirements[shipment_requirement_t_day] ), off_port_requirements[segment] = "TER" )
+
+GL requirement (t/d) =
+CALCULATE ( SUM ( off_port_requirements[shipment_requirement_t_day] ), off_port_requirements[segment] = "GL" )
+
+TER residual after regional upper bound (t/d) =
+CALCULATE ( SUM ( off_port_requirements[residual_after_upper_bound_t_day] ), off_port_requirements[segment] = "TER" )
+
+Port-modeled share of requirement =
+VAR port = CALCULATE ( [Requirement (t/d)], scenarios[scenario_id] = "S01" )
+RETURN DIVIDE ( port, port + [TER requirement (t/d)] + [GL requirement (t/d)] )
+
+// ---------- Nutrition (follows the demand slicer) ----------
+Import-dependent energy (million kcal/d) =
+IF ( SELECTEDVALUE ( demand_levels[demand], "High" ) = "High",
+     SUM ( nutrition[import_dependent_million_kcal_day_high] ),
+     SUM ( nutrition[import_dependent_million_kcal_day_low] ) )
+
+Import-dependent protein (t/d) =
+IF ( SELECTEDVALUE ( demand_levels[demand], "High" ) = "High",
+     SUM ( nutrition[import_dependent_protein_t_day_high] ),
+     SUM ( nutrition[import_dependent_protein_t_day_low] ) )
+
+Energy share =
+DIVIDE ( [Import-dependent energy (million kcal/d)], CALCULATE ( [Import-dependent energy (million kcal/d)], ALL ( nutrition ) ) )
+
+Protein share =
+DIVIDE ( [Import-dependent protein (t/d)], CALCULATE ( [Import-dependent protein (t/d)], ALL ( nutrition ) ) )
+
+// ---------- Overview and routes (dark report, October 2026) ----------
+// The generator (build_pbip.py) is the authoritative source for every measure in the report.
+
+Largest supplier share =
+DIVIDE ( MAX ( suppliers_top5[share_value_pct] ), 100 )
+
+Basket items in Top 5 =
+DISTINCTCOUNT ( suppliers_top5[supplier_group] )
+
+Requirement: containers (t/d) =
+CALCULATE ( [Requirement (t/d)], segments[segment] = "CONT" )
+
+Requirement: dry bulk (t/d) =
+CALCULATE ( [Requirement (t/d)], segments[segment] = "GS" )
+
+Transit change vs base =   // chokepoints table built from outputs/chokepoints_summary.csv
+DIVIDE ( SUM ( chokepoints[closure_transits_week] ) - SUM ( chokepoints[base_transits_week] ), SUM ( chokepoints[base_transits_week] ) )
+
+Largest-share product =   // product behind "Largest supplier share" for the country in context (supplier table and globe tooltip)
+VAR m = MAX ( suppliers_top5[share_value_pct] )
+RETURN CALCULATE ( FIRSTNONBLANK ( suppliers_top5[supplier_group_name], 1 ), suppliers_top5[share_value_pct] = m )
