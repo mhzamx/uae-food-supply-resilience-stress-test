@@ -1,0 +1,15 @@
+supplier_group,supplier_group_name,n_suppliers,hhi,top1_country,top1_share_pct,top5_share_pct,top3_share_pct,top5_covered_pct,red_sea_confirmed_pct,conditional_pct,no_red_sea_or_regional_pct,outside_top5_pct
+wheat_grain,Wheat grain,31,2438,Russian Federation,39.4209,93.2277,76.0426,93.2277,56.6059,18.8015,17.8202,6.7723
+rice,"Rice, all forms",51,5508,India,72.1018,97.7855,94.4048,97.7855,0.0,0.0,97.7855,2.2145
+sugar_raw,Raw sugar,37,9748,Brazil,98.7306,99.8424,99.7099,99.8424,0.0652,0.0,99.7773,0.1576
+sugar_refined,Refined sugar,66,3453,India,53.9354,93.567,84.7298,93.567,0.0,0.0,93.567,6.433
+poultry_frozen,Frozen poultry,39,6961,Brazil,83.1603,94.3195,91.1438,94.3195,3.973,5.3778,84.9687,5.6805
+poultry_fresh,Fresh/chilled poultry,23,4602,Saudi Arabia,54.0983,98.2136,96.9101,98.2136,1.3035,0.0,96.91,1.7864
+eggs,Eggs in shell,32,4645,Türkiye,66.443,89.3231,85.0554,89.3231,2.2134,66.443,20.6667,10.6769
+dairy_fresh,Fresh milk and yogurt,69,2594,Saudi Arabia,48.932,71.8836,62.667,71.8836,14.7508,0.0,57.1327,28.1164
+dairy_powder,Milk powder and whey,61,1990,New Zealand,39.5736,74.9323,64.916,74.9323,20.1385,0.0,54.7938,25.0677
+dairy_cheese_butter,Cheese and butter,84,845,Saudi Arabia,19.7052,54.7663,41.1351,54.7663,6.3505,0.0,48.4158,45.2337
+pulses,Dry pulses,75,2096,Canada,36.1706,80.6159,69.8643,80.6159,6.2121,36.1706,38.2332,19.3841
+bread_proxy,Packaged bread (proxy),96,826,Poland,16.6372,56.91,42.1768,56.91,16.6372,19.6765,20.5962,43.09
+oil_crude,Crude/upstream cooking oil,42,2518,Ukraine,41.8746,88.5832,79.0733,88.5832,47.7067,0.0,40.8764,11.4168
+oil_refined,Refined cooking oil,78,1726,Indonesia,33.1584,75.2793,60.6309,75.2793,7.7127,0.0,67.5666,24.7207

@@ -1,0 +1,9 @@
+check,registered,rebuilt_from_rounded_inputs,difference,relative_difference_pct
+"Segment requirement GS, low demand",2247.644,2247.351,-0.293,-0.013
+"Segment requirement CONT, low demand",4453.521,4453.561,0.04,0.0009
+"Segment requirement TER, low demand",176.492,176.499,0.007,0.0042
+"Segment requirement GL, low demand",123.449,123.5,0.051,0.0413
+"Segment requirement GS, high demand",2510.648,2510.851,0.203,0.0081
+"Segment requirement CONT, high demand",5029.974,5029.899,-0.075,-0.0015
+"Segment requirement TER, high demand",202.126,202.157,0.031,0.0152
+"Segment requirement GL, high demand",137.972,137.98,0.008,0.0059

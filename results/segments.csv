@@ -1,0 +1,6 @@
+segment,segment_name,in_port_model,segment_order
+CONT,Container,True,1
+GS,Dry bulk,True,2
+CG_RORO,General cargo + RoRo,False,3
+TER,"Road (regional origin, not observed)",False,4
+GL,Liquid bulk (not estimable),False,5

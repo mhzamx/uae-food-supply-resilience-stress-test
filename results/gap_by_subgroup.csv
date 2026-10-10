@@ -1,0 +1,199 @@
+subgroup_id,demand,shipment_requirement_t_day,category_id,subgroup,segment,container_type,scenario_id,scope,activity_level,segment_requirement_t_day,segment_delta_cargo_t_day,c_phys,c_ref,gap_ref_t_day,gap_phys_t_day,covered_ref_t_day,payload_t,truck_equiv_trips_covered_lower_bound,truck_equiv_trips_gap_lower_bound
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,11.720685,0.0,1151.167384,28.87,39.874173,0.405981
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,1162.888069,28.87,40.280155,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,1.932948,0.0,189.847842,28.87,6.575956,0.066954
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,191.78079,28.87,6.642909,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,12.031676,0.0,1181.711967,29.67,39.828513,0.405517
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,1193.743644,29.67,40.234029,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,0.764979,0.0,75.133781,29.67,2.532315,0.025783
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,75.898761,29.67,2.558098,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,4.166888,0.0,409.258126,28.87,14.175896,0.144333
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,413.425014,28.87,14.320229,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,0.781979,0.0,76.803421,29.67,2.588588,0.026356
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,77.5854,29.67,2.614944,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,0.38599,0.0,37.91064,29.67,1.277743,0.013009
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,38.29663,29.67,1.290753,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,5.362856,0.0,526.722181,28.87,18.24462,0.185759
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,532.085037,28.87,18.430379,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S04,Regional envelope,Low,4453.521,29109.644,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S05,Regional envelope,Base,4453.521,39898.797,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S06,Regional envelope,High synchronized,4453.521,69862.19,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S01,C1-only,Low,4453.521,22418.0,1.0,0.989921,7.738792,0.0,760.078866,28.87,26.327637,0.268057
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S02,C1-only,Base,4453.521,28420.0,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S03,C1-only,High synchronized,4453.521,34673.69,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S07,C1 total (sensitivity),Low,4453.521,23518.724,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S08,C1 total (sensitivity),Base,4453.521,29521.321,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry,S09,C1 total (sensitivity),High synchronized,4453.521,35774.536,1.0,1.0,0.0,0.0,767.817658,28.87,26.595693,0.0
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S04,Regional envelope,Low,2247.644,18434.021,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S05,Regional envelope,Base,2247.644,36744.229,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S06,Regional envelope,High synchronized,2247.644,51469.533,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S01,C1-only,Low,2247.644,18434.0,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S02,C1-only,Base,2247.644,26708.0,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S03,C1-only,High synchronized,2247.644,36586.728,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S07,C1 total (sensitivity),Low,2247.644,21924.079,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S08,C1 total (sensitivity),Base,2247.644,30198.25,1.0,1.0,0.0,0.0,1718.001076,,,
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,,S09,C1 total (sensitivity),High synchronized,2247.644,40076.786,1.0,1.0,0.0,0.0,1718.001076,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S04,Regional envelope,Low,2247.644,18434.021,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S05,Regional envelope,Base,2247.644,36744.229,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S06,Regional envelope,High synchronized,2247.644,51469.533,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S01,C1-only,Low,2247.644,18434.0,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S02,C1-only,Base,2247.644,26708.0,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S03,C1-only,High synchronized,2247.644,36586.728,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S07,C1 total (sensitivity),Low,2247.644,21924.079,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S08,C1 total (sensitivity),Base,2247.644,30198.25,1.0,1.0,0.0,0.0,529.642924,,,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,,S09,C1 total (sensitivity),High synchronized,2247.644,40076.786,1.0,1.0,0.0,0.0,529.642924,,,
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,160.501688,0.0,1138.818471,28.87,39.446431,5.559463
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,104.585691,0.0,1194.734468,28.87,41.383251,3.622643
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,1299.320159,28.87,45.005894,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,26.443949,0.0,187.629535,28.87,6.499118,0.915966
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,17.231337,0.0,196.842147,28.87,6.818225,0.59686
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,214.073484,28.87,7.415084,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,166.918675,0.0,1184.349356,29.67,39.917403,5.62584
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,108.767112,0.0,1242.50092,29.67,41.877348,3.665895
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,1351.268032,29.67,45.543243,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,12.812975,0.0,90.912768,29.67,3.064131,0.43185
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,8.349157,0.0,95.376586,29.67,3.21458,0.281401
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,103.725743,29.67,3.495981,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,58.681886,0.0,416.36955,28.87,14.422222,2.032625
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,38.238137,0.0,436.813299,28.87,15.130353,1.324494
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,475.051436,28.87,16.454847,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,11.012979,0.0,78.141131,29.67,2.633675,0.371182
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,7.176248,0.0,81.977861,29.67,2.762988,0.241869
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,89.15411,29.67,3.004857,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,5.422989,0.0,38.478104,29.67,1.296869,0.182777
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,3.533714,0.0,40.367379,29.67,1.360545,0.119101
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,43.901093,29.67,1.479646,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,73.541857,0.0,521.806507,28.87,18.074351,2.547345
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,47.921153,0.0,547.427211,28.87,18.961802,1.659894
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,595.348364,28.87,20.621696,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S04,Regional envelope,Low,5029.974,29109.644,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S05,Regional envelope,Base,5029.974,39898.797,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S06,Regional envelope,High synchronized,5029.974,69862.19,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S01,C1-only,Low,5029.974,22418.0,1.0,0.876473,106.002794,0.0,752.128786,28.87,26.052261,3.671728
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S02,C1-only,Base,5029.974,28420.0,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S03,C1-only,High synchronized,5029.974,34673.69,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S07,C1 total (sensitivity),Low,5029.974,23518.724,1.0,0.919507,69.073264,0.0,789.058316,28.87,27.331428,2.392562
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S08,C1 total (sensitivity),Base,5029.974,29521.321,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry,S09,C1 total (sensitivity),High synchronized,5029.974,35774.536,1.0,1.0,0.0,0.0,858.13158,28.87,29.72399,0.0
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S04,Regional envelope,Low,2510.648,18434.021,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S05,Regional envelope,Base,2510.648,36744.229,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S06,Regional envelope,High synchronized,2510.648,51469.533,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S01,C1-only,Low,2510.648,18434.0,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S02,C1-only,Base,2510.648,26708.0,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S03,C1-only,High synchronized,2510.648,36586.728,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S07,C1 total (sensitivity),Low,2510.648,21924.079,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S08,C1 total (sensitivity),Base,2510.648,30198.25,1.0,1.0,0.0,0.0,1919.029867,,,
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,,S09,C1 total (sensitivity),High synchronized,2510.648,40076.786,1.0,1.0,0.0,0.0,1919.029867,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S04,Regional envelope,Low,2510.648,18434.021,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S05,Regional envelope,Base,2510.648,36744.229,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S06,Regional envelope,High synchronized,2510.648,51469.533,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S01,C1-only,Low,2510.648,18434.0,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S02,C1-only,Base,2510.648,26708.0,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S03,C1-only,High synchronized,2510.648,36586.728,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S07,C1 total (sensitivity),Low,2510.648,21924.079,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S08,C1 total (sensitivity),Base,2510.648,30198.25,1.0,1.0,0.0,0.0,591.618133,,,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,,S09,C1 total (sensitivity),High synchronized,2510.648,40076.786,1.0,1.0,0.0,0.0,591.618133,,,

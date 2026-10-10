@@ -1,0 +1,10 @@
+scenario_id,scope,activity_level,scenario,sort_order,scope_order,activity_order,is_sensitivity
+S01,C1-only,Low,C1-only | Low,1,1,1,False
+S02,C1-only,Base,C1-only | Base,2,1,2,False
+S03,C1-only,High synchronized,C1-only | High synchronized,3,1,3,False
+S04,Regional envelope,Low,Regional envelope | Low,4,2,1,False
+S05,Regional envelope,Base,Regional envelope | Base,5,2,2,False
+S06,Regional envelope,High synchronized,Regional envelope | High synchronized,6,2,3,False
+S07,C1 total (sensitivity),Low,C1 total (sensitivity) | Low,7,3,1,True
+S08,C1 total (sensitivity),Base,C1 total (sensitivity) | Base,8,3,2,True
+S09,C1 total (sensitivity),High synchronized,C1 total (sensitivity) | High synchronized,9,3,3,True

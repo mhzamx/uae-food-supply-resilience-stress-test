@@ -1,0 +1,71 @@
+supplier_group,supplier_group_name,n_suppliers,hhi,rank,country,share_value_pct,top5_share_pct
+wheat_grain,Wheat grain,31,2438,1,Russian Federation,39.4209,93.2277
+wheat_grain,Wheat grain,31,2438,2,Canada,18.8015,93.2277
+wheat_grain,Wheat grain,31,2438,3,Australia,17.8202,93.2277
+wheat_grain,Wheat grain,31,2438,4,Romania,13.7347,93.2277
+wheat_grain,Wheat grain,31,2438,5,Ukraine,3.4504,93.2277
+rice,"Rice, all forms",51,5508,1,India,72.1018,97.7855
+rice,"Rice, all forms",51,5508,2,Pakistan,16.3337,97.7855
+rice,"Rice, all forms",51,5508,3,Viet Nam,5.9693,97.7855
+rice,"Rice, all forms",51,5508,4,Australia,1.8754,97.7855
+rice,"Rice, all forms",51,5508,5,Thailand,1.5053,97.7855
+sugar_raw,Raw sugar,37,9748,1,Brazil,98.7306,99.8424
+sugar_raw,Raw sugar,37,9748,2,India,0.641,99.8424
+sugar_raw,Raw sugar,37,9748,3,Mauritius,0.3383,99.8424
+sugar_raw,Raw sugar,37,9748,4,Malaysia,0.0673,99.8424
+sugar_raw,Raw sugar,37,9748,5,United Kingdom,0.0652,99.8424
+sugar_refined,Refined sugar,66,3453,1,India,53.9354,93.567
+sugar_refined,Refined sugar,66,3453,2,Saudi Arabia,19.0375,93.567
+sugar_refined,Refined sugar,66,3453,3,Brazil,11.7569,93.567
+sugar_refined,Refined sugar,66,3453,4,Thailand,4.8372,93.567
+sugar_refined,Refined sugar,66,3453,5,Pakistan,4.0,93.567
+poultry_frozen,Frozen poultry,39,6961,1,Brazil,83.1603,94.3195
+poultry_frozen,Frozen poultry,39,6961,2,USA,5.3778,94.3195
+poultry_frozen,Frozen poultry,39,6961,3,Ukraine,2.6057,94.3195
+poultry_frozen,Frozen poultry,39,6961,4,Argentina,1.8084,94.3195
+poultry_frozen,Frozen poultry,39,6961,5,Russian Federation,1.3673,94.3195
+poultry_fresh,Fresh/chilled poultry,23,4602,1,Saudi Arabia,54.0983,98.2136
+poultry_fresh,Fresh/chilled poultry,23,4602,2,Oman,40.8658,98.2136
+poultry_fresh,Fresh/chilled poultry,23,4602,3,New Zealand,1.946,98.2136
+poultry_fresh,Fresh/chilled poultry,23,4602,4,France,0.7762,98.2136
+poultry_fresh,Fresh/chilled poultry,23,4602,5,Italy,0.5273,98.2136
+eggs,Eggs in shell,32,4645,1,Türkiye,66.443,89.3231
+eggs,Eggs in shell,32,4645,2,Oman,13.659,89.3231
+eggs,Eggs in shell,32,4645,3,India,4.9534,89.3231
+eggs,Eggs in shell,32,4645,4,Germany,2.2134,89.3231
+eggs,Eggs in shell,32,4645,5,Pakistan,2.0543,89.3231
+dairy_fresh,Fresh milk and yogurt,69,2594,1,Saudi Arabia,48.932,71.8836
+dairy_fresh,Fresh milk and yogurt,69,2594,2,New Zealand,8.2007,71.8836
+dairy_fresh,Fresh milk and yogurt,69,2594,3,Germany,5.5343,71.8836
+dairy_fresh,Fresh milk and yogurt,69,2594,4,France,4.6592,71.8836
+dairy_fresh,Fresh milk and yogurt,69,2594,5,United Kingdom,4.5574,71.8836
+dairy_powder,Milk powder and whey,61,1990,1,New Zealand,39.5736,74.9323
+dairy_powder,Milk powder and whey,61,1990,2,Netherlands,14.3185,74.9323
+dairy_powder,Milk powder and whey,61,1990,3,Saudi Arabia,11.0239,74.9323
+dairy_powder,Milk powder and whey,61,1990,4,Ireland,5.82,74.9323
+dairy_powder,Milk powder and whey,61,1990,5,Australia,4.1963,74.9323
+dairy_cheese_butter,Cheese and butter,84,845,1,Saudi Arabia,19.7052,54.7663
+dairy_cheese_butter,Cheese and butter,84,845,2,Bahrain,12.6571,54.7663
+dairy_cheese_butter,Cheese and butter,84,845,3,New Zealand,8.7728,54.7663
+dairy_cheese_butter,Cheese and butter,84,845,4,India,7.2807,54.7663
+dairy_cheese_butter,Cheese and butter,84,845,5,France,6.3505,54.7663
+pulses,Dry pulses,75,2096,1,Canada,36.1706,80.6159
+pulses,Dry pulses,75,2096,2,Australia,24.8399,80.6159
+pulses,Dry pulses,75,2096,3,India,8.8538,80.6159
+pulses,Dry pulses,75,2096,4,Russian Federation,6.2121,80.6159
+pulses,Dry pulses,75,2096,5,Myanmar,4.5395,80.6159
+bread_proxy,Packaged bread (proxy),96,826,1,Poland,16.6372,56.91
+bread_proxy,Packaged bread (proxy),96,826,2,USA,13.0378,56.91
+bread_proxy,Packaged bread (proxy),96,826,3,Saudi Arabia,12.5018,56.91
+bread_proxy,Packaged bread (proxy),96,826,4,Oman,8.0945,56.91
+bread_proxy,Packaged bread (proxy),96,826,5,Mexico,6.6387,56.91
+oil_crude,Crude/upstream cooking oil,42,2518,1,Ukraine,41.8746,88.5832
+oil_crude,Crude/upstream cooking oil,42,2518,2,Saudi Arabia,18.7812,88.5832
+oil_crude,Crude/upstream cooking oil,42,2518,3,Argentina,18.4175,88.5832
+oil_crude,Crude/upstream cooking oil,42,2518,4,Russian Federation,5.8322,88.5832
+oil_crude,Crude/upstream cooking oil,42,2518,5,Bangladesh,3.6777,88.5832
+oil_refined,Refined cooking oil,78,1726,1,Indonesia,33.1584,75.2793
+oil_refined,Refined cooking oil,78,1726,2,Malaysia,19.3847,75.2793
+oil_refined,Refined cooking oil,78,1726,3,Oman,8.0878,75.2793
+oil_refined,Refined cooking oil,78,1726,4,Ukraine,7.7127,75.2793
+oil_refined,Refined cooking oil,78,1726,5,Saudi Arabia,6.9357,75.2793

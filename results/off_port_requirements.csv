@@ -1,0 +1,7 @@
+subgroup_id,demand,shipment_requirement_t_day,category_id,subgroup,segment,container_type,regional_origin_share_upper_bound,residual_after_upper_bound_t_day,status
+poultry_fresh,Low,38.885458,poultry,Fresh/chilled poultry,TER,,0.9563,1.699295,"Regional-route requirement, not verified (road flow not observed)"
+dairy_fresh,Low,137.606542,milk,Fresh milk and yogurt,TER,,0.6506,48.079726,"Regional-route requirement, not verified (road flow not observed)"
+oil_crude,Low,123.449,oil,Crude/upstream cooking oil,GL,,0.1445,105.61062,Port coverage not estimable (PortWatch liquid bulk dominated by petroleum)
+poultry_fresh,High,44.029247,poultry,Fresh/chilled poultry,TER,,0.9563,1.924078,"Regional-route requirement, not verified (road flow not observed)"
+dairy_fresh,High,158.096753,milk,Fresh milk and yogurt,TER,,0.6506,55.239005,"Regional-route requirement, not verified (road flow not observed)"
+oil_crude,High,137.972,oil,Crude/upstream cooking oil,GL,,0.1445,118.035046,Port coverage not estimable (PortWatch liquid bulk dominated by petroleum)

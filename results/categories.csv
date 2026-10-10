@@ -1,0 +1,11 @@
+category_id,category,faostat_group,rni_a_2026_low_t_day,rni_a_2026_high_t_day,rni_b_2026_low_t_day,rni_b_2026_high_t_day,comtrade_weight_2023_kt,faostat_imports_2023_kt,k_ship,k_ship_confidence,regional_origin_weight_share_pct,priority,confidence,note
+wheat,Wheat,Wheat and products (2511),3522.923421,3935.982669,3829.067142,4408.564916,1554.474,3188.0,0.4876,C,0.0428,High (strategic),B/C,k_ship covers the grain form (HS 1001) only; bread is included in Wheat and products.
+rice,Rice,Rice and products (2807),1320.732645,1475.587227,1724.285732,2098.536552,782.595,889.0,0.8803,B,0.0,Very high,B/C,
+sugar,Sugar,Sugar (raw equivalent) (2542),747.639405,835.299377,1071.177655,1334.732888,1228.117,1273.0,0.9647,A,4.9369,Very high (strategic),A/C,
+poultry,Poultry,Poultry meat (2734),1272.713193,1441.21135,1451.876848,1717.77937,591.645,611.0,0.9683,A,4.7967,Very high,B/C,"Local production depends on imported feed; reported separately, not added to the requirement."
+eggs,Eggs,Eggs (2744),70.74563,97.350603,201.204602,298.735083,120.83,113.0,1.0693,B,10.4453,High,B/C,"Local production depends on imported feed; reported separately, not added to the requirement."
+milk,Dairy: milk (excl. butter),"Milk, excluding butter (2848)",2698.325284,3100.469671,3988.99938,5092.833462,752.349,3229.0,0.233,B,42.9982,High (operational),B/C,FAOSTAT uses milk equivalent; physical weight = HS 0401-0404 + 0406. Local production depends on imported feed.
+butter,Dairy: butter and ghee,"Butter, ghee (2740)",41.235569,47.034088,63.848457,81.940731,31.758,34.0,0.9341,B,20.1744,High (operational),B/C,Local production depends on imported feed.
+pulses,Pulses,Pulses (2911),471.274644,526.531125,652.177752,805.784271,843.873,747.0,1.1297,C,0.0029,Medium,C,Low confidence: FAOSTAT residual of -109 kt against 162 kt of food.
+oil,Cooking oil,Vegetable oils (2914),884.367234,988.058407,1169.637519,1428.419137,532.347,528.0,1.0082,B,11.685,Very high (strategic),B/C,Local production counted as 0 (refining of imported raw material). Comtrade weight is a lower bound (>=).
+bread,Bread (proxy),None (included in Wheat and products),,,,,93.194,,,C,22.5418,Low (v0.1),C,"Exposure proxy only (HS 190590); no separate requirement or gap, to avoid double counting."

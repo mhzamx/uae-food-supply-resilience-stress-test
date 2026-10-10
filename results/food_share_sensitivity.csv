@@ -1,0 +1,2197 @@
+scenario_id,scope,activity_level,demand,segment,food_share,c_ref,gap_ref_t_day
+S04,Regional envelope,Low,Low,CONT,0.05,0.326816,2998.0388
+S04,Regional envelope,Low,Low,CONT,0.055,0.359498,2852.49058
+S04,Regional envelope,Low,Low,CONT,0.06,0.392179,2706.94236
+S04,Regional envelope,Low,Low,CONT,0.065,0.424861,2561.39414
+S04,Regional envelope,Low,Low,CONT,0.07,0.457542,2415.84592
+S04,Regional envelope,Low,Low,CONT,0.075,0.490224,2270.2977
+S04,Regional envelope,Low,Low,CONT,0.08,0.522906,2124.74948
+S04,Regional envelope,Low,Low,CONT,0.085,0.555587,1979.20126
+S04,Regional envelope,Low,Low,CONT,0.09,0.588269,1833.65304
+S04,Regional envelope,Low,Low,CONT,0.095,0.620951,1688.10482
+S04,Regional envelope,Low,Low,CONT,0.1,0.653632,1542.5566
+S04,Regional envelope,Low,Low,CONT,0.105,0.686314,1397.00838
+S04,Regional envelope,Low,Low,CONT,0.11,0.718995,1251.46016
+S04,Regional envelope,Low,Low,CONT,0.115,0.751677,1105.91194
+S04,Regional envelope,Low,Low,CONT,0.12,0.784359,960.36372
+S04,Regional envelope,Low,Low,CONT,0.125,0.81704,814.8155
+S04,Regional envelope,Low,Low,CONT,0.13,0.849722,669.26728
+S04,Regional envelope,Low,Low,CONT,0.135,0.882403,523.71906
+S04,Regional envelope,Low,Low,CONT,0.14,0.915085,378.17084
+S04,Regional envelope,Low,Low,CONT,0.145,0.947767,232.62262
+S04,Regional envelope,Low,Low,CONT,0.15,0.980448,87.0744
+S04,Regional envelope,Low,Low,CONT,0.155,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.16,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.165,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.17,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.175,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.18,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.185,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.19,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.195,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.2,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.205,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.21,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.215,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.22,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.225,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.23,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.235,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.24,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.245,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.25,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.255,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.26,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.265,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.27,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.275,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.28,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.285,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.29,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.295,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.3,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.305,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.31,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.315,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.32,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.325,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.33,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.335,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.34,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.345,1.0,0.0
+S04,Regional envelope,Low,Low,CONT,0.35,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.05,0.289362,3574.4918
+S04,Regional envelope,Low,High,CONT,0.055,0.318298,3428.94358
+S04,Regional envelope,Low,High,CONT,0.06,0.347234,3283.39536
+S04,Regional envelope,Low,High,CONT,0.065,0.37617,3137.84714
+S04,Regional envelope,Low,High,CONT,0.07,0.405106,2992.29892
+S04,Regional envelope,Low,High,CONT,0.075,0.434043,2846.7507
+S04,Regional envelope,Low,High,CONT,0.08,0.462979,2701.20248
+S04,Regional envelope,Low,High,CONT,0.085,0.491915,2555.65426
+S04,Regional envelope,Low,High,CONT,0.09,0.520851,2410.10604
+S04,Regional envelope,Low,High,CONT,0.095,0.549787,2264.55782
+S04,Regional envelope,Low,High,CONT,0.1,0.578724,2119.0096
+S04,Regional envelope,Low,High,CONT,0.105,0.60766,1973.46138
+S04,Regional envelope,Low,High,CONT,0.11,0.636596,1827.91316
+S04,Regional envelope,Low,High,CONT,0.115,0.665532,1682.36494
+S04,Regional envelope,Low,High,CONT,0.12,0.694468,1536.81672
+S04,Regional envelope,Low,High,CONT,0.125,0.723404,1391.2685
+S04,Regional envelope,Low,High,CONT,0.13,0.752341,1245.72028
+S04,Regional envelope,Low,High,CONT,0.135,0.781277,1100.17206
+S04,Regional envelope,Low,High,CONT,0.14,0.810213,954.62384
+S04,Regional envelope,Low,High,CONT,0.145,0.839149,809.07562
+S04,Regional envelope,Low,High,CONT,0.15,0.868085,663.5274
+S04,Regional envelope,Low,High,CONT,0.155,0.897021,517.97918
+S04,Regional envelope,Low,High,CONT,0.16,0.925958,372.43096
+S04,Regional envelope,Low,High,CONT,0.165,0.954894,226.88274
+S04,Regional envelope,Low,High,CONT,0.17,0.98383,81.33452
+S04,Regional envelope,Low,High,CONT,0.175,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.18,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.185,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.19,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.195,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.2,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.205,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.21,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.215,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.22,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.225,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.23,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.235,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.24,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.245,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.25,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.255,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.26,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.265,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.27,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.275,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.28,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.285,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.29,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.295,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.3,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.305,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.31,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.315,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.32,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.325,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.33,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.335,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.34,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.345,1.0,0.0
+S04,Regional envelope,Low,High,CONT,0.35,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.05,0.447947,2458.58115
+S05,Regional envelope,Base,Low,CONT,0.055,0.492741,2259.087165
+S05,Regional envelope,Base,Low,CONT,0.06,0.537536,2059.59318
+S05,Regional envelope,Base,Low,CONT,0.065,0.582331,1860.099195
+S05,Regional envelope,Base,Low,CONT,0.07,0.627125,1660.60521
+S05,Regional envelope,Base,Low,CONT,0.075,0.67192,1461.111225
+S05,Regional envelope,Base,Low,CONT,0.08,0.716715,1261.61724
+S05,Regional envelope,Base,Low,CONT,0.085,0.761509,1062.123255
+S05,Regional envelope,Base,Low,CONT,0.09,0.806304,862.62927
+S05,Regional envelope,Base,Low,CONT,0.095,0.851099,663.135285
+S05,Regional envelope,Base,Low,CONT,0.1,0.895893,463.6413
+S05,Regional envelope,Base,Low,CONT,0.105,0.940688,264.147315
+S05,Regional envelope,Base,Low,CONT,0.11,0.985483,64.65333
+S05,Regional envelope,Base,Low,CONT,0.115,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.12,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.125,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.13,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.135,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.14,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.145,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.15,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.155,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.16,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.165,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.17,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.175,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.18,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.185,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.19,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.195,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.2,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.205,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.21,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.215,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.22,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.225,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.23,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.235,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.24,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.245,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.25,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.255,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.26,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.265,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.27,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.275,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.28,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.285,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.29,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.295,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.3,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.305,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.31,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.315,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.32,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.325,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.33,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.335,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.34,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.345,1.0,0.0
+S05,Regional envelope,Base,Low,CONT,0.35,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.05,0.39661,3035.03415
+S05,Regional envelope,Base,High,CONT,0.055,0.436271,2835.540165
+S05,Regional envelope,Base,High,CONT,0.06,0.475932,2636.04618
+S05,Regional envelope,Base,High,CONT,0.065,0.515593,2436.552195
+S05,Regional envelope,Base,High,CONT,0.07,0.555255,2237.05821
+S05,Regional envelope,Base,High,CONT,0.075,0.594916,2037.564225
+S05,Regional envelope,Base,High,CONT,0.08,0.634577,1838.07024
+S05,Regional envelope,Base,High,CONT,0.085,0.674238,1638.576255
+S05,Regional envelope,Base,High,CONT,0.09,0.713899,1439.08227
+S05,Regional envelope,Base,High,CONT,0.095,0.75356,1239.588285
+S05,Regional envelope,Base,High,CONT,0.1,0.793221,1040.0943
+S05,Regional envelope,Base,High,CONT,0.105,0.832882,840.600315
+S05,Regional envelope,Base,High,CONT,0.11,0.872543,641.10633
+S05,Regional envelope,Base,High,CONT,0.115,0.912204,441.612345
+S05,Regional envelope,Base,High,CONT,0.12,0.951865,242.11836
+S05,Regional envelope,Base,High,CONT,0.125,0.991526,42.624375
+S05,Regional envelope,Base,High,CONT,0.13,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.135,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.14,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.145,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.15,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.155,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.16,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.165,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.17,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.175,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.18,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.185,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.19,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.195,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.2,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.205,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.21,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.215,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.22,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.225,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.23,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.235,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.24,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.245,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.25,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.255,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.26,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.265,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.27,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.275,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.28,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.285,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.29,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.295,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.3,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.305,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.31,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.315,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.32,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.325,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.33,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.335,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.34,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.345,1.0,0.0
+S05,Regional envelope,Base,High,CONT,0.35,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.05,0.784348,960.4115
+S06,Regional envelope,High synchronized,Low,CONT,0.055,0.862783,611.10055
+S06,Regional envelope,High synchronized,Low,CONT,0.06,0.941217,261.7896
+S06,Regional envelope,High synchronized,Low,CONT,0.065,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.07,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.075,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.08,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.085,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.09,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.095,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.1,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.105,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.11,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.115,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.12,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.125,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.13,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.135,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.14,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.145,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.15,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.155,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.16,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.165,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.17,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.175,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.18,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.185,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.19,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.195,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.2,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.205,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.21,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.215,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.22,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.225,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.23,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.235,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.24,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.245,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.25,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.255,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.26,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.265,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.27,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.275,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.28,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.285,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.29,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.295,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.3,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.305,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.31,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.315,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.32,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.325,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.33,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.335,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.34,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.345,1.0,0.0
+S06,Regional envelope,High synchronized,Low,CONT,0.35,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.05,0.694459,1536.8645
+S06,Regional envelope,High synchronized,High,CONT,0.055,0.763905,1187.55355
+S06,Regional envelope,High synchronized,High,CONT,0.06,0.833351,838.2426
+S06,Regional envelope,High synchronized,High,CONT,0.065,0.902796,488.93165
+S06,Regional envelope,High synchronized,High,CONT,0.07,0.972242,139.6207
+S06,Regional envelope,High synchronized,High,CONT,0.075,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.08,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.085,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.09,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.095,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.1,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.105,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.11,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.115,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.12,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.125,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.13,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.135,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.14,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.145,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.15,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.155,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.16,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.165,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.17,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.175,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.18,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.185,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.19,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.195,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.2,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.205,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.21,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.215,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.22,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.225,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.23,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.235,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.24,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.245,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.25,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.255,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.26,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.265,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.27,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.275,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.28,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.285,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.29,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.295,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.3,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.305,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.31,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.315,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.32,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.325,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.33,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.335,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.34,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.345,1.0,0.0
+S06,Regional envelope,High synchronized,High,CONT,0.35,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.05,0.410074,1325.94295
+S04,Regional envelope,Low,Low,GS,0.055,0.451082,1233.772845
+S04,Regional envelope,Low,Low,GS,0.06,0.492089,1141.60274
+S04,Regional envelope,Low,Low,GS,0.065,0.533097,1049.432635
+S04,Regional envelope,Low,Low,GS,0.07,0.574104,957.26253
+S04,Regional envelope,Low,Low,GS,0.075,0.615111,865.092425
+S04,Regional envelope,Low,Low,GS,0.08,0.656119,772.92232
+S04,Regional envelope,Low,Low,GS,0.085,0.697126,680.752215
+S04,Regional envelope,Low,Low,GS,0.09,0.738134,588.58211
+S04,Regional envelope,Low,Low,GS,0.095,0.779141,496.412005
+S04,Regional envelope,Low,Low,GS,0.1,0.820149,404.2419
+S04,Regional envelope,Low,Low,GS,0.105,0.861156,312.071795
+S04,Regional envelope,Low,Low,GS,0.11,0.902163,219.90169
+S04,Regional envelope,Low,Low,GS,0.115,0.943171,127.731585
+S04,Regional envelope,Low,Low,GS,0.12,0.984178,35.56148
+S04,Regional envelope,Low,Low,GS,0.125,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.13,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.135,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.14,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.145,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.15,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.155,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.16,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.165,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.17,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.175,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.18,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.185,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.19,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.195,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.2,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.205,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.21,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.215,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.22,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.225,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.23,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.235,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.24,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.245,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.25,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.255,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.26,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.265,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.27,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.275,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.28,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.285,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.29,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.295,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.3,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.305,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.31,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.315,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.32,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.325,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.33,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.335,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.34,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.345,1.0,0.0
+S04,Regional envelope,Low,Low,GS,0.35,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.05,0.367117,1588.94695
+S04,Regional envelope,Low,High,GS,0.055,0.403828,1496.776845
+S04,Regional envelope,Low,High,GS,0.06,0.44054,1404.60674
+S04,Regional envelope,Low,High,GS,0.065,0.477252,1312.436635
+S04,Regional envelope,Low,High,GS,0.07,0.513964,1220.26653
+S04,Regional envelope,Low,High,GS,0.075,0.550675,1128.096425
+S04,Regional envelope,Low,High,GS,0.08,0.587387,1035.92632
+S04,Regional envelope,Low,High,GS,0.085,0.624099,943.756215
+S04,Regional envelope,Low,High,GS,0.09,0.66081,851.58611
+S04,Regional envelope,Low,High,GS,0.095,0.697522,759.416005
+S04,Regional envelope,Low,High,GS,0.1,0.734234,667.2459
+S04,Regional envelope,Low,High,GS,0.105,0.770945,575.075795
+S04,Regional envelope,Low,High,GS,0.11,0.807657,482.90569
+S04,Regional envelope,Low,High,GS,0.115,0.844369,390.735585
+S04,Regional envelope,Low,High,GS,0.12,0.88108,298.56548
+S04,Regional envelope,Low,High,GS,0.125,0.917792,206.395375
+S04,Regional envelope,Low,High,GS,0.13,0.954504,114.22527
+S04,Regional envelope,Low,High,GS,0.135,0.991215,22.055165
+S04,Regional envelope,Low,High,GS,0.14,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.145,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.15,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.155,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.16,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.165,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.17,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.175,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.18,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.185,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.19,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.195,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.2,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.205,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.21,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.215,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.22,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.225,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.23,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.235,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.24,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.245,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.25,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.255,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.26,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.265,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.27,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.275,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.28,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.285,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.29,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.295,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.3,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.305,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.31,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.315,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.32,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.325,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.33,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.335,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.34,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.345,1.0,0.0
+S04,Regional envelope,Low,High,GS,0.35,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.05,0.817394,410.43255
+S05,Regional envelope,Base,Low,GS,0.055,0.899134,226.711405
+S05,Regional envelope,Base,Low,GS,0.06,0.980873,42.99026
+S05,Regional envelope,Base,Low,GS,0.065,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.07,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.075,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.08,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.085,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.09,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.095,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.1,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.105,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.11,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.115,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.12,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.125,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.13,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.135,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.14,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.145,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.15,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.155,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.16,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.165,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.17,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.175,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.18,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.185,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.19,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.195,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.2,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.205,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.21,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.215,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.22,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.225,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.23,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.235,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.24,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.245,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.25,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.255,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.26,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.265,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.27,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.275,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.28,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.285,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.29,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.295,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.3,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.305,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.31,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.315,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.32,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.325,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.33,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.335,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.34,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.345,1.0,0.0
+S05,Regional envelope,Base,Low,GS,0.35,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.05,0.731768,673.43655
+S05,Regional envelope,Base,High,GS,0.055,0.804945,489.715405
+S05,Regional envelope,Base,High,GS,0.06,0.878121,305.99426
+S05,Regional envelope,Base,High,GS,0.065,0.951298,122.273115
+S05,Regional envelope,Base,High,GS,0.07,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.075,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.08,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.085,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.09,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.095,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.1,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.105,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.11,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.115,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.12,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.125,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.13,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.135,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.14,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.145,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.15,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.155,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.16,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.165,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.17,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.175,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.18,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.185,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.19,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.195,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.2,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.205,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.21,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.215,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.22,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.225,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.23,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.235,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.24,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.245,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.25,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.255,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.26,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.265,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.27,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.275,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.28,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.285,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.29,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.295,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.3,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.305,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.31,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.315,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.32,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.325,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.33,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.335,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.34,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.345,1.0,0.0
+S05,Regional envelope,Base,High,GS,0.35,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.05,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.055,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.06,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.065,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.07,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.075,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.08,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.085,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.09,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.095,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.1,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.105,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.11,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.115,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.12,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.125,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.13,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.135,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.14,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.145,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.15,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.155,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.16,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.165,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.17,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.175,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.18,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.185,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.19,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.195,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.2,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.205,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.21,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.215,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.22,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.225,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.23,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.235,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.24,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.245,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.25,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.255,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.26,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.265,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.27,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.275,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.28,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.285,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.29,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.295,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.3,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.305,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.31,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.315,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.32,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.325,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.33,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.335,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.34,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.345,1.0,0.0
+S06,Regional envelope,High synchronized,Low,GS,0.35,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.05,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.055,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.06,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.065,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.07,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.075,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.08,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.085,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.09,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.095,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.1,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.105,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.11,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.115,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.12,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.125,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.13,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.135,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.14,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.145,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.15,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.155,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.16,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.165,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.17,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.175,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.18,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.185,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.19,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.195,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.2,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.205,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.21,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.215,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.22,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.225,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.23,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.235,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.24,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.245,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.25,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.255,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.26,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.265,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.27,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.275,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.28,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.285,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.29,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.295,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.3,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.305,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.31,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.315,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.32,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.325,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.33,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.335,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.34,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.345,1.0,0.0
+S06,Regional envelope,High synchronized,High,GS,0.35,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.05,0.251688,3332.621
+S01,C1-only,Low,Low,CONT,0.055,0.276857,3220.531
+S01,C1-only,Low,Low,CONT,0.06,0.302026,3108.441
+S01,C1-only,Low,Low,CONT,0.065,0.327195,2996.351
+S01,C1-only,Low,Low,CONT,0.07,0.352364,2884.261
+S01,C1-only,Low,Low,CONT,0.075,0.377533,2772.171
+S01,C1-only,Low,Low,CONT,0.08,0.402702,2660.081
+S01,C1-only,Low,Low,CONT,0.085,0.42787,2547.991
+S01,C1-only,Low,Low,CONT,0.09,0.453039,2435.901
+S01,C1-only,Low,Low,CONT,0.095,0.478208,2323.811
+S01,C1-only,Low,Low,CONT,0.1,0.503377,2211.721
+S01,C1-only,Low,Low,CONT,0.105,0.528546,2099.631
+S01,C1-only,Low,Low,CONT,0.11,0.553715,1987.541
+S01,C1-only,Low,Low,CONT,0.115,0.578884,1875.451
+S01,C1-only,Low,Low,CONT,0.12,0.604052,1763.361
+S01,C1-only,Low,Low,CONT,0.125,0.629221,1651.271
+S01,C1-only,Low,Low,CONT,0.13,0.65439,1539.181
+S01,C1-only,Low,Low,CONT,0.135,0.679559,1427.091
+S01,C1-only,Low,Low,CONT,0.14,0.704728,1315.001
+S01,C1-only,Low,Low,CONT,0.145,0.729897,1202.911
+S01,C1-only,Low,Low,CONT,0.15,0.755065,1090.821
+S01,C1-only,Low,Low,CONT,0.155,0.780234,978.731
+S01,C1-only,Low,Low,CONT,0.16,0.805403,866.641
+S01,C1-only,Low,Low,CONT,0.165,0.830572,754.551
+S01,C1-only,Low,Low,CONT,0.17,0.855741,642.461
+S01,C1-only,Low,Low,CONT,0.175,0.88091,530.371
+S01,C1-only,Low,Low,CONT,0.18,0.906079,418.281
+S01,C1-only,Low,Low,CONT,0.185,0.931247,306.191
+S01,C1-only,Low,Low,CONT,0.19,0.956416,194.101
+S01,C1-only,Low,Low,CONT,0.195,0.981585,82.011
+S01,C1-only,Low,Low,CONT,0.2,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.205,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.21,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.215,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.22,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.225,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.23,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.235,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.24,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.245,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.25,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.255,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.26,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.265,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.27,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.275,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.28,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.285,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.29,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.295,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.3,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.305,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.31,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.315,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.32,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.325,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.33,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.335,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.34,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.345,1.0,0.0
+S01,C1-only,Low,Low,CONT,0.35,1.0,0.0
+S01,C1-only,Low,High,CONT,0.05,0.222844,3909.074
+S01,C1-only,Low,High,CONT,0.055,0.245129,3796.984
+S01,C1-only,Low,High,CONT,0.06,0.267413,3684.894
+S01,C1-only,Low,High,CONT,0.065,0.289697,3572.804
+S01,C1-only,Low,High,CONT,0.07,0.311982,3460.714
+S01,C1-only,Low,High,CONT,0.075,0.334266,3348.624
+S01,C1-only,Low,High,CONT,0.08,0.356551,3236.534
+S01,C1-only,Low,High,CONT,0.085,0.378835,3124.444
+S01,C1-only,Low,High,CONT,0.09,0.401119,3012.354
+S01,C1-only,Low,High,CONT,0.095,0.423404,2900.264
+S01,C1-only,Low,High,CONT,0.1,0.445688,2788.174
+S01,C1-only,Low,High,CONT,0.105,0.467973,2676.084
+S01,C1-only,Low,High,CONT,0.11,0.490257,2563.994
+S01,C1-only,Low,High,CONT,0.115,0.512541,2451.904
+S01,C1-only,Low,High,CONT,0.12,0.534826,2339.814
+S01,C1-only,Low,High,CONT,0.125,0.55711,2227.724
+S01,C1-only,Low,High,CONT,0.13,0.579395,2115.634
+S01,C1-only,Low,High,CONT,0.135,0.601679,2003.544
+S01,C1-only,Low,High,CONT,0.14,0.623963,1891.454
+S01,C1-only,Low,High,CONT,0.145,0.646248,1779.364
+S01,C1-only,Low,High,CONT,0.15,0.668532,1667.274
+S01,C1-only,Low,High,CONT,0.155,0.690817,1555.184
+S01,C1-only,Low,High,CONT,0.16,0.713101,1443.094
+S01,C1-only,Low,High,CONT,0.165,0.735386,1331.004
+S01,C1-only,Low,High,CONT,0.17,0.75767,1218.914
+S01,C1-only,Low,High,CONT,0.175,0.779954,1106.824
+S01,C1-only,Low,High,CONT,0.18,0.802239,994.734
+S01,C1-only,Low,High,CONT,0.185,0.824523,882.644
+S01,C1-only,Low,High,CONT,0.19,0.846808,770.554
+S01,C1-only,Low,High,CONT,0.195,0.869092,658.464
+S01,C1-only,Low,High,CONT,0.2,0.891376,546.374
+S01,C1-only,Low,High,CONT,0.205,0.913661,434.284
+S01,C1-only,Low,High,CONT,0.21,0.935945,322.194
+S01,C1-only,Low,High,CONT,0.215,0.95823,210.104
+S01,C1-only,Low,High,CONT,0.22,0.980514,98.014
+S01,C1-only,Low,High,CONT,0.225,1.0,0.0
+S01,C1-only,Low,High,CONT,0.23,1.0,0.0
+S01,C1-only,Low,High,CONT,0.235,1.0,0.0
+S01,C1-only,Low,High,CONT,0.24,1.0,0.0
+S01,C1-only,Low,High,CONT,0.245,1.0,0.0
+S01,C1-only,Low,High,CONT,0.25,1.0,0.0
+S01,C1-only,Low,High,CONT,0.255,1.0,0.0
+S01,C1-only,Low,High,CONT,0.26,1.0,0.0
+S01,C1-only,Low,High,CONT,0.265,1.0,0.0
+S01,C1-only,Low,High,CONT,0.27,1.0,0.0
+S01,C1-only,Low,High,CONT,0.275,1.0,0.0
+S01,C1-only,Low,High,CONT,0.28,1.0,0.0
+S01,C1-only,Low,High,CONT,0.285,1.0,0.0
+S01,C1-only,Low,High,CONT,0.29,1.0,0.0
+S01,C1-only,Low,High,CONT,0.295,1.0,0.0
+S01,C1-only,Low,High,CONT,0.3,1.0,0.0
+S01,C1-only,Low,High,CONT,0.305,1.0,0.0
+S01,C1-only,Low,High,CONT,0.31,1.0,0.0
+S01,C1-only,Low,High,CONT,0.315,1.0,0.0
+S01,C1-only,Low,High,CONT,0.32,1.0,0.0
+S01,C1-only,Low,High,CONT,0.325,1.0,0.0
+S01,C1-only,Low,High,CONT,0.33,1.0,0.0
+S01,C1-only,Low,High,CONT,0.335,1.0,0.0
+S01,C1-only,Low,High,CONT,0.34,1.0,0.0
+S01,C1-only,Low,High,CONT,0.345,1.0,0.0
+S01,C1-only,Low,High,CONT,0.35,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.05,0.319073,3032.521
+S02,C1-only,Base,Low,CONT,0.055,0.350981,2890.421
+S02,C1-only,Base,Low,CONT,0.06,0.382888,2748.321
+S02,C1-only,Base,Low,CONT,0.065,0.414795,2606.221
+S02,C1-only,Base,Low,CONT,0.07,0.446703,2464.121
+S02,C1-only,Base,Low,CONT,0.075,0.47861,2322.021
+S02,C1-only,Base,Low,CONT,0.08,0.510517,2179.921
+S02,C1-only,Base,Low,CONT,0.085,0.542425,2037.821
+S02,C1-only,Base,Low,CONT,0.09,0.574332,1895.721
+S02,C1-only,Base,Low,CONT,0.095,0.606239,1753.621
+S02,C1-only,Base,Low,CONT,0.1,0.638147,1611.521
+S02,C1-only,Base,Low,CONT,0.105,0.670054,1469.421
+S02,C1-only,Base,Low,CONT,0.11,0.701961,1327.321
+S02,C1-only,Base,Low,CONT,0.115,0.733869,1185.221
+S02,C1-only,Base,Low,CONT,0.12,0.765776,1043.121
+S02,C1-only,Base,Low,CONT,0.125,0.797683,901.021
+S02,C1-only,Base,Low,CONT,0.13,0.829591,758.921
+S02,C1-only,Base,Low,CONT,0.135,0.861498,616.821
+S02,C1-only,Base,Low,CONT,0.14,0.893405,474.721
+S02,C1-only,Base,Low,CONT,0.145,0.925313,332.621
+S02,C1-only,Base,Low,CONT,0.15,0.95722,190.521
+S02,C1-only,Base,Low,CONT,0.155,0.989127,48.421
+S02,C1-only,Base,Low,CONT,0.16,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.165,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.17,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.175,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.18,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.185,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.19,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.195,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.2,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.205,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.21,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.215,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.22,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.225,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.23,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.235,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.24,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.245,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.25,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.255,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.26,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.265,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.27,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.275,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.28,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.285,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.29,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.295,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.3,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.305,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.31,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.315,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.32,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.325,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.33,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.335,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.34,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.345,1.0,0.0
+S02,C1-only,Base,Low,CONT,0.35,1.0,0.0
+S02,C1-only,Base,High,CONT,0.05,0.282506,3608.974
+S02,C1-only,Base,High,CONT,0.055,0.310757,3466.874
+S02,C1-only,Base,High,CONT,0.06,0.339008,3324.774
+S02,C1-only,Base,High,CONT,0.065,0.367258,3182.674
+S02,C1-only,Base,High,CONT,0.07,0.395509,3040.574
+S02,C1-only,Base,High,CONT,0.075,0.42376,2898.474
+S02,C1-only,Base,High,CONT,0.08,0.45201,2756.374
+S02,C1-only,Base,High,CONT,0.085,0.480261,2614.274
+S02,C1-only,Base,High,CONT,0.09,0.508512,2472.174
+S02,C1-only,Base,High,CONT,0.095,0.536762,2330.074
+S02,C1-only,Base,High,CONT,0.1,0.565013,2187.974
+S02,C1-only,Base,High,CONT,0.105,0.593264,2045.874
+S02,C1-only,Base,High,CONT,0.11,0.621514,1903.774
+S02,C1-only,Base,High,CONT,0.115,0.649765,1761.674
+S02,C1-only,Base,High,CONT,0.12,0.678015,1619.574
+S02,C1-only,Base,High,CONT,0.125,0.706266,1477.474
+S02,C1-only,Base,High,CONT,0.13,0.734517,1335.374
+S02,C1-only,Base,High,CONT,0.135,0.762767,1193.274
+S02,C1-only,Base,High,CONT,0.14,0.791018,1051.174
+S02,C1-only,Base,High,CONT,0.145,0.819269,909.074
+S02,C1-only,Base,High,CONT,0.15,0.847519,766.974
+S02,C1-only,Base,High,CONT,0.155,0.87577,624.874
+S02,C1-only,Base,High,CONT,0.16,0.904021,482.774
+S02,C1-only,Base,High,CONT,0.165,0.932271,340.674
+S02,C1-only,Base,High,CONT,0.17,0.960522,198.574
+S02,C1-only,Base,High,CONT,0.175,0.988773,56.474
+S02,C1-only,Base,High,CONT,0.18,1.0,0.0
+S02,C1-only,Base,High,CONT,0.185,1.0,0.0
+S02,C1-only,Base,High,CONT,0.19,1.0,0.0
+S02,C1-only,Base,High,CONT,0.195,1.0,0.0
+S02,C1-only,Base,High,CONT,0.2,1.0,0.0
+S02,C1-only,Base,High,CONT,0.205,1.0,0.0
+S02,C1-only,Base,High,CONT,0.21,1.0,0.0
+S02,C1-only,Base,High,CONT,0.215,1.0,0.0
+S02,C1-only,Base,High,CONT,0.22,1.0,0.0
+S02,C1-only,Base,High,CONT,0.225,1.0,0.0
+S02,C1-only,Base,High,CONT,0.23,1.0,0.0
+S02,C1-only,Base,High,CONT,0.235,1.0,0.0
+S02,C1-only,Base,High,CONT,0.24,1.0,0.0
+S02,C1-only,Base,High,CONT,0.245,1.0,0.0
+S02,C1-only,Base,High,CONT,0.25,1.0,0.0
+S02,C1-only,Base,High,CONT,0.255,1.0,0.0
+S02,C1-only,Base,High,CONT,0.26,1.0,0.0
+S02,C1-only,Base,High,CONT,0.265,1.0,0.0
+S02,C1-only,Base,High,CONT,0.27,1.0,0.0
+S02,C1-only,Base,High,CONT,0.275,1.0,0.0
+S02,C1-only,Base,High,CONT,0.28,1.0,0.0
+S02,C1-only,Base,High,CONT,0.285,1.0,0.0
+S02,C1-only,Base,High,CONT,0.29,1.0,0.0
+S02,C1-only,Base,High,CONT,0.295,1.0,0.0
+S02,C1-only,Base,High,CONT,0.3,1.0,0.0
+S02,C1-only,Base,High,CONT,0.305,1.0,0.0
+S02,C1-only,Base,High,CONT,0.31,1.0,0.0
+S02,C1-only,Base,High,CONT,0.315,1.0,0.0
+S02,C1-only,Base,High,CONT,0.32,1.0,0.0
+S02,C1-only,Base,High,CONT,0.325,1.0,0.0
+S02,C1-only,Base,High,CONT,0.33,1.0,0.0
+S02,C1-only,Base,High,CONT,0.335,1.0,0.0
+S02,C1-only,Base,High,CONT,0.34,1.0,0.0
+S02,C1-only,Base,High,CONT,0.345,1.0,0.0
+S02,C1-only,Base,High,CONT,0.35,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.05,0.389284,2719.8365
+S03,C1-only,High synchronized,Low,CONT,0.055,0.428212,2546.46805
+S03,C1-only,High synchronized,Low,CONT,0.06,0.467141,2373.0996
+S03,C1-only,High synchronized,Low,CONT,0.065,0.506069,2199.73115
+S03,C1-only,High synchronized,Low,CONT,0.07,0.544998,2026.3627
+S03,C1-only,High synchronized,Low,CONT,0.075,0.583926,1852.99425
+S03,C1-only,High synchronized,Low,CONT,0.08,0.622854,1679.6258
+S03,C1-only,High synchronized,Low,CONT,0.085,0.661783,1506.25735
+S03,C1-only,High synchronized,Low,CONT,0.09,0.700711,1332.8889
+S03,C1-only,High synchronized,Low,CONT,0.095,0.73964,1159.52045
+S03,C1-only,High synchronized,Low,CONT,0.1,0.778568,986.152
+S03,C1-only,High synchronized,Low,CONT,0.105,0.817496,812.78355
+S03,C1-only,High synchronized,Low,CONT,0.11,0.856425,639.4151
+S03,C1-only,High synchronized,Low,CONT,0.115,0.895353,466.04665
+S03,C1-only,High synchronized,Low,CONT,0.12,0.934282,292.6782
+S03,C1-only,High synchronized,Low,CONT,0.125,0.97321,119.30975
+S03,C1-only,High synchronized,Low,CONT,0.13,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.135,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.14,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.145,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.15,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.155,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.16,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.165,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.17,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.175,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.18,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.185,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.19,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.195,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.2,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.205,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.21,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.215,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.22,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.225,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.23,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.235,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.24,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.245,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.25,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.255,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.26,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.265,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.27,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.275,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.28,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.285,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.29,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.295,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.3,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.305,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.31,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.315,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.32,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.325,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.33,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.335,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.34,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.345,1.0,0.0
+S03,C1-only,High synchronized,Low,CONT,0.35,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.05,0.344671,3296.2895
+S03,C1-only,High synchronized,High,CONT,0.055,0.379138,3122.92105
+S03,C1-only,High synchronized,High,CONT,0.06,0.413605,2949.5526
+S03,C1-only,High synchronized,High,CONT,0.065,0.448072,2776.18415
+S03,C1-only,High synchronized,High,CONT,0.07,0.482539,2602.8157
+S03,C1-only,High synchronized,High,CONT,0.075,0.517006,2429.44725
+S03,C1-only,High synchronized,High,CONT,0.08,0.551473,2256.0788
+S03,C1-only,High synchronized,High,CONT,0.085,0.58594,2082.71035
+S03,C1-only,High synchronized,High,CONT,0.09,0.620407,1909.3419
+S03,C1-only,High synchronized,High,CONT,0.095,0.654874,1735.97345
+S03,C1-only,High synchronized,High,CONT,0.1,0.689341,1562.605
+S03,C1-only,High synchronized,High,CONT,0.105,0.723808,1389.23655
+S03,C1-only,High synchronized,High,CONT,0.11,0.758275,1215.8681
+S03,C1-only,High synchronized,High,CONT,0.115,0.792743,1042.49965
+S03,C1-only,High synchronized,High,CONT,0.12,0.82721,869.1312
+S03,C1-only,High synchronized,High,CONT,0.125,0.861677,695.76275
+S03,C1-only,High synchronized,High,CONT,0.13,0.896144,522.3943
+S03,C1-only,High synchronized,High,CONT,0.135,0.930611,349.02585
+S03,C1-only,High synchronized,High,CONT,0.14,0.965078,175.6574
+S03,C1-only,High synchronized,High,CONT,0.145,0.999545,2.28895
+S03,C1-only,High synchronized,High,CONT,0.15,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.155,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.16,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.165,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.17,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.175,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.18,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.185,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.19,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.195,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.2,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.205,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.21,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.215,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.22,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.225,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.23,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.235,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.24,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.245,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.25,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.255,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.26,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.265,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.27,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.275,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.28,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.285,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.29,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.295,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.3,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.305,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.31,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.315,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.32,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.325,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.33,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.335,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.34,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.345,1.0,0.0
+S03,C1-only,High synchronized,High,CONT,0.35,1.0,0.0
+S01,C1-only,Low,Low,GS,0.05,0.410074,1325.944
+S01,C1-only,Low,Low,GS,0.055,0.451081,1233.774
+S01,C1-only,Low,Low,GS,0.06,0.492089,1141.604
+S01,C1-only,Low,Low,GS,0.065,0.533096,1049.434
+S01,C1-only,Low,Low,GS,0.07,0.574103,957.264
+S01,C1-only,Low,Low,GS,0.075,0.615111,865.094
+S01,C1-only,Low,Low,GS,0.08,0.656118,772.924
+S01,C1-only,Low,Low,GS,0.085,0.697126,680.754
+S01,C1-only,Low,Low,GS,0.09,0.738133,588.584
+S01,C1-only,Low,Low,GS,0.095,0.77914,496.414
+S01,C1-only,Low,Low,GS,0.1,0.820148,404.244
+S01,C1-only,Low,Low,GS,0.105,0.861155,312.074
+S01,C1-only,Low,Low,GS,0.11,0.902162,219.904
+S01,C1-only,Low,Low,GS,0.115,0.94317,127.734
+S01,C1-only,Low,Low,GS,0.12,0.984177,35.564
+S01,C1-only,Low,Low,GS,0.125,1.0,0.0
+S01,C1-only,Low,Low,GS,0.13,1.0,0.0
+S01,C1-only,Low,Low,GS,0.135,1.0,0.0
+S01,C1-only,Low,Low,GS,0.14,1.0,0.0
+S01,C1-only,Low,Low,GS,0.145,1.0,0.0
+S01,C1-only,Low,Low,GS,0.15,1.0,0.0
+S01,C1-only,Low,Low,GS,0.155,1.0,0.0
+S01,C1-only,Low,Low,GS,0.16,1.0,0.0
+S01,C1-only,Low,Low,GS,0.165,1.0,0.0
+S01,C1-only,Low,Low,GS,0.17,1.0,0.0
+S01,C1-only,Low,Low,GS,0.175,1.0,0.0
+S01,C1-only,Low,Low,GS,0.18,1.0,0.0
+S01,C1-only,Low,Low,GS,0.185,1.0,0.0
+S01,C1-only,Low,Low,GS,0.19,1.0,0.0
+S01,C1-only,Low,Low,GS,0.195,1.0,0.0
+S01,C1-only,Low,Low,GS,0.2,1.0,0.0
+S01,C1-only,Low,Low,GS,0.205,1.0,0.0
+S01,C1-only,Low,Low,GS,0.21,1.0,0.0
+S01,C1-only,Low,Low,GS,0.215,1.0,0.0
+S01,C1-only,Low,Low,GS,0.22,1.0,0.0
+S01,C1-only,Low,Low,GS,0.225,1.0,0.0
+S01,C1-only,Low,Low,GS,0.23,1.0,0.0
+S01,C1-only,Low,Low,GS,0.235,1.0,0.0
+S01,C1-only,Low,Low,GS,0.24,1.0,0.0
+S01,C1-only,Low,Low,GS,0.245,1.0,0.0
+S01,C1-only,Low,Low,GS,0.25,1.0,0.0
+S01,C1-only,Low,Low,GS,0.255,1.0,0.0
+S01,C1-only,Low,Low,GS,0.26,1.0,0.0
+S01,C1-only,Low,Low,GS,0.265,1.0,0.0
+S01,C1-only,Low,Low,GS,0.27,1.0,0.0
+S01,C1-only,Low,Low,GS,0.275,1.0,0.0
+S01,C1-only,Low,Low,GS,0.28,1.0,0.0
+S01,C1-only,Low,Low,GS,0.285,1.0,0.0
+S01,C1-only,Low,Low,GS,0.29,1.0,0.0
+S01,C1-only,Low,Low,GS,0.295,1.0,0.0
+S01,C1-only,Low,Low,GS,0.3,1.0,0.0
+S01,C1-only,Low,Low,GS,0.305,1.0,0.0
+S01,C1-only,Low,Low,GS,0.31,1.0,0.0
+S01,C1-only,Low,Low,GS,0.315,1.0,0.0
+S01,C1-only,Low,Low,GS,0.32,1.0,0.0
+S01,C1-only,Low,Low,GS,0.325,1.0,0.0
+S01,C1-only,Low,Low,GS,0.33,1.0,0.0
+S01,C1-only,Low,Low,GS,0.335,1.0,0.0
+S01,C1-only,Low,Low,GS,0.34,1.0,0.0
+S01,C1-only,Low,Low,GS,0.345,1.0,0.0
+S01,C1-only,Low,Low,GS,0.35,1.0,0.0
+S01,C1-only,Low,High,GS,0.05,0.367116,1588.948
+S01,C1-only,Low,High,GS,0.055,0.403828,1496.778
+S01,C1-only,Low,High,GS,0.06,0.44054,1404.608
+S01,C1-only,Low,High,GS,0.065,0.477251,1312.438
+S01,C1-only,Low,High,GS,0.07,0.513963,1220.268
+S01,C1-only,Low,High,GS,0.075,0.550675,1128.098
+S01,C1-only,Low,High,GS,0.08,0.587386,1035.928
+S01,C1-only,Low,High,GS,0.085,0.624098,943.758
+S01,C1-only,Low,High,GS,0.09,0.660809,851.588
+S01,C1-only,Low,High,GS,0.095,0.697521,759.418
+S01,C1-only,Low,High,GS,0.1,0.734233,667.248
+S01,C1-only,Low,High,GS,0.105,0.770944,575.078
+S01,C1-only,Low,High,GS,0.11,0.807656,482.908
+S01,C1-only,Low,High,GS,0.115,0.844368,390.738
+S01,C1-only,Low,High,GS,0.12,0.881079,298.568
+S01,C1-only,Low,High,GS,0.125,0.917791,206.398
+S01,C1-only,Low,High,GS,0.13,0.954503,114.228
+S01,C1-only,Low,High,GS,0.135,0.991214,22.058
+S01,C1-only,Low,High,GS,0.14,1.0,0.0
+S01,C1-only,Low,High,GS,0.145,1.0,0.0
+S01,C1-only,Low,High,GS,0.15,1.0,0.0
+S01,C1-only,Low,High,GS,0.155,1.0,0.0
+S01,C1-only,Low,High,GS,0.16,1.0,0.0
+S01,C1-only,Low,High,GS,0.165,1.0,0.0
+S01,C1-only,Low,High,GS,0.17,1.0,0.0
+S01,C1-only,Low,High,GS,0.175,1.0,0.0
+S01,C1-only,Low,High,GS,0.18,1.0,0.0
+S01,C1-only,Low,High,GS,0.185,1.0,0.0
+S01,C1-only,Low,High,GS,0.19,1.0,0.0
+S01,C1-only,Low,High,GS,0.195,1.0,0.0
+S01,C1-only,Low,High,GS,0.2,1.0,0.0
+S01,C1-only,Low,High,GS,0.205,1.0,0.0
+S01,C1-only,Low,High,GS,0.21,1.0,0.0
+S01,C1-only,Low,High,GS,0.215,1.0,0.0
+S01,C1-only,Low,High,GS,0.22,1.0,0.0
+S01,C1-only,Low,High,GS,0.225,1.0,0.0
+S01,C1-only,Low,High,GS,0.23,1.0,0.0
+S01,C1-only,Low,High,GS,0.235,1.0,0.0
+S01,C1-only,Low,High,GS,0.24,1.0,0.0
+S01,C1-only,Low,High,GS,0.245,1.0,0.0
+S01,C1-only,Low,High,GS,0.25,1.0,0.0
+S01,C1-only,Low,High,GS,0.255,1.0,0.0
+S01,C1-only,Low,High,GS,0.26,1.0,0.0
+S01,C1-only,Low,High,GS,0.265,1.0,0.0
+S01,C1-only,Low,High,GS,0.27,1.0,0.0
+S01,C1-only,Low,High,GS,0.275,1.0,0.0
+S01,C1-only,Low,High,GS,0.28,1.0,0.0
+S01,C1-only,Low,High,GS,0.285,1.0,0.0
+S01,C1-only,Low,High,GS,0.29,1.0,0.0
+S01,C1-only,Low,High,GS,0.295,1.0,0.0
+S01,C1-only,Low,High,GS,0.3,1.0,0.0
+S01,C1-only,Low,High,GS,0.305,1.0,0.0
+S01,C1-only,Low,High,GS,0.31,1.0,0.0
+S01,C1-only,Low,High,GS,0.315,1.0,0.0
+S01,C1-only,Low,High,GS,0.32,1.0,0.0
+S01,C1-only,Low,High,GS,0.325,1.0,0.0
+S01,C1-only,Low,High,GS,0.33,1.0,0.0
+S01,C1-only,Low,High,GS,0.335,1.0,0.0
+S01,C1-only,Low,High,GS,0.34,1.0,0.0
+S01,C1-only,Low,High,GS,0.345,1.0,0.0
+S01,C1-only,Low,High,GS,0.35,1.0,0.0
+S02,C1-only,Base,Low,GS,0.05,0.594133,912.244
+S02,C1-only,Base,Low,GS,0.055,0.653547,778.704
+S02,C1-only,Base,Low,GS,0.06,0.71296,645.164
+S02,C1-only,Base,Low,GS,0.065,0.772373,511.624
+S02,C1-only,Base,Low,GS,0.07,0.831787,378.084
+S02,C1-only,Base,Low,GS,0.075,0.8912,244.544
+S02,C1-only,Base,Low,GS,0.08,0.950613,111.004
+S02,C1-only,Base,Low,GS,0.085,1.0,0.0
+S02,C1-only,Base,Low,GS,0.09,1.0,0.0
+S02,C1-only,Base,Low,GS,0.095,1.0,0.0
+S02,C1-only,Base,Low,GS,0.1,1.0,0.0
+S02,C1-only,Base,Low,GS,0.105,1.0,0.0
+S02,C1-only,Base,Low,GS,0.11,1.0,0.0
+S02,C1-only,Base,Low,GS,0.115,1.0,0.0
+S02,C1-only,Base,Low,GS,0.12,1.0,0.0
+S02,C1-only,Base,Low,GS,0.125,1.0,0.0
+S02,C1-only,Base,Low,GS,0.13,1.0,0.0
+S02,C1-only,Base,Low,GS,0.135,1.0,0.0
+S02,C1-only,Base,Low,GS,0.14,1.0,0.0
+S02,C1-only,Base,Low,GS,0.145,1.0,0.0
+S02,C1-only,Base,Low,GS,0.15,1.0,0.0
+S02,C1-only,Base,Low,GS,0.155,1.0,0.0
+S02,C1-only,Base,Low,GS,0.16,1.0,0.0
+S02,C1-only,Base,Low,GS,0.165,1.0,0.0
+S02,C1-only,Base,Low,GS,0.17,1.0,0.0
+S02,C1-only,Base,Low,GS,0.175,1.0,0.0
+S02,C1-only,Base,Low,GS,0.18,1.0,0.0
+S02,C1-only,Base,Low,GS,0.185,1.0,0.0
+S02,C1-only,Base,Low,GS,0.19,1.0,0.0
+S02,C1-only,Base,Low,GS,0.195,1.0,0.0
+S02,C1-only,Base,Low,GS,0.2,1.0,0.0
+S02,C1-only,Base,Low,GS,0.205,1.0,0.0
+S02,C1-only,Base,Low,GS,0.21,1.0,0.0
+S02,C1-only,Base,Low,GS,0.215,1.0,0.0
+S02,C1-only,Base,Low,GS,0.22,1.0,0.0
+S02,C1-only,Base,Low,GS,0.225,1.0,0.0
+S02,C1-only,Base,Low,GS,0.23,1.0,0.0
+S02,C1-only,Base,Low,GS,0.235,1.0,0.0
+S02,C1-only,Base,Low,GS,0.24,1.0,0.0
+S02,C1-only,Base,Low,GS,0.245,1.0,0.0
+S02,C1-only,Base,Low,GS,0.25,1.0,0.0
+S02,C1-only,Base,Low,GS,0.255,1.0,0.0
+S02,C1-only,Base,Low,GS,0.26,1.0,0.0
+S02,C1-only,Base,Low,GS,0.265,1.0,0.0
+S02,C1-only,Base,Low,GS,0.27,1.0,0.0
+S02,C1-only,Base,Low,GS,0.275,1.0,0.0
+S02,C1-only,Base,Low,GS,0.28,1.0,0.0
+S02,C1-only,Base,Low,GS,0.285,1.0,0.0
+S02,C1-only,Base,Low,GS,0.29,1.0,0.0
+S02,C1-only,Base,Low,GS,0.295,1.0,0.0
+S02,C1-only,Base,Low,GS,0.3,1.0,0.0
+S02,C1-only,Base,Low,GS,0.305,1.0,0.0
+S02,C1-only,Base,Low,GS,0.31,1.0,0.0
+S02,C1-only,Base,Low,GS,0.315,1.0,0.0
+S02,C1-only,Base,Low,GS,0.32,1.0,0.0
+S02,C1-only,Base,Low,GS,0.325,1.0,0.0
+S02,C1-only,Base,Low,GS,0.33,1.0,0.0
+S02,C1-only,Base,Low,GS,0.335,1.0,0.0
+S02,C1-only,Base,Low,GS,0.34,1.0,0.0
+S02,C1-only,Base,Low,GS,0.345,1.0,0.0
+S02,C1-only,Base,Low,GS,0.35,1.0,0.0
+S02,C1-only,Base,High,GS,0.05,0.531895,1175.248
+S02,C1-only,Base,High,GS,0.055,0.585084,1041.708
+S02,C1-only,Base,High,GS,0.06,0.638273,908.168
+S02,C1-only,Base,High,GS,0.065,0.691463,774.628
+S02,C1-only,Base,High,GS,0.07,0.744652,641.088
+S02,C1-only,Base,High,GS,0.075,0.797842,507.548
+S02,C1-only,Base,High,GS,0.08,0.851031,374.008
+S02,C1-only,Base,High,GS,0.085,0.904221,240.468
+S02,C1-only,Base,High,GS,0.09,0.95741,106.928
+S02,C1-only,Base,High,GS,0.095,1.0,0.0
+S02,C1-only,Base,High,GS,0.1,1.0,0.0
+S02,C1-only,Base,High,GS,0.105,1.0,0.0
+S02,C1-only,Base,High,GS,0.11,1.0,0.0
+S02,C1-only,Base,High,GS,0.115,1.0,0.0
+S02,C1-only,Base,High,GS,0.12,1.0,0.0
+S02,C1-only,Base,High,GS,0.125,1.0,0.0
+S02,C1-only,Base,High,GS,0.13,1.0,0.0
+S02,C1-only,Base,High,GS,0.135,1.0,0.0
+S02,C1-only,Base,High,GS,0.14,1.0,0.0
+S02,C1-only,Base,High,GS,0.145,1.0,0.0
+S02,C1-only,Base,High,GS,0.15,1.0,0.0
+S02,C1-only,Base,High,GS,0.155,1.0,0.0
+S02,C1-only,Base,High,GS,0.16,1.0,0.0
+S02,C1-only,Base,High,GS,0.165,1.0,0.0
+S02,C1-only,Base,High,GS,0.17,1.0,0.0
+S02,C1-only,Base,High,GS,0.175,1.0,0.0
+S02,C1-only,Base,High,GS,0.18,1.0,0.0
+S02,C1-only,Base,High,GS,0.185,1.0,0.0
+S02,C1-only,Base,High,GS,0.19,1.0,0.0
+S02,C1-only,Base,High,GS,0.195,1.0,0.0
+S02,C1-only,Base,High,GS,0.2,1.0,0.0
+S02,C1-only,Base,High,GS,0.205,1.0,0.0
+S02,C1-only,Base,High,GS,0.21,1.0,0.0
+S02,C1-only,Base,High,GS,0.215,1.0,0.0
+S02,C1-only,Base,High,GS,0.22,1.0,0.0
+S02,C1-only,Base,High,GS,0.225,1.0,0.0
+S02,C1-only,Base,High,GS,0.23,1.0,0.0
+S02,C1-only,Base,High,GS,0.235,1.0,0.0
+S02,C1-only,Base,High,GS,0.24,1.0,0.0
+S02,C1-only,Base,High,GS,0.245,1.0,0.0
+S02,C1-only,Base,High,GS,0.25,1.0,0.0
+S02,C1-only,Base,High,GS,0.255,1.0,0.0
+S02,C1-only,Base,High,GS,0.26,1.0,0.0
+S02,C1-only,Base,High,GS,0.265,1.0,0.0
+S02,C1-only,Base,High,GS,0.27,1.0,0.0
+S02,C1-only,Base,High,GS,0.275,1.0,0.0
+S02,C1-only,Base,High,GS,0.28,1.0,0.0
+S02,C1-only,Base,High,GS,0.285,1.0,0.0
+S02,C1-only,Base,High,GS,0.29,1.0,0.0
+S02,C1-only,Base,High,GS,0.295,1.0,0.0
+S02,C1-only,Base,High,GS,0.3,1.0,0.0
+S02,C1-only,Base,High,GS,0.305,1.0,0.0
+S02,C1-only,Base,High,GS,0.31,1.0,0.0
+S02,C1-only,Base,High,GS,0.315,1.0,0.0
+S02,C1-only,Base,High,GS,0.32,1.0,0.0
+S02,C1-only,Base,High,GS,0.325,1.0,0.0
+S02,C1-only,Base,High,GS,0.33,1.0,0.0
+S02,C1-only,Base,High,GS,0.335,1.0,0.0
+S02,C1-only,Base,High,GS,0.34,1.0,0.0
+S02,C1-only,Base,High,GS,0.345,1.0,0.0
+S02,C1-only,Base,High,GS,0.35,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.05,0.813891,418.3076
+S03,C1-only,High synchronized,Low,GS,0.055,0.89528,235.37396
+S03,C1-only,High synchronized,Low,GS,0.06,0.976669,52.44032
+S03,C1-only,High synchronized,Low,GS,0.065,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.07,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.075,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.08,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.085,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.09,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.095,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.1,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.105,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.11,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.115,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.12,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.125,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.13,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.135,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.14,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.145,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.15,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.155,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.16,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.165,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.17,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.175,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.18,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.185,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.19,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.195,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.2,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.205,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.21,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.215,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.22,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.225,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.23,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.235,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.24,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.245,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.25,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.255,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.26,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.265,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.27,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.275,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.28,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.285,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.29,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.295,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.3,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.305,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.31,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.315,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.32,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.325,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.33,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.335,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.34,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.345,1.0,0.0
+S03,C1-only,High synchronized,Low,GS,0.35,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.05,0.728631,681.3116
+S03,C1-only,High synchronized,High,GS,0.055,0.801494,498.37796
+S03,C1-only,High synchronized,High,GS,0.06,0.874357,315.44432
+S03,C1-only,High synchronized,High,GS,0.065,0.947221,132.51068
+S03,C1-only,High synchronized,High,GS,0.07,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.075,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.08,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.085,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.09,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.095,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.1,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.105,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.11,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.115,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.12,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.125,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.13,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.135,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.14,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.145,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.15,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.155,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.16,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.165,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.17,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.175,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.18,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.185,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.19,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.195,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.2,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.205,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.21,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.215,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.22,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.225,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.23,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.235,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.24,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.245,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.25,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.255,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.26,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.265,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.27,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.275,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.28,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.285,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.29,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.295,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.3,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.305,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.31,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.315,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.32,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.325,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.33,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.335,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.34,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.345,1.0,0.0
+S03,C1-only,High synchronized,High,GS,0.35,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.05,0.264046,3277.5848
+S07,C1 total (sensitivity),Low,Low,CONT,0.055,0.290451,3159.99118
+S07,C1 total (sensitivity),Low,Low,CONT,0.06,0.316856,3042.39756
+S07,C1 total (sensitivity),Low,Low,CONT,0.065,0.34326,2924.80394
+S07,C1 total (sensitivity),Low,Low,CONT,0.07,0.369665,2807.21032
+S07,C1 total (sensitivity),Low,Low,CONT,0.075,0.39607,2689.6167
+S07,C1 total (sensitivity),Low,Low,CONT,0.08,0.422474,2572.02308
+S07,C1 total (sensitivity),Low,Low,CONT,0.085,0.448879,2454.42946
+S07,C1 total (sensitivity),Low,Low,CONT,0.09,0.475284,2336.83584
+S07,C1 total (sensitivity),Low,Low,CONT,0.095,0.501688,2219.24222
+S07,C1 total (sensitivity),Low,Low,CONT,0.1,0.528093,2101.6486
+S07,C1 total (sensitivity),Low,Low,CONT,0.105,0.554497,1984.05498
+S07,C1 total (sensitivity),Low,Low,CONT,0.11,0.580902,1866.46136
+S07,C1 total (sensitivity),Low,Low,CONT,0.115,0.607307,1748.86774
+S07,C1 total (sensitivity),Low,Low,CONT,0.12,0.633711,1631.27412
+S07,C1 total (sensitivity),Low,Low,CONT,0.125,0.660116,1513.6805
+S07,C1 total (sensitivity),Low,Low,CONT,0.13,0.686521,1396.08688
+S07,C1 total (sensitivity),Low,Low,CONT,0.135,0.712925,1278.49326
+S07,C1 total (sensitivity),Low,Low,CONT,0.14,0.73933,1160.89964
+S07,C1 total (sensitivity),Low,Low,CONT,0.145,0.765735,1043.30602
+S07,C1 total (sensitivity),Low,Low,CONT,0.15,0.792139,925.7124
+S07,C1 total (sensitivity),Low,Low,CONT,0.155,0.818544,808.11878
+S07,C1 total (sensitivity),Low,Low,CONT,0.16,0.844948,690.52516
+S07,C1 total (sensitivity),Low,Low,CONT,0.165,0.871353,572.93154
+S07,C1 total (sensitivity),Low,Low,CONT,0.17,0.897758,455.33792
+S07,C1 total (sensitivity),Low,Low,CONT,0.175,0.924162,337.7443
+S07,C1 total (sensitivity),Low,Low,CONT,0.18,0.950567,220.15068
+S07,C1 total (sensitivity),Low,Low,CONT,0.185,0.976972,102.55706
+S07,C1 total (sensitivity),Low,Low,CONT,0.19,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.195,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.2,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.205,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.21,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.215,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.22,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.225,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.23,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.235,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.24,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.245,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.25,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.255,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.26,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.265,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.27,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.275,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.28,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.285,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.29,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.295,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.3,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.305,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.31,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.315,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.32,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.325,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.33,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.335,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.34,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.345,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,CONT,0.35,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.05,0.233786,3854.0378
+S07,C1 total (sensitivity),Low,High,CONT,0.055,0.257164,3736.44418
+S07,C1 total (sensitivity),Low,High,CONT,0.06,0.280543,3618.85056
+S07,C1 total (sensitivity),Low,High,CONT,0.065,0.303921,3501.25694
+S07,C1 total (sensitivity),Low,High,CONT,0.07,0.3273,3383.66332
+S07,C1 total (sensitivity),Low,High,CONT,0.075,0.350679,3266.0697
+S07,C1 total (sensitivity),Low,High,CONT,0.08,0.374057,3148.47608
+S07,C1 total (sensitivity),Low,High,CONT,0.085,0.397436,3030.88246
+S07,C1 total (sensitivity),Low,High,CONT,0.09,0.420814,2913.28884
+S07,C1 total (sensitivity),Low,High,CONT,0.095,0.444193,2795.69522
+S07,C1 total (sensitivity),Low,High,CONT,0.1,0.467571,2678.1016
+S07,C1 total (sensitivity),Low,High,CONT,0.105,0.49095,2560.50798
+S07,C1 total (sensitivity),Low,High,CONT,0.11,0.514329,2442.91436
+S07,C1 total (sensitivity),Low,High,CONT,0.115,0.537707,2325.32074
+S07,C1 total (sensitivity),Low,High,CONT,0.12,0.561086,2207.72712
+S07,C1 total (sensitivity),Low,High,CONT,0.125,0.584464,2090.1335
+S07,C1 total (sensitivity),Low,High,CONT,0.13,0.607843,1972.53988
+S07,C1 total (sensitivity),Low,High,CONT,0.135,0.631222,1854.94626
+S07,C1 total (sensitivity),Low,High,CONT,0.14,0.6546,1737.35264
+S07,C1 total (sensitivity),Low,High,CONT,0.145,0.677979,1619.75902
+S07,C1 total (sensitivity),Low,High,CONT,0.15,0.701357,1502.1654
+S07,C1 total (sensitivity),Low,High,CONT,0.155,0.724736,1384.57178
+S07,C1 total (sensitivity),Low,High,CONT,0.16,0.748114,1266.97816
+S07,C1 total (sensitivity),Low,High,CONT,0.165,0.771493,1149.38454
+S07,C1 total (sensitivity),Low,High,CONT,0.17,0.794872,1031.79092
+S07,C1 total (sensitivity),Low,High,CONT,0.175,0.81825,914.1973
+S07,C1 total (sensitivity),Low,High,CONT,0.18,0.841629,796.60368
+S07,C1 total (sensitivity),Low,High,CONT,0.185,0.865007,679.01006
+S07,C1 total (sensitivity),Low,High,CONT,0.19,0.888386,561.41644
+S07,C1 total (sensitivity),Low,High,CONT,0.195,0.911764,443.82282
+S07,C1 total (sensitivity),Low,High,CONT,0.2,0.935143,326.2292
+S07,C1 total (sensitivity),Low,High,CONT,0.205,0.958522,208.63558
+S07,C1 total (sensitivity),Low,High,CONT,0.21,0.9819,91.04196
+S07,C1 total (sensitivity),Low,High,CONT,0.215,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.22,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.225,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.23,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.235,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.24,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.245,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.25,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.255,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.26,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.265,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.27,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.275,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.28,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.285,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.29,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.295,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.3,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.305,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.31,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.315,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.32,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.325,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.33,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.335,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.34,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.345,1.0,0.0
+S07,C1 total (sensitivity),Low,High,CONT,0.35,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.05,0.331438,2977.45495
+S08,C1 total (sensitivity),Base,Low,CONT,0.055,0.364582,2829.848345
+S08,C1 total (sensitivity),Base,Low,CONT,0.06,0.397726,2682.24174
+S08,C1 total (sensitivity),Base,Low,CONT,0.065,0.430869,2534.635135
+S08,C1 total (sensitivity),Base,Low,CONT,0.07,0.464013,2387.02853
+S08,C1 total (sensitivity),Base,Low,CONT,0.075,0.497157,2239.421925
+S08,C1 total (sensitivity),Base,Low,CONT,0.08,0.530301,2091.81532
+S08,C1 total (sensitivity),Base,Low,CONT,0.085,0.563445,1944.208715
+S08,C1 total (sensitivity),Base,Low,CONT,0.09,0.596588,1796.60211
+S08,C1 total (sensitivity),Base,Low,CONT,0.095,0.629732,1648.995505
+S08,C1 total (sensitivity),Base,Low,CONT,0.1,0.662876,1501.3889
+S08,C1 total (sensitivity),Base,Low,CONT,0.105,0.69602,1353.782295
+S08,C1 total (sensitivity),Base,Low,CONT,0.11,0.729164,1206.17569
+S08,C1 total (sensitivity),Base,Low,CONT,0.115,0.762307,1058.569085
+S08,C1 total (sensitivity),Base,Low,CONT,0.12,0.795451,910.96248
+S08,C1 total (sensitivity),Base,Low,CONT,0.125,0.828595,763.355875
+S08,C1 total (sensitivity),Base,Low,CONT,0.13,0.861739,615.74927
+S08,C1 total (sensitivity),Base,Low,CONT,0.135,0.894883,468.142665
+S08,C1 total (sensitivity),Base,Low,CONT,0.14,0.928026,320.53606
+S08,C1 total (sensitivity),Base,Low,CONT,0.145,0.96117,172.929455
+S08,C1 total (sensitivity),Base,Low,CONT,0.15,0.994314,25.32285
+S08,C1 total (sensitivity),Base,Low,CONT,0.155,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.16,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.165,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.17,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.175,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.18,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.185,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.19,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.195,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.2,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.205,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.21,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.215,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.22,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.225,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.23,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.235,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.24,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.245,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.25,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.255,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.26,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.265,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.27,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.275,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.28,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.285,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.29,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.295,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.3,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.305,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.31,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.315,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.32,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.325,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.33,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.335,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.34,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.345,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,CONT,0.35,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.05,0.293454,3553.90795
+S08,C1 total (sensitivity),Base,High,CONT,0.055,0.322799,3406.301345
+S08,C1 total (sensitivity),Base,High,CONT,0.06,0.352145,3258.69474
+S08,C1 total (sensitivity),Base,High,CONT,0.065,0.38149,3111.088135
+S08,C1 total (sensitivity),Base,High,CONT,0.07,0.410836,2963.48153
+S08,C1 total (sensitivity),Base,High,CONT,0.075,0.440181,2815.874925
+S08,C1 total (sensitivity),Base,High,CONT,0.08,0.469526,2668.26832
+S08,C1 total (sensitivity),Base,High,CONT,0.085,0.498872,2520.661715
+S08,C1 total (sensitivity),Base,High,CONT,0.09,0.528217,2373.05511
+S08,C1 total (sensitivity),Base,High,CONT,0.095,0.557563,2225.448505
+S08,C1 total (sensitivity),Base,High,CONT,0.1,0.586908,2077.8419
+S08,C1 total (sensitivity),Base,High,CONT,0.105,0.616253,1930.235295
+S08,C1 total (sensitivity),Base,High,CONT,0.11,0.645599,1782.62869
+S08,C1 total (sensitivity),Base,High,CONT,0.115,0.674944,1635.022085
+S08,C1 total (sensitivity),Base,High,CONT,0.12,0.70429,1487.41548
+S08,C1 total (sensitivity),Base,High,CONT,0.125,0.733635,1339.808875
+S08,C1 total (sensitivity),Base,High,CONT,0.13,0.76298,1192.20227
+S08,C1 total (sensitivity),Base,High,CONT,0.135,0.792326,1044.595665
+S08,C1 total (sensitivity),Base,High,CONT,0.14,0.821671,896.98906
+S08,C1 total (sensitivity),Base,High,CONT,0.145,0.851017,749.382455
+S08,C1 total (sensitivity),Base,High,CONT,0.15,0.880362,601.77585
+S08,C1 total (sensitivity),Base,High,CONT,0.155,0.909707,454.169245
+S08,C1 total (sensitivity),Base,High,CONT,0.16,0.939053,306.56264
+S08,C1 total (sensitivity),Base,High,CONT,0.165,0.968398,158.956035
+S08,C1 total (sensitivity),Base,High,CONT,0.17,0.997744,11.34943
+S08,C1 total (sensitivity),Base,High,CONT,0.175,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.18,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.185,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.19,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.195,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.2,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.205,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.21,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.215,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.22,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.225,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.23,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.235,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.24,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.245,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.25,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.255,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.26,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.265,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.27,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.275,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.28,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.285,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.29,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.295,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.3,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.305,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.31,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.315,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.32,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.325,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.33,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.335,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.34,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.345,1.0,0.0
+S08,C1 total (sensitivity),Base,High,CONT,0.35,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.05,0.401643,2664.7942
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.055,0.441808,2485.92152
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.06,0.481972,2307.04884
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.065,0.522136,2128.17616
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.07,0.562301,1949.30348
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.075,0.602465,1770.4308
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.08,0.642629,1591.55812
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.085,0.682794,1412.68544
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.09,0.722958,1233.81276
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.095,0.763122,1054.94008
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.1,0.803287,876.0674
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.105,0.843451,697.19472
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.11,0.883615,518.32204
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.115,0.92378,339.44936
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.12,0.963944,160.57668
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.125,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.13,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.135,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.14,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.145,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.15,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.155,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.16,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.165,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.17,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.175,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.18,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.185,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.19,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.195,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.2,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.205,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.21,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.215,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.22,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.225,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.23,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.235,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.24,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.245,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.25,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.255,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.26,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.265,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.27,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.275,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.28,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.285,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.29,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.295,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.3,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.305,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.31,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.315,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.32,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.325,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.33,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.335,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.34,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.345,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,CONT,0.35,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.05,0.355614,3241.2472
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.055,0.391175,3062.37452
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.06,0.426736,2883.50184
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.065,0.462298,2704.62916
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.07,0.497859,2525.75648
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.075,0.53342,2346.8838
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.08,0.568982,2168.01112
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.085,0.604543,1989.13844
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.09,0.640104,1810.26576
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.095,0.675666,1631.39308
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.1,0.711227,1452.5204
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.105,0.746788,1273.64772
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.11,0.78235,1094.77504
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.115,0.817911,915.90236
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.12,0.853472,737.02968
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.125,0.889034,558.157
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.13,0.924595,379.28432
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.135,0.960157,200.41164
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.14,0.995718,21.53896
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.145,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.15,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.155,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.16,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.165,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.17,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.175,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.18,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.185,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.19,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.195,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.2,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.205,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.21,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.215,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.22,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.225,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.23,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.235,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.24,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.245,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.25,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.255,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.26,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.265,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.27,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.275,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.28,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.285,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.29,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.295,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.3,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.305,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.31,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.315,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.32,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.325,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.33,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.335,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.34,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.345,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,CONT,0.35,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.05,0.487712,1151.44005
+S07,C1 total (sensitivity),Low,Low,GS,0.055,0.536484,1041.819655
+S07,C1 total (sensitivity),Low,Low,GS,0.06,0.585255,932.19926
+S07,C1 total (sensitivity),Low,Low,GS,0.065,0.634026,822.578865
+S07,C1 total (sensitivity),Low,Low,GS,0.07,0.682797,712.95847
+S07,C1 total (sensitivity),Low,Low,GS,0.075,0.731569,603.338075
+S07,C1 total (sensitivity),Low,Low,GS,0.08,0.78034,493.71768
+S07,C1 total (sensitivity),Low,Low,GS,0.085,0.829111,384.097285
+S07,C1 total (sensitivity),Low,Low,GS,0.09,0.877882,274.47689
+S07,C1 total (sensitivity),Low,Low,GS,0.095,0.926654,164.856495
+S07,C1 total (sensitivity),Low,Low,GS,0.1,0.975425,55.2361
+S07,C1 total (sensitivity),Low,Low,GS,0.105,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.11,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.115,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.12,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.125,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.13,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.135,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.14,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.145,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.15,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.155,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.16,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.165,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.17,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.175,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.18,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.185,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.19,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.195,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.2,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.205,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.21,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.215,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.22,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.225,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.23,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.235,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.24,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.245,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.25,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.255,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.26,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.265,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.27,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.275,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.28,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.285,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.29,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.295,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.3,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.305,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.31,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.315,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.32,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.325,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.33,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.335,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.34,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.345,1.0,0.0
+S07,C1 total (sensitivity),Low,Low,GS,0.35,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.05,0.436622,1414.44405
+S07,C1 total (sensitivity),Low,High,GS,0.055,0.480284,1304.823655
+S07,C1 total (sensitivity),Low,High,GS,0.06,0.523946,1195.20326
+S07,C1 total (sensitivity),Low,High,GS,0.065,0.567608,1085.582865
+S07,C1 total (sensitivity),Low,High,GS,0.07,0.611271,975.96247
+S07,C1 total (sensitivity),Low,High,GS,0.075,0.654933,866.342075
+S07,C1 total (sensitivity),Low,High,GS,0.08,0.698595,756.72168
+S07,C1 total (sensitivity),Low,High,GS,0.085,0.742257,647.101285
+S07,C1 total (sensitivity),Low,High,GS,0.09,0.785919,537.48089
+S07,C1 total (sensitivity),Low,High,GS,0.095,0.829582,427.860495
+S07,C1 total (sensitivity),Low,High,GS,0.1,0.873244,318.2401
+S07,C1 total (sensitivity),Low,High,GS,0.105,0.916906,208.619705
+S07,C1 total (sensitivity),Low,High,GS,0.11,0.960568,98.99931
+S07,C1 total (sensitivity),Low,High,GS,0.115,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.12,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.125,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.13,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.135,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.14,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.145,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.15,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.155,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.16,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.165,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.17,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.175,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.18,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.185,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.19,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.195,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.2,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.205,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.21,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.215,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.22,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.225,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.23,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.235,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.24,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.245,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.25,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.255,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.26,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.265,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.27,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.275,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.28,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.285,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.29,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.295,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.3,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.305,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.31,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.315,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.32,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.325,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.33,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.335,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.34,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.345,1.0,0.0
+S07,C1 total (sensitivity),Low,High,GS,0.35,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.05,0.671776,737.7315
+S08,C1 total (sensitivity),Base,Low,GS,0.055,0.738953,586.74025
+S08,C1 total (sensitivity),Base,Low,GS,0.06,0.806131,435.749
+S08,C1 total (sensitivity),Base,Low,GS,0.065,0.873308,284.75775
+S08,C1 total (sensitivity),Base,Low,GS,0.07,0.940486,133.7665
+S08,C1 total (sensitivity),Base,Low,GS,0.075,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.08,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.085,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.09,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.095,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.1,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.105,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.11,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.115,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.12,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.125,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.13,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.135,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.14,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.145,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.15,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.155,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.16,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.165,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.17,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.175,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.18,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.185,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.19,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.195,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.2,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.205,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.21,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.215,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.22,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.225,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.23,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.235,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.24,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.245,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.25,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.255,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.26,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.265,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.27,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.275,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.28,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.285,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.29,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.295,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.3,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.305,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.31,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.315,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.32,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.325,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.33,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.335,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.34,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.345,1.0,0.0
+S08,C1 total (sensitivity),Base,Low,GS,0.35,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.05,0.601404,1000.7355
+S08,C1 total (sensitivity),Base,High,GS,0.055,0.661544,849.74425
+S08,C1 total (sensitivity),Base,High,GS,0.06,0.721684,698.753
+S08,C1 total (sensitivity),Base,High,GS,0.065,0.781825,547.76175
+S08,C1 total (sensitivity),Base,High,GS,0.07,0.841965,396.7705
+S08,C1 total (sensitivity),Base,High,GS,0.075,0.902105,245.77925
+S08,C1 total (sensitivity),Base,High,GS,0.08,0.962246,94.788
+S08,C1 total (sensitivity),Base,High,GS,0.085,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.09,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.095,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.1,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.105,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.11,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.115,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.12,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.125,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.13,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.135,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.14,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.145,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.15,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.155,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.16,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.165,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.17,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.175,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.18,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.185,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.19,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.195,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.2,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.205,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.21,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.215,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.22,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.225,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.23,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.235,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.24,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.245,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.25,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.255,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.26,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.265,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.27,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.275,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.28,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.285,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.29,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.295,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.3,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.305,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.31,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.315,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.32,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.325,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.33,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.335,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.34,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.345,1.0,0.0
+S08,C1 total (sensitivity),Base,High,GS,0.35,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.05,0.891529,243.8047
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.055,0.980682,43.42077
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.06,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.065,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.07,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.075,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.08,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.085,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.09,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.095,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.1,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.105,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.11,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.115,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.12,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.125,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.13,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.135,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.14,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.145,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.15,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.155,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.16,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.165,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.17,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.175,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.18,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.185,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.19,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.195,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.2,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.205,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.21,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.215,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.22,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.225,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.23,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.235,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.24,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.245,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.25,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.255,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.26,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.265,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.27,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.275,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.28,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.285,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.29,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.295,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.3,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.305,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.31,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.315,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.32,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.325,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.33,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.335,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.34,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.345,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,Low,GS,0.35,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.05,0.798136,506.8087
+S09,C1 total (sensitivity),High synchronized,High,GS,0.055,0.87795,306.42477
+S09,C1 total (sensitivity),High synchronized,High,GS,0.06,0.957764,106.04084
+S09,C1 total (sensitivity),High synchronized,High,GS,0.065,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.07,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.075,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.08,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.085,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.09,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.095,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.1,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.105,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.11,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.115,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.12,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.125,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.13,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.135,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.14,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.145,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.15,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.155,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.16,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.165,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.17,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.175,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.18,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.185,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.19,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.195,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.2,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.205,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.21,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.215,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.22,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.225,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.23,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.235,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.24,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.245,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.25,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.255,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.26,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.265,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.27,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.275,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.28,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.285,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.29,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.295,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.3,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.305,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.31,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.315,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.32,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.325,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.33,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.335,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.34,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.345,1.0,0.0
+S09,C1 total (sensitivity),High synchronized,High,GS,0.35,1.0,0.0

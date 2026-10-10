@@ -1,0 +1,22 @@
+scope,activity_level,segment,delta_cargo_t_day,source,scenario_id,scenario,sort_order,scope_order,activity_order,is_sensitivity
+Regional envelope,Low,CONT,29109.644,Brecha I/J,S04,Regional envelope | Low,4,2,1,False
+Regional envelope,Base,CONT,39898.797,Brecha I/J,S05,Regional envelope | Base,5,2,2,False
+Regional envelope,High synchronized,CONT,69862.19,Brecha I/J,S06,Regional envelope | High synchronized,6,2,3,False
+Regional envelope,Low,GS,18434.021,Brecha I/J,S04,Regional envelope | Low,4,2,1,False
+Regional envelope,Base,GS,36744.229,Brecha I/J,S05,Regional envelope | Base,5,2,2,False
+Regional envelope,High synchronized,GS,51469.533,Brecha I/J,S06,Regional envelope | High synchronized,6,2,3,False
+Regional envelope,Low,CG_RORO,2102.857,Brecha I,S04,Regional envelope | Low,4,2,1,False
+Regional envelope,Base,CG_RORO,3268.275,Brecha I,S05,Regional envelope | Base,5,2,2,False
+Regional envelope,High synchronized,CG_RORO,4229.596,Brecha I,S06,Regional envelope | High synchronized,6,2,3,False
+C1-only,Low,CONT,22418.0,Brecha J (rounded as registered),S01,C1-only | Low,1,1,1,False
+C1-only,Base,CONT,28420.0,Brecha J (rounded as registered),S02,C1-only | Base,2,1,2,False
+C1-only,High synchronized,CONT,34673.69,Brecha J (E34/E36),S03,C1-only | High synchronized,3,1,3,False
+C1-only,Low,GS,18434.0,Brecha J (rounded as registered),S01,C1-only | Low,1,1,1,False
+C1-only,Base,GS,26708.0,Brecha J (rounded as registered),S02,C1-only | Base,2,1,2,False
+C1-only,High synchronized,GS,36586.728,Brecha J,S03,C1-only | High synchronized,3,1,3,False
+C1 total (sensitivity),Low,CONT,23518.724,Brecha Q,S07,C1 total (sensitivity) | Low,7,3,1,True
+C1 total (sensitivity),Base,CONT,29521.321,p2_corridors_v0.2.py,S08,C1 total (sensitivity) | Base,8,3,2,True
+C1 total (sensitivity),High synchronized,CONT,35774.536,p2_corridors_v0.2.py,S09,C1 total (sensitivity) | High synchronized,9,3,3,True
+C1 total (sensitivity),Low,GS,21924.079,p2_corridors_v0.2.py,S07,C1 total (sensitivity) | Low,7,3,1,True
+C1 total (sensitivity),Base,GS,30198.25,p2_corridors_v0.2.py,S08,C1 total (sensitivity) | Base,8,3,2,True
+C1 total (sensitivity),High synchronized,GS,40076.786,p2_corridors_v0.2.py,S09,C1 total (sensitivity) | High synchronized,9,3,3,True

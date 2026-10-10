@@ -1,0 +1,29 @@
+subgroup_id,demand,shipment_requirement_t_day,category_id,subgroup,segment,container_type
+rice,Low,1162.888069,rice,"Rice, all forms",CONT,Dry
+sugar_refined,Low,191.78079,sugar,Refined sugar,CONT,Dry
+poultry_frozen,Low,1193.743644,poultry,Frozen poultry,CONT,Reefer
+eggs,Low,75.898761,eggs,Eggs in shell,CONT,Reefer
+dairy_powder,Low,413.425014,milk,Milk powder and whey,CONT,Dry
+dairy_cheese,Low,77.5854,milk,Cheese,CONT,Reefer
+butter_ghee,Low,38.29663,butter,Butter and ghee,CONT,Reefer
+pulses,Low,532.085037,pulses,Dry pulses,CONT,Dry
+oil_refined,Low,767.817658,oil,Refined cooking oil,CONT,Dry
+wheat_grain,Low,1718.001076,wheat,Wheat grain,GS,
+sugar_raw,Low,529.642924,sugar,Raw sugar,GS,
+poultry_fresh,Low,38.885458,poultry,Fresh/chilled poultry,TER,
+dairy_fresh,Low,137.606542,milk,Fresh milk and yogurt,TER,
+oil_crude,Low,123.449,oil,Crude/upstream cooking oil,GL,
+rice,High,1299.320159,rice,"Rice, all forms",CONT,Dry
+sugar_refined,High,214.073484,sugar,Refined sugar,CONT,Dry
+poultry_frozen,High,1351.268032,poultry,Frozen poultry,CONT,Reefer
+eggs,High,103.725743,eggs,Eggs in shell,CONT,Reefer
+dairy_powder,High,475.051436,milk,Milk powder and whey,CONT,Dry
+dairy_cheese,High,89.15411,milk,Cheese,CONT,Reefer
+butter_ghee,High,43.901093,butter,Butter and ghee,CONT,Reefer
+pulses,High,595.348364,pulses,Dry pulses,CONT,Dry
+oil_refined,High,858.13158,oil,Refined cooking oil,CONT,Dry
+wheat_grain,High,1919.029867,wheat,Wheat grain,GS,
+sugar_raw,High,591.618133,sugar,Raw sugar,GS,
+poultry_fresh,High,44.029247,poultry,Fresh/chilled poultry,TER,
+dairy_fresh,High,158.096753,milk,Fresh milk and yogurt,TER,
+oil_crude,High,137.972,oil,Crude/upstream cooking oil,GL,
