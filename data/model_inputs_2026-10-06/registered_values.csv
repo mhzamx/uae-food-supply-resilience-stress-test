@@ -1,0 +1,21 @@
+key,value,unit,source
+benchmark_food_share,0.196656,share,Brecha v0.1 G (S82): HS 01-24 / non-fuel import weight 2023
+req_CONT_low,4453.521,t/day,Brecha v0.1 J
+req_CONT_high,5029.974,t/day,Brecha v0.1 J
+req_GS_low,2247.644,t/day,Brecha v0.1 J
+req_GS_high,2510.648,t/day,Brecha v0.1 J
+req_TER_low,176.492,t/day,Brecha v0.1 J/L
+req_TER_high,202.126,t/day,Brecha v0.1 J/L
+req_GL_low,123.449,t/day,Brecha v0.1 J/L
+req_GL_high,137.972,t/day,Brecha v0.1 J/L
+ter_residual_low,49.776,t/day,Brecha v0.1 L
+ter_residual_high,57.163,t/day,Brecha v0.1 L
+gl_regional_share,0.1445,share,Brecha v0.1 L (crude regional share by weight)
+ter_share_poultry_fresh,0.9563,share,"Brecha v0.1 R (S81, weight)"
+ter_share_dairy_fresh,0.6506,share,"Brecha v0.1 R (S81, weight)"
+ter_req_poultry_fresh_low,38.887,t/day,Brecha v0.1 R
+ter_req_poultry_fresh_high,44.036,t/day,Brecha v0.1 R
+ter_req_dairy_fresh_low,137.612,t/day,Brecha v0.1 R
+ter_req_dairy_fresh_high,158.121,t/day,Brecha v0.1 R
+payload_dry_40ft,28.87,t,S78 (Maersk)
+payload_reefer_40ft_hc,29.67,t,S78 (Maersk)

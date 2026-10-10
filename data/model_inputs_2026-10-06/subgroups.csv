@@ -1,0 +1,16 @@
+subgroup_id,category_id,subgroup,hs_codes,mix_share_pct,segment,container_type,supplier_group
+wheat_grain,wheat,Wheat grain,1001,100,GS,,wheat_grain
+rice,rice,"Rice, all forms",1006,100,CONT,Dry,rice
+sugar_raw,sugar,Raw sugar,"170112, 170113, 170114",73.4247,GS,,sugar_raw
+sugar_refined,sugar,Refined sugar,"170191, 170199",26.5753,CONT,Dry,sugar_refined
+poultry_frozen,poultry,Frozen poultry,0207 (frozen lines),96.8431,CONT,Reefer,poultry_frozen
+poultry_fresh,poultry,Fresh/chilled poultry,0207 (fresh/chilled lines),3.1555,TER,,poultry_fresh
+eggs,eggs,Eggs in shell,0407,100,CONT,Reefer,eggs
+dairy_fresh,milk,Fresh milk and yogurt,"0401, 0403",21.888,TER,,dairy_fresh
+dairy_powder,milk,Milk powder and whey,"0402, 0404",65.7691,CONT,Dry,dairy_powder
+dairy_cheese,milk,Cheese,0406,12.3429,CONT,Reefer,dairy_cheese_butter
+butter_ghee,butter,Butter and ghee,0405,100,CONT,Reefer,dairy_cheese_butter
+pulses,pulses,Dry pulses,0713,100,CONT,Dry,pulses
+oil_crude,oil,Crude/upstream cooking oil,"H6 whitelist v1, crude lines",13.8512,GL,,oil_crude
+oil_refined,oil,Refined cooking oil,"H6 whitelist v1, refined lines",86.1488,CONT,Dry,oil_refined
+bread_proxy,bread,Packaged bread (proxy),190590,,None,,bread_proxy

@@ -1,0 +1,22 @@
+scope,activity_level,segment,delta_cargo_t_day,source
+Regional envelope,Low,CONT,29109.644,Brecha I/J
+Regional envelope,Base,CONT,39898.797,Brecha I/J
+Regional envelope,High synchronized,CONT,69862.19,Brecha I/J
+Regional envelope,Low,GS,18434.021,Brecha I/J
+Regional envelope,Base,GS,36744.229,Brecha I/J
+Regional envelope,High synchronized,GS,51469.533,Brecha I/J
+Regional envelope,Low,CG_RORO,2102.857,Brecha I
+Regional envelope,Base,CG_RORO,3268.275,Brecha I
+Regional envelope,High synchronized,CG_RORO,4229.596,Brecha I
+C1-only,Low,CONT,22418,Brecha J (rounded as registered)
+C1-only,Base,CONT,28420,Brecha J (rounded as registered)
+C1-only,High synchronized,CONT,34673.69,Brecha J (E34/E36)
+C1-only,Low,GS,18434,Brecha J (rounded as registered)
+C1-only,Base,GS,26708,Brecha J (rounded as registered)
+C1-only,High synchronized,GS,36586.728,Brecha J
+C1 total (sensitivity),Low,CONT,23518.724,Brecha Q
+C1 total (sensitivity),Base,CONT,29521.321,p2_corridors_v0.2.py
+C1 total (sensitivity),High synchronized,CONT,35774.536,p2_corridors_v0.2.py
+C1 total (sensitivity),Low,GS,21924.079,p2_corridors_v0.2.py
+C1 total (sensitivity),Base,GS,30198.25,p2_corridors_v0.2.py
+C1 total (sensitivity),High synchronized,GS,40076.786,p2_corridors_v0.2.py
