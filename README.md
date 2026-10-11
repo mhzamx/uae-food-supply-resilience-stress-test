@@ -4,7 +4,7 @@ Open-data stress test of how much of the UAE's import-dependent demand for prior
 
 Project 2 of the UAE Data Impact Project 2026.
 
-> **Status: release v0.1.** README revision v0.7; analytical model v0.1, frozen on 6 October 2026. The analytical layers, the data model, the Power BI dashboard, the key results and the executive summary are complete and cross-reviewed.
+> **Status: release v0.1.** README revision v0.7.1; analytical model v0.1, frozen on 6 October 2026. The analytical layers, the data model, the Power BI dashboard, the key results and the executive summary are complete and cross-reviewed.
 
 ---
 
@@ -293,5 +293,9 @@ Full wording, definitions and caveats are in the [common narrative](docs/P2_Comm
 - **Map and flags:** world map from [world-atlas](https://github.com/topojson/world-atlas) (ISC licence; Natural Earth data, public domain); flags from [flag-icons](https://github.com/lipis/flag-icons) (MIT).
 - **Data:** the MIT licence covers the code only; it does not relicense any source data. Each source keeps its own terms (checked on 9 October 2026):
   - **IMF PortWatch** (raw snapshot in `data/snapshot_2026-10-05/`, derived series in `outputs/`): the [IMF terms for statistical data](https://www.imf.org/en/about/copyright-and-terms) allow copying, publishing and distributing the data with attribution. Source: International Monetary Fund, PortWatch, https://portwatch.imf.org. The corridor outputs are transformations of the snapshot, described in this README. Commercial reuse needs the IMF's permission.
-  - **FAOSTAT** (values in `data/model_inputs_2026-10-06/` and `results/`): CC BY 4.0 under the [FAO statistical database terms](https://www.fao.org/contact-us/terms/db-terms-of-use). Source: FAO, FAOSTAT Food Balances.
+  - **FAOSTAT** (values in `data/model_inputs_2026-10-06/` and `results/`): CC BY 4.0, used under the [FAO Statistical Database Terms of Use](https://www.fao.org/contact-us/terms/db-terms-of-use), which apply alongside the licence. Citations in the format FAO requests (verified on 11 October 2026):
+    - FAO. 2025. FAOSTAT: Food Balances (2010-). Accessed on 5 October 2026. https://www.fao.org/faostat/en/#data/FBS. Licence: CC-BY-4.0.
+    - FAO. 2025. FAOSTAT: Crops and livestock products. Accessed on 5 October 2026. https://www.fao.org/faostat/en/#data/QCL. Licence: CC-BY-4.0.
+
+    2025 is the year of FAO's last data update for both datasets (data revision dates in the FAO Data Catalog: 16 October 2025 for [Food Balances](https://data.fao.org/catalog/dataset/2f264bb6-1238-459a-bf8b-0e2d0a16804a) and 15 December 2025 for [crop production](https://data.fao.org/catalog/iso/d24a448b-3b62-4c09-8c1d-4a39bb599876)); the data analysed refer to 2023. The values were extracted through FAO's official BigQuery service (sources S56, S72, S73 and S84 in `docs/P2_Source_QC_EN.md`).
   - **UN Comtrade** (supplier shares, concentration indices and route exposure in `data/model_inputs_2026-10-06/` and `results/`): derived indicators, not as-is extracts; UN Comtrade's [use and re-dissemination policy](https://uncomtrade.org/docs/faqs-on-use-and-re-dissemination/) treats these as transformed data.
